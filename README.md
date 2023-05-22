@@ -1,2 +1,2 @@
 # thingpark-global-sim
-Documentation for thingpark global SIM
+Vuepress Documentation for Thingpark Global SIM
