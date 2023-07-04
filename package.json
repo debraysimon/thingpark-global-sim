@@ -1,0 +1,30 @@
+{
+  "name": "tpxle-doc",
+  "version": "0.41.0",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "scripts": {
+    "docs:build:abeeway": "vuepress build docs abeeway",
+    "docs:dev:abeeway": "vuepress dev docs abeeway",
+    "docs:build": "vuepress build docs",
+    "docs:dev": "vuepress dev docs",
+    "update-version": "npm version minor --no-git-tag-version && git add -A"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "pre-commit": "^1.2.2",
+    "vuepress": "^1.8.1",
+    "vuepress-plugin-md-enhance": "^2.0.0-beta.87"
+  },
+  "dependencies": {
+    "vuepress-theme-abeeway": "3.10.0",
+    "vuepress-theme-actility": "6.16.0"
+  },
+  "pre-commit": [
+    "update-version"
+  ]
+}
