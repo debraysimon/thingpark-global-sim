@@ -44,3 +44,5 @@ Follow these steps in order to get your project working:
 * You can access to the website by the link given in your terminal.
 
 ![terminal_link](./img/terminal_link.png)
+
+
