@@ -40,10 +40,10 @@ ways:
 2.  In the Welcome to ThingPark® window that opens, click **Sign in with
     ThingPark**.
 
-    ![](./../../../_images/logging-in-for-the-first-time-6.png)
+    ![](./../_images/logging-in-for-the-first-time-6.png)
 
 3.  In the login window that opens, click **Forgot Password?**.
 
-    ![](./../../../_images/logging-in-for-the-first-time-7.png)
+    ![](./../_images/logging-in-for-the-first-time-7.png)
 
 4.  Apply the guidelines that appear on screen.
