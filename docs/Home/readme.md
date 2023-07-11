@@ -34,10 +34,10 @@
             <img src="./images/Icon-Forum.png" style="width: 100px;height: 100px;" />
         </div>
         <div class="grid-item">
-            <a href="/thingpark-global-sim/B-Feature-Topics/TP-Global-Sim_C/Overview" class="textColorStyle" >What is ThingPark Global SIM?</a>
+            <a href="/thingpark-global-sim/B-Feature-Topics/TP-Global-Sim_C/Overview.html" class="textColorStyle" >What is ThingPark Global SIM?</a>
         </div>
         <div class="grid-item">
-            <a href="/thingpark-global-sim/D-Reference/DocLibrary_R/" class="textColorStyle">Documentation library</a>
+            <a href="/thingpark-global-sim/D-Reference/DocLibrary_R/README.html" class="textColorStyle">Documentation library</a>
         </div>
         <div class="grid-item">
             <a href="/thingpark-global-sim/D-Reference/FAQ_R/" class="textColorStyle" >FAQ</a>
