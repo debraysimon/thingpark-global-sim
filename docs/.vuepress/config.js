@@ -483,6 +483,16 @@ module.exports = {
                         },
                     ],
                 },
+                {
+                    title: 'Use Cases',
+                    collapsable: true,
+                    children: [
+                        {
+                            title: 'Setup cellular backhaul with LoRaWAN Gateway',
+                            path: '/D-Reference/UseCaseLoRaBackhaul/',
+                        },
+                    ],
+                },
             ],
         }
     },
