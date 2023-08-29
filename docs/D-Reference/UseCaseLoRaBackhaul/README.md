@@ -14,7 +14,14 @@ The instructions for provisioning the gateway in ThingPark Wireless/ThingPark En
 ## Step 3: Configure the cellular modem in the Gateway
 Once the LRR image installed, please do the following steps in the LoRaWAN gateway. These steps need to be done only one time.
 
-|Description|Command</br>(MultiTech Gateway models)|
+:::warning Warning
+- The commands should be entered by logging into the gateway with the root login/password. The root login/password of the gateway is present in the delivery note that is shipped along with the gateway.
+- The AT commands above should return **OK**. If they do not return OK, then ensure SIM card is inserted properly and ensure the modem detects the SIM card properly and is detected by the OS correctly. If the problem persists, please do not proceed further and contact [Actility Support](/D-Reference/FAQ_R/).
+- The AT command manuals for different Gateway models are [here](/D-Reference/DocLibrary_R/#cellular-modem-at-command-manuals). Please contact [Actility Support](/D-Reference/FAQ_R/) if the AT command manual is not available for your LoRaWAN Gateway model. 
+:::
+
+### Multitech Gateway (All models)
+|Description|Command</br>(MultiTech Gateway models)</br>Cellular Modem: Telit LE910|
 |-----------|--------------------------------------|
 |Stop the failover script </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 stop |
 |Get International Mobile Equipment Identifier (IMEI)   | radio-cmd ' AT+GSN' |
@@ -23,10 +30,45 @@ Once the LRR image installed, please do the following steps in the LoRaWAN gatew
 |Force modem to LTE only mode (optional) | radio-cmd ' AT+WS46=28 ‘ |
 |Start the failover script once AT commands are done </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 start |
 
-:::warning Warning
-- The AT commands above should return **OK**. If they do not return OK, then ensure SIM card is inserted properly and ensure the modem detects the SIM card properly and is detected by the OS correctly.
-- The AT command manuals for different Gateway models are [here](/D-Reference/DocLibrary_R/#cellular-modem-at-command-manuals). Please contact [Actility Support](/D-Reference/FAQ_R/) if the AT command manual is not available for your LoRaWAN Gateway model. 
+### Ufispace Gateway (All models)
+|Description|Command</br>(Ufispace Gateway models)</br>Cellular Modem: Huawei E3372 USB dongle, Huawei ME906s|
+|-----------|--------------------------------------|
+|Stop the failover script </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 stop |
+|Get International Mobile Equipment Identifier (IMEI)   | chat -V -s '' ' AT+GSN ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
+|Get International mobile subscriber identity (IMSI)   | chat -V -s '' ' AT\^CIMI ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
+|Force modem to Packet Switched (PS) only ATTACH | chat -V -s '' ' AT\^SYSCFGEX=\"00\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2 |
+|Force modem to LTE only mode (optional) | chat -V -s '' ' AT\^SYSCFGEX=\"03\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
+|Start the failover script once AT commands are done </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 start |
+
+### Gemtek Gateway (Model: gemodu, gempiconext)
+:::warning Note
+The table below supports the following models:
+- gemodu (Outdoor Micro Gateway)
+- gempiconext (Pico Next Indoor Gateway)
 :::
+|Description|Command</br>(Gemtek model: gemodu, gempiconext )</br>Cellular Modem: Quectel EC25|
+|-----------|--------------------------------------|
+|Stop the failover script </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 stop |
+|Get International Mobile Equipment Identifier (IMEI)   | chat -V -s '' ' AT+GSN ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
+|Get International mobile subscriber identity (IMSI)   | chat -V -s '' ' AT+CIMI ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
+|Force modem to Packet Switched (PS) only ATTACH | chat -V -s '' ' AT+QCFG=\"servicedomain\",1,1 ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2 |
+|Force modem to enable roaming | chat -V -s '' ' AT+QCFG=\"roamservice\",2,1 ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2 |
+|Force modem to LTE only mode (optional) | chat -V -s '' ' AT+QCFG=\"nwscanmode\",3,1 ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
+|Start the failover script once AT commands are done </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 start |
+
+### Gemtek Gateway (Model: gemfemto)
+:::warning Note
+The table below supports the following models:
+- gemfemto (Indoor Femto Gateway)
+:::
+|Description|Command</br>(Gemtek model: gemfemto)</br>Cellular Modem: Huawei E3372 USB dongle|
+|-----------|--------------------------------------|
+|Stop the failover script </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 stop |
+|Get International Mobile Equipment Identifier (IMEI)   | chat -V -s '' ' AT+GSN ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
+|Get International mobile subscriber identity (IMSI)   | chat -V -s '' ' AT\^CIMI ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
+|Force modem to Packet Switched (PS) only ATTACH | chat -V -s '' ' AT\^SYSCFGEX=\"00\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2 |
+|Force modem to LTE only mode (optional) | chat -V -s '' ' AT\^SYSCFGEX=\"03\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
+|Start the failover script once AT commands are done </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 start |
 
 ## Step 4: Configure the LoRa Gateway
 
@@ -38,7 +80,7 @@ Login to the Gateway support menu and ensure the following:
 ## Step 5: Provision the Actility SIM Card
 :::warning Warning
 - This step is restricted to [Actility Support](/D-Reference/FAQ_R/) unless you have a dedicated account for your SIM Cards.
-- For more information on ThingPark Wireless Device Manager, see [here](/B-Feature-Topics/DeviceManager_C/Overview)
+- For more information on ThingPark Wireless Device Manager, see [here](/B-Feature-Topics/DeviceManager_C/Overview.md)
 :::
 
 Login to the following URL [https://iot.thingpark.com/portal/web](https://iot.thingpark.com/portal/web) with your credentials and create a new cellular device as shown in the figure below.
