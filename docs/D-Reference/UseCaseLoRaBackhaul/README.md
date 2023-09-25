@@ -27,7 +27,7 @@ Once the LRR image installed, please do the following steps in the LoRaWAN gatew
 |Get International Mobile Equipment Identifier (IMEI)   | radio-cmd ' AT+GSN' |
 |Get International mobile subscriber identity (IMSI)   | radio-cmd ' AT+CIMI' |
 |Force modem to Packet Switched (PS) only ATTACH | radio-cmd ' AT+CEMODE=0’|
-|Force modem to LTE only mode (optional) | radio-cmd ' AT+WS46=28 ‘ |
+|Force modem to LTE only mode | radio-cmd ' AT+WS46=28 ‘ |
 |Start the failover script once AT commands are done </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 start |
 
 ### Ufispace Gateway (All models)
@@ -37,7 +37,7 @@ Once the LRR image installed, please do the following steps in the LoRaWAN gatew
 |Get International Mobile Equipment Identifier (IMEI)   | chat -V -s '' ' AT+GSN ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
 |Get International mobile subscriber identity (IMSI)   | chat -V -s '' ' AT\^CIMI ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
 |Force modem to Packet Switched (PS) only ATTACH | chat -V -s '' ' AT\^SYSCFGEX=\"00\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2 |
-|Force modem to LTE only mode (optional) | chat -V -s '' ' AT\^SYSCFGEX=\"03\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
+|Force modem to LTE only mode  | chat -V -s '' ' AT\^SYSCFGEX=\"03\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
 |Start the failover script once AT commands are done </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 start |
 
 ### Gemtek Gateway (Model: gemodu, gempiconext)
@@ -53,7 +53,7 @@ The table below supports the following models:
 |Get International mobile subscriber identity (IMSI)   | chat -V -s '' ' AT+CIMI ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
 |Force modem to Packet Switched (PS) only ATTACH | chat -V -s '' ' AT+QCFG=\"servicedomain\",1,1 ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2 |
 |Force modem to enable roaming | chat -V -s '' ' AT+QCFG=\"roamservice\",2,1 ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2 |
-|Force modem to LTE only mode (optional) | chat -V -s '' ' AT+QCFG=\"nwscanmode\",3,1 ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
+|Force modem to LTE only mode  | chat -V -s '' ' AT+QCFG=\"nwscanmode\",3,1 ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
 |Start the failover script once AT commands are done </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 start |
 
 ### Gemtek Gateway (Model: gemfemto)
@@ -67,7 +67,7 @@ The table below supports the following models:
 |Get International Mobile Equipment Identifier (IMEI)   | chat -V -s '' ' AT+GSN ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
 |Get International mobile subscriber identity (IMSI)   | chat -V -s '' ' AT\^CIMI ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
 |Force modem to Packet Switched (PS) only ATTACH | chat -V -s '' ' AT\^SYSCFGEX=\"00\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2 |
-|Force modem to LTE only mode (optional) | chat -V -s '' ' AT\^SYSCFGEX=\"03\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
+|Force modem to LTE only mode  | chat -V -s '' ' AT\^SYSCFGEX=\"03\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
 |Start the failover script once AT commands are done </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 start |
 
 ## Step 4: Configure the LoRa Gateway
