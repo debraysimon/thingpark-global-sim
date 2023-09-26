@@ -24,7 +24,7 @@ Once the LRR image installed, please do the following steps in the LoRaWAN gatew
 |Description|Command</br>(MultiTech Gateway models)</br>Cellular Modem: Telit LE910|
 |-----------|--------------------------------------|
 |Stop the failover script </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 stop |
-|Get International Mobile Equipment Identifier (IMEI)   | radio-cmd ' AT+GSN' |
+|Get International Mobile Equipment Identifier (IMEI)   | radio-cmd ' AT+CGSN' |
 |Get International mobile subscriber identity (IMSI)   | radio-cmd ' AT+CIMI' |
 |Force modem to Packet Switched (PS) only ATTACH | radio-cmd ' AT+CEMODE=0’|
 |Force modem to LTE only mode | radio-cmd ' AT+WS46=28 ‘ |
