@@ -1,0 +1,51 @@
+.special_for_zone_coloration + table th {
+
+  &:nth-last-child(1) {
+    background: red;
+  }
+
+  &:nth-last-child(2) {
+    background: orange;
+  }
+
+  &:nth-last-child(3) {
+    background: green;
+  }
+}
+
+
+footer.page-edit {
+  max-width: 80%;
+}
+
+div.page-nav {
+  max-width: 80%;
+}
+
+div.theme-default-content:not(.custom) {
+  max-width: 90%;
+}
+
+table tr td:first-child img {
+  width: 50px;
+}
+
+//.container, {
+//  max-width: 100%;
+//}
+//
+//@media (min-width: 997px) {
+//  .docItemCol_node_modules-\@docusaurus-theme-classic-lib-theme-DocItem-Layout-styles-module {
+//    max-width: 100% !important;
+//  }
+//}
+
+main > .container {
+  max-width: initial !important;
+}
+
+//@media (min-width: 997px) {
+//  .docItemCol_node_modules-\@docusaurus-theme-classic-lib-theme-DocItem-Layout-styles-module {
+//    max-width: initial !important;
+//  }
+//}

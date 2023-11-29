@@ -75,117 +75,25 @@ more information, see [Downlink LoRaWAN® multicast
 packets](downlink-lorawan-multicast-packets.md) and [Passive roaming
 LoRaWAN® packets](passive-roaming-lorawan-packets.md).
 
-<table>
-<thead>
-<tr>
-<th>Metadata</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Message direction</strong></td>
-<td>Green arrow shows the downlink packet (from the LRC to the device);
-the green arrow the uplink packet (from the device to the LRC).</td>
-</tr>
-<tr>
-<td><strong>Message type</strong></td>
-<td><ul>
-<li><strong>data</strong> indicates that the packet contains some
-application payload sent by application server.</li>
-<li><strong>mac</strong> indicates that the packet contains some MAC
-layer service commands (such as ADR modification).</li>
-<li><strong>join</strong> indicates the Join Accept message (for OTA
-devices).</li>
-</ul></td>
-</tr>
-<tr>
-<td><strong>UTC Timestamp</strong></td>
-<td>UTC timestamp, using ISO 8601 format.</td>
-</tr>
-<tr>
-<td><strong>Local Timestamp</strong></td>
-<td>Timestamp translated to browser time zone, using ISO 8601
-format.</td>
-</tr>
-<tr>
-<td><strong>DevAddr</strong></td>
-<td>Device address (4bytes).</td>
-</tr>
-<tr>
-<td><strong>DevEUI</strong></td>
-<td>Device EUI (8bytes) is a global end-device ID in IEEE EUI64 address
-space that uniquely identifies the end-device.
-<p>If the network server acts as a forwarding network server (fNS) and
-the message type is data, the DevEUI is only available if LoRaWAN®
-Backend Interfaces version &gt; 1.0.</p></td>
-</tr>
-<tr>
-<td><strong>FPort</strong></td>
-<td>Application port of the packet.</td>
-</tr>
-<tr>
-<td><strong>NFCnt</strong></td>
-<td>Downlink frame counter maintained by the LRC network server.
-<ul>
-<li><strong>For LoRaWAN® 1.0</strong>: <strong>NFCnt</strong> is filled
-with the downlink frame counter (always present).</li>
-<li><strong>For LoRaWAN® 1.1</strong>: <strong>NFCnt</strong> is filled
-with <strong>NFCntDown</strong> value (can be empty if the downlink
-packet contains application payload).</li>
-</ul></td>
-</tr>
-<tr>
-<td><strong>AFCnt</strong></td>
-<td>Downlink frame counter maintained by the application server.
-<ul>
-<li><strong>For LoRaWAN® 1.0</strong>: always empty.</li>
-<li><strong>For LoRaWAN® 1.1</strong>: <strong>AFCnt</strong> is filled
-with <strong>AFCntDown</strong> value (can be empty if the downlink
-frame does not contain application payload).</li>
-</ul></td>
-</tr>
-<tr>
-<td><strong>SF/DR</strong></td>
-<td>Spreading Factor or Data Rate of the downlink packet.</td>
-</tr>
-<tr>
-<td><strong>Sub Band</strong></td>
-<td>Radio frequency sub band corresponding to the logical channel used
-to transmit the downlink packet to the device.</td>
-</tr>
-<tr>
-<td><strong>Channel</strong></td>
-<td>Logical Channel (LC) used to transmit the downlink packet to the
-device.<br/>
-<strong>Note</strong> The following color legend applies to downlink
-packet transmitted after the upgrade to release 6.0:
-<ul>
-<li>When the downlink packet is <strong>sent over RX1 slot</strong>, the
-LC-ID is displayed over <strong>white background</strong>.</li>
-<li>When the downlink packet is <strong>sent over RX2 slot</strong>:
-<ul>
-<li>In case of Join Accept message, RX2 is displayed over <strong>orange
-background</strong>.</li>
-<li>For all other cases, the LC-ID is displayed over <strong>orange
-background</strong>.</li>
-</ul></li>
-<li>When the downlink packet is <strong>sent over a class B
-pingslot</strong>, the LC-ID is displayed over <strong>blue
-background</strong>.</li>
-</ul></td>
-</tr>
-<tr>
-<td><strong>LRC Id</strong></td>
-<td>Identifier of the LRC network server.</td>
-</tr>
-<tr>
-<td><strong>LRR Id</strong></td>
-<td>ID of the best-LRR base station sending the downlink packet to the
-device.</td>
-</tr>
-</tbody>
-</table>
+| Metadata                 | Description                                                                                                                                                                    |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Message direction**    | Green arrow shows the downlink packet (from the LRC to the device); the green arrow the uplink packet (from the device to the LRC).                                            |
+| **Message type**         | - **data**: indicates that the packet contains some application payload sent by application server.                                                                            |
+|                          | - **mac**: indicates that the packet contains some MAC layer service commands (such as ADR modification).                                                                       |
+|                          | - **join**: indicates the Join Accept message (for OTA devices).                                                                                                               |
+| **UTC Timestamp**        | UTC timestamp, using ISO 8601 format.                                                                                                                                          |
+| **Local Timestamp**      | Timestamp translated to the browser time zone, using ISO 8601 format.                                                                                                           |
+| **DevAddr**              | Device address (4 bytes).                                                                                                                                                      |
+| **DevEUI**               | Device EUI (8 bytes) is a global end-device ID in IEEE EUI64 address space that uniquely identifies the end-device. If the network server acts as a forwarding network server (fNS) and the message type is data, the DevEUI is only available if LoRaWAN® Backend Interfaces version > 1.0. |
+| **FPort**                | Application port of the packet.                                                                                                                                               |
+| **NFCnt**                | Downlink frame counter maintained by the LRC network server.                                                                                                                    |
+| **AFCnt**                | Downlink frame counter maintained by the application server.                                                                                                                     |
+| **SF/DR**                | Spreading Factor or Data Rate of the downlink packet.                                                                                                                           |
+| **Sub Band**             | Radio frequency sub band corresponding to the logical channel used to transmit the downlink packet to the device.                                                               |
+| **Channel**              | Logical Channel (LC) used to transmit the downlink packet to the device. **Note:** The following color legend applies to downlink packets transmitted after the upgrade to release 6.0: When the downlink packet is sent over RX1 slot, the LC-ID is displayed over white background. When the downlink packet is sent over RX2 slot: In case of Join Accept message, RX2 is displayed over orange background. For all other cases, the LC-ID is displayed over orange background. When the downlink packet is sent over a class B pingslot, the LC-ID is displayed over blue background. |
+| **LRC Id**               | Identifier of the LRC network server.                                                                                                                                         |
+| **LRR Id**               | ID of the best-LRR base station sending the downlink packet to the device.                                                                                                     |
+
 
 ## Downlink message type
 
@@ -273,126 +181,9 @@ panel:
   The following table details the different delivery failure causes on
   RX1/RX2/Pingslots:
 
-  <table>
-          <thead>
-  <tr>
-  <th>Cause value</th>
-  <th>Category name</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><strong>Over the air delivery error causes for RX1 downlink
-  slot</strong>
-  <p>All device classes</p></td>
-  <td><p><strong>Transmission slot busy on RX1</strong></p>
-  <ul>
-  <li><p>(A0) <strong>Radio stopped</strong></p></li>
-  <li><p>(A1) <strong>Downlink radio stopped</strong></p></li>
-  <li><p>(A3) <strong>Radio busy</strong></p></li>
-  <li><p>(A4) <strong>Listen before talk</strong></p></li>
-  <li><p>(A5) <strong>Radio board error</strong></p></li>
-  <li><p>(A6) Specific Semtech basic station failure cause</p></li>
-  </ul>
-  <p><strong>Received too late for RX1</strong></p>
-  <ul>
-  <li><p>(B0) <strong>Too late for RX1</strong></p></li>
-  </ul>
-  <p><strong>LRC selects RX2</strong></p>
-  <ul>
-  <li><p>(C0) <strong>LRC selected RX2</strong></p></li>
-  </ul>
-  <p><strong>DC or gateway constraint on RX1</strong></p>
-  <ul>
-  <li><p>(D0) <strong>Duty cycle constraint detected by
-  LRR</strong></p></li>
-  <li><p>(DA) <strong>Duty cycle constraint detected by
-  LRC</strong></p></li>
-  <li><p>(DB) <strong>Max dwell time constraint detected by the
-  LRC</strong></p></li>
-  <li><p>(DE) <strong>DC not allowed by the peering
-  operator</strong></p></li>
-  <li><p>(DF) <strong>Wrong NetID</strong></p></li>
-  </ul>
-  <p><strong>Frame discarded from the downlink queue</strong></p>
-  <ul>
-  <li><p>(E1): Queue full</p></li>
-  <li><p>(E2): Invalid FCntDn</p></li>
-  <li><p>(E3): Validity time expired</p></li>
-  <li><p>(E4): Queue reset following a rejoin</p></li>
-  </ul></td>
-  </tr>
-  <tr>
-  <td><strong>Over the air delivery error causes for RX2 downlink
-  slot</strong>
-  <p>All device classes</p></td>
-  <td><p><strong>Transmission slot busy on RX2</strong></p>
-  <ul>
-  <li><p>(A0) <strong>Radio stopped</strong></p></li>
-  <li><p>(A1) <strong>Downlink radio stopped</strong></p></li>
-  <li><p>(A3) <strong>Radio busy</strong></p></li>
-  <li><p>(A4) <strong>Listen before talk</strong></p></li>
-  <li><p>(A5) <strong>Radio board error</strong></p></li>
-  <li><p>(A6) Specific Semtech basic station failure cause  </p></li>
-  </ul>
-  <p>Received too late for RX2</p>
-  <ul>
-  <li><p>(B0) <strong>Too late for RX2</strong></p></li>
-  </ul>
-  <p>DC or gateway constraint on RX2</p>
-  <ul>
-  <li><p>(D0) <strong>Duty cycle constraint detected by
-  LRR</strong></p></li>
-  <li><p>(DA) <strong>Duty cycle constraint detected by
-  LRC</strong></p></li>
-  <li><p>(DB) <strong>Max dwell time constraint detected by the
-  LRC</strong></p></li>
-  <li><p>(DE) <strong>DC not allowed by the peering
-  operator</strong></p></li>
-  <li><p>(DF) <strong>Wrong NetID</strong></p></li>
-  </ul></td>
-  </tr>
-  <tr>
-  <td><strong>Over the air delivery error causes for RX2 downlink
-  slot</strong>
-  <p>Class C devices only</p></td>
-  <td><p><strong>Class C device - Frame expired before
-  transmission</strong></p>
-  <ul>
-  <li><p>(E0) <strong>Max delay for Class C</strong> (60 seconds)</p></li>
-  </ul></td>
-  </tr>
-  <tr>
-  <td><strong>Over the air delivery error causes for downlink
-  pingslots</strong>
-  <p>Class B devices only</p></td>
-  <td><p><strong>Transmission slot busy on ping slot</strong></p>
-  <ul>
-  <li><p>(A0) <strong>Radio stopped</strong></p></li>
-  <li><p>(A1) <strong>Downlink radio stopped</strong></p></li>
-  <li><p>(A2) <strong>Ping slot not available</strong></p></li>
-  <li><p>(A3) <strong>Radio busy</strong></p></li>
-  <li><p>(A4) <strong>Listen before talk</strong></p></li>
-  <li><p>(A5) <strong>Radio board error</strong></p></li>
-  </ul>
-  <p><strong>Received too late for ping slot</strong></p>
-  <ul>
-  <li><p>(B0) <strong>Too late for ping slot</strong></p></li>
-  </ul>
-  <p><strong>DC or Gateway constraint on ping slot</strong></p>
-  <ul>
-  <li><p>(D0) <strong>Duty cycle constraint detected by
-  LRR</strong></p></li>
-  <li><p>(DA) <strong>Duty cycle constraint detected by
-  LRC</strong></p></li>
-  <li><p>(DB) <strong>Max dwell time constraint detected by the
-  LRC</strong></p></li>
-  <li><p>(DC) <strong>No GPS-synchronized LRR detected by the
-  LRC</strong></p></li>
-  <li><p>(DD) <strong>No LRR connected detected by the
-  LRC</strong></p></li>
-  <li><p>(DF) <strong>Wrong NetID</strong></p></li>
-  </ul></td>
-  </tr>
-  </tbody>
-  </table>
+| Cause value                                                                                                                                     | Category name                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Over the air delivery error causes<br/> for RX1 downlink slot <br/><br/>All device classes**                                                            | **Transmission slot busy on RX1**<br/>- (A0) Radio stopped<br/>- (A1) Downlink radio stopped<br/>- (A3) Radio busy<br/>- (A4) Listen before talk<br/>- (A5) Radio board error..<br/>- (A6) Specific Semtech basic station failure cause<br/><br/>**Received too late for RX1**<br/>- (B0) Too late for RX1<br/><br/>**LRC selects RX2**<br/>- (C0) LRC selected RX2<br/><br/>**DC or gateway constraint on RX1**<br/>- (D0) Duty cycle constraint detected by LRR<br/>- (DA) Duty cycle constraint detected by LRC<br/>- (DB) Max dwell time constraint detected by the LRC<br/>- (DE) DC not allowed by the peering operator<br/>- (DF) Wrong NetID<br/><br/>**Frame discarded from the downlink queue**<br/>- (E1): Queue full<br/>- (E2): Invalid FCntDn<br/>- (E3): Validity time expired<br/>- (E4): Queue reset following a rejoin |
+| **Over the air delivery error causes<br/> for RX2 downlink slot <br/><br/>All device classes**                                                            | **Transmission slot busy on RX2**<br/>- (A0) Radio stopped<br/>- (A1) Downlink radio stopped<br/>- (A3) Radio busy<br/>- (A4) Listen before talk<br/>- (A5) Radio board error..<br/>- (A6) Specific Semtech basic station failure cause<br/><br/>**Received too late for RX2**<br/>- (B0) Too late for RX2<br/><br/>**DC or gateway constraint on RX2**<br/>- (D0) Duty cycle constraint detected by LRR<br/>- (DA) Duty cycle constraint detected by LRC<br/>- (DB) Max dwell time constraint detected by the LRC<br/>- (DE) DC not allowed by the peering operator<br/>- (DF) Wrong NetID                                                                                                                                                                                                                                              |
+| **Over the air delivery error causes<br/> for RX2 downlink slot <br/><br/>Class C devices only**                                                          | **Class C device - Frame expired before transmission** <br/> -(E0) Max delay for Class C (60 seconds)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Class C device - Frame expired before transmission<br/> Over the air delivery error causes <br/>for downlink pingslots <br/><br/>Class B devices only** | **Transmission slot busy on ping slot**<br/>- (A0) Radio stopped<br/>- (A1) Downlink radio stopped<br/>- (A2) Ping slot not available<br/>- (A3) Radio busy<br/>- (A4) Listen before talk<br/>- (A5) Radio board error..<br/><br/>**Received too late for ping slot**<br/>- (B0) Too late for ping slot<br/><br/>**DC or Gateway constraint on ping slot**<br/>- (D0) Duty cycle constraint detected by LRR<br/>- (DA) Duty cycle constraint detected by LRC<br/>- (DB) Max dwell time constraint detected by the LRC<br/>- (DC) No GPS-synchronized LRR detected by the LRC<br/>- (DD) No LRR connected detected by the LRC<br/>- (DF) Wrong NetID                                                                                                                                                                                      |

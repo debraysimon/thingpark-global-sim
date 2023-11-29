@@ -31,7 +31,7 @@ The first step is to provision the devices in ThingPark Wireless. You can access
 ::: warning Note
 <sup>(1)</sup> This field is only for informational purposes and has no impact on the functioning of the cellular device
 
-<sup>(2)</sup> The manufacturer/model needs to be created by the operator admin in the operator manager. You can ask [support]() to create the manufacturer/model of the device or you can select the generic make/model of the cellular device
+<sup>(2)</sup> The manufacturer/model needs to be created by the operator admin in the operator manager. You can ask support to create the manufacturer/model of the device or you can select the generic make/model of the cellular device
 
 <sup>(3)</sup> This step implies that the cellular SIM card keys are pre-provisioning the [Connectivity supplier](https://docs.thingpark.com/thingpark-wireless/7.2/docs/user-guide-tpw/supplier/use-connectivity-manager/pre-provision-cellular-devices#importing-sim-cards)
 

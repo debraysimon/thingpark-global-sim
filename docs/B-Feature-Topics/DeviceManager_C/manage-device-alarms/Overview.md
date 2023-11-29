@@ -59,54 +59,15 @@ find the root cause to troubleshoot the device.
 Alarm states are related to severity levels and associated with the
 following color codes:
 
-<table>
-<thead>
-<tr>
-<th>Alarm state</th>
-<th>Definition</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Critical</strong> (Red)</td>
-<td>The service is affected, and an immediate corrective action is
-required.</td>
-</tr>
-<tr>
-<td><strong>Major</strong> (Orange)</td>
-<td>The service is partly affected, and an urgent action is
-required.</td>
-</tr>
-<tr>
-<td><strong>Minor</strong> (Yellow)</td>
-<td>A fault that does not affect the service should be corrected to
-prevent a more serious problem.</td>
-</tr>
-<tr>
-<td><strong>Warning</strong> (Blue)</td>
-<td>A potential or impending fault affecting the service should be
-diagnosed and corrected if necessary.</td>
-</tr>
-<tr>
-<td><strong>Indeterminate</strong> (Purple)</td>
-<td>The severity cannot be determined.</td>
-</tr>
-<tr>
-<td><strong>Cleared</strong> (Green)</td>
-<td>The alarm has satisfied the clearing conditions and has been cleared
-by the system.
-<p><strong>Notes</strong></p>
-<ul>
-<li><p>The current status of a cleared alarm is available in the Active
-alarms panel.</p></li>
-<li><p>The last status before clearance of a cleared alarm is available
-in the Alarms history panel during 15 days after clearance.<br />
-Because this panel stores status before clearance, they all display
-status different from cleared.</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+| Alarm state                | Definition                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Critical** (Red)         | The service is affected, and an immediate corrective action is required.                                                                                                                                                                                                                                                                                                                                                               |
+| **Major** (Orange)         | The service is partly affected, and an urgent action is required.                                                                                                                                                                                                                                                                                                                                                                      |
+| **Minor** (Yellow)         | A fault that does not affect the service should be corrected to prevent a more serious problem.                                                                                                                                                                                                                                                                                                                                        |
+| **Warning** (Blue)         | A potential or impending fault affecting the service should be diagnosed and corrected if necessary.                                                                                                                                                                                                                                                                                                                                   |
+| **Indeterminate** (Purple) | The severity cannot be determined.                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Cleared** (Green)        | The alarm has satisfied the clearing conditions and has been cleared by the system. <br/><br/>**Notes:**<br/> - The current status of a cleared alarm is available in the Active alarms panel. <br/> - The last status before clearance of a cleared alarm is available in the Alarms history panel during 15 days after clearance. Because this panel stores status before clearance, they all display status different from cleared. |
+
 
 ## Alarm lifecycle
 

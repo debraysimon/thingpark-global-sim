@@ -39,8 +39,8 @@ This information is provided by your operator.
 </thead>
 <tbody>
 <tr>
-<td>Subnet<br />
-DHCP pool<br />
+<td>Subnet<br/>
+DHCP pool<br/>
 DNS server 1</td>
 <td>DNS server 2</td>
 </tr>

@@ -16,7 +16,7 @@ This video answers the following questions:
 - What is the scope of ThingPark Wireless?
 - Who does what?
 
-```mdx-code-block
+```html
 import LiteYouTubeEmbed from 'react-lite-youtube-embed';
 
 <div className="video-container">

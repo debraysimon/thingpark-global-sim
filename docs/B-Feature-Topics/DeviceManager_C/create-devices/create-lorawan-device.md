@@ -27,7 +27,7 @@ network:
 <tbody>
 <tr>
 <td><strong>Activation By Personalization (ABP)</strong></td>
-<td><p>The configuration of the device is static.<br />
+<td><p>The configuration of the device is static.<br/>
 The device’s activation keys are stored in it at production time and
 cannot be changed. The device is customized and manufactured to be
 attached to a specific network.</p></td>
@@ -36,7 +36,7 @@ enter.</p></td>
 </tr>
 <tr>
 <td><strong>Over The Air Activation (OTAA)</strong></td>
-<td><p>The configuration of the device is dynamic.<br />
+<td><p>The configuration of the device is dynamic.<br/>
 The device requests activation keys to the server for configuring the
 device by the means of the Join Procedure. The activation keys are
 regularly changed per every activation request. The device is not

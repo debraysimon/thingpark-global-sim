@@ -89,66 +89,12 @@ Transmission status shows multicast downlink transmission status:
 | **SUCCESS**         | All LRRs successfully transmitted the downlink packet.                                                                                                      |
 | **ABORTED**         | Some LRRs failed to transmit the downlink. No more attempt will be made to transmit the packet to theses LRRs (maximum number of attempts already reached). |
 
- 
-
-The following table lists the various causes and their explanation:
-
-<table>
-<thead>
-<tr>
-<th>Cause value</th>
-<th>Category name</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Ax</strong></td>
-<td><strong>Transmission slot busy</strong>
-<ul>
-<li><p>(A0) <strong>Radio stopped</strong></p></li>
-<li><p>(A1) <strong>Downlink radio stopped</strong></p></li>
-<li><p>(A2) <strong>Ping slot not available</strong> (Class B multicast
-only)</p></li>
-<li><p>(A3) <strong>Radio busy</strong></p></li>
-<li><p>(A4) <strong>Listen before talk</strong></p></li>
-<li><p>(A5) <strong>Radio board error</strong></p></li>
-</ul></td>
-</tr>
-<tr>
-<td><p><strong>Bx (Multicast class B only)</strong></p></td>
-<td><strong>Received too late for ping slot</strong>
-<ul>
-<li><p>(B0) <strong>Too late for ping slot</strong></p></li>
-</ul></td>
-</tr>
-<tr>
-<td><strong>Dx</strong></td>
-<td><strong>Duty cycle or gateway constraint</strong>
-<ul>
-<li><p>(D0) <strong>Duty cycle constraint detected by
-LRR</strong></p></li>
-<li><p>(DA) <strong>Duty cycle constraint detected by
-LRC</strong></p></li>
-<li><p>(DB) <strong>Max dwell time constraint detected by the
-LRC</strong></p></li>
-<li><p>(DC) <strong>No GPS-synchronized LRR detected by the LRC</strong>
-(Class B multicast only)</p></li>
-<li><p>(DD) <strong>No LRR connected detected by the
-LRC</strong></p></li>
-<li><p>(DF) <strong>Wrong NetID</strong></p></li>
-</ul></td>
-</tr>
-<tr>
-<td><p><strong>Ex (Multicast class C only)</strong></p></td>
-<td><strong>Frame expired before transmitting</strong>
-<ul>
-<li><p>(E0) <strong>Max delay for Class C</strong> - 60 seconds</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
- 
+| Cause value | Category name                                                                                                                                                                                                                                                                                                                                                                              |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Ax**      | **Transmission slot busy**<br/>  - (A0) **Radio stopped**<br/>  - (A1) **Downlink radio stopped**<br/>  - (A2) **Ping slot not available** (Class B multicast only)<br/>  - (A3) **Radio busy**<br/>  - (A4) **Listen before talk**<br/>  - (A5) **Radio board error**                                                                                                                     |
+| **Bx**      | **Received too late for ping slot**<br/>  - (B0) **Too late for ping slot**<br/>                                                                                                                                                                                                                                                                                                           |
+| **Dx**      | **Duty cycle or gateway constraint**<br/>  - (D0) **Duty cycle constraint detected by LRR**<br/>  - (DA) **Duty cycle constraint detected by LRC**<br/>  - (DB) **Max dwell time constraint detected by the LRC**<br/>  - (DC) **No GPS-synchronized LRR detected by the LRC** (Class B multicast only)<br/>  - (DD) **No LRR connected detected by the LRC**<br/>  - (DF) **Wrong NetID** |
+| **Ex**      | **Frame expired before transmitting**<br/>  - (E0) **Max delay for Class C** - 60 seconds                                                                                                                                                                                                                                                                                                  |
 
 **Example** In the following multicast summary report, we can see that a
 transmission slot has been twice busy (**A3**) while the failure causes
