@@ -21,24 +21,24 @@ Once the LRR image installed, please do the following steps in the LoRaWAN gatew
 :::
 
 ### Multitech Gateway (All models)
-|Description|Command</br>(MultiTech Gateway models)</br>Cellular Modem: Telit LE910|
-|-----------|--------------------------------------|
-|Stop the failover script </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 stop |
-|Get International Mobile Equipment Identifier (IMEI)   | radio-cmd ' AT+CGSN' |
-|Get International mobile subscriber identity (IMSI)   | radio-cmd ' AT+CIMI' |
-|Force modem to Packet Switched (PS) only ATTACH | radio-cmd ' AT+CEMODE=0’|
-|Force modem to LTE only mode | radio-cmd ' AT+WS46=28 ‘ |
-|Start the failover script once AT commands are done </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 start |
+|Description| Command<br/>(MultiTech Gateway models)<br/>Cellular Modem: Telit LE910 |
+|-----------|------------------------------------------------------------------------|
+|Stop the failover script <br/>(Optional, Only needs to be done if AT commands return error)| /etc/init.d/ipfailover2 stop                                           |
+|Get International Mobile Equipment Identifier (IMEI)   | radio-cmd ' AT+CGSN'                                                   |
+|Get International mobile subscriber identity (IMSI)   | radio-cmd ' AT+CIMI'                                                   |
+|Force modem to Packet Switched (PS) only ATTACH | radio-cmd ' AT+CEMODE=0’                                               |
+|Force modem to LTE only mode | radio-cmd ' AT+WS46=28 ‘                                               |
+|Start the failover script once AT commands are done <br/>(Optional, Only needs to be done if AT commands return error)| /etc/init.d/ipfailover2 start                                          |
 
 ### Ufispace Gateway (All models)
-|Description|Command</br>(Ufispace Gateway models)</br>Cellular Modem: Huawei E3372 USB dongle, Huawei ME906s|
+|Description|Command<br/>(Ufispace Gateway models)<br/>Cellular Modem: Huawei E3372 USB dongle, Huawei ME906s|
 |-----------|--------------------------------------|
-|Stop the failover script </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 stop |
+|Stop the failover script <br/>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 stop |
 |Get International Mobile Equipment Identifier (IMEI)   | chat -V -s '' ' AT+GSN ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
 |Get International mobile subscriber identity (IMSI)   | chat -V -s '' ' AT\^CIMI ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
 |Force modem to Packet Switched (PS) only ATTACH | chat -V -s '' ' AT\^SYSCFGEX=\"00\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2 |
 |Force modem to LTE only mode  | chat -V -s '' ' AT\^SYSCFGEX=\"03\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
-|Start the failover script once AT commands are done </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 start |
+|Start the failover script once AT commands are done <br/>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 start |
 
 ### Gemtek Gateway (Model: gemodu, gempiconext)
 :::warning Note
@@ -46,29 +46,29 @@ The table below supports the following models:
 - gemodu (Outdoor Micro Gateway)
 - gempiconext (Pico Next Indoor Gateway)
 :::
-|Description|Command</br>(Gemtek model: gemodu, gempiconext )</br>Cellular Modem: Quectel EC25|
+|Description|Command<br/>(Gemtek model: gemodu, gempiconext )<br/>Cellular Modem: Quectel EC25|
 |-----------|--------------------------------------|
-|Stop the failover script </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 stop |
+|Stop the failover script <br/>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 stop |
 |Get International Mobile Equipment Identifier (IMEI)   | chat -V -s '' ' AT+GSN ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
 |Get International mobile subscriber identity (IMSI)   | chat -V -s '' ' AT+CIMI ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
 |Force modem to Packet Switched (PS) only ATTACH | chat -V -s '' ' AT+QCFG=\"servicedomain\",1,1 ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2 |
 |Force modem to enable roaming | chat -V -s '' ' AT+QCFG=\"roamservice\",2,1 ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2 |
 |Force modem to LTE only mode  | chat -V -s '' ' AT+QCFG=\"nwscanmode\",3,1 ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
-|Start the failover script once AT commands are done </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 start |
+|Start the failover script once AT commands are done <br/>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 start |
 
 ### Gemtek Gateway (Model: gemfemto)
 :::warning Note
 The table below supports the following models:
 - gemfemto (Indoor Femto Gateway)
 :::
-|Description|Command</br>(Gemtek model: gemfemto)</br>Cellular Modem: Huawei E3372 USB dongle|
+|Description|Command<br/>(Gemtek model: gemfemto)<br/>Cellular Modem: Huawei E3372 USB dongle|
 |-----------|--------------------------------------|
-|Stop the failover script </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 stop |
+|Stop the failover script <br/>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 stop |
 |Get International Mobile Equipment Identifier (IMEI)   | chat -V -s '' ' AT+GSN ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
 |Get International mobile subscriber identity (IMSI)   | chat -V -s '' ' AT\^CIMI ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
 |Force modem to Packet Switched (PS) only ATTACH | chat -V -s '' ' AT\^SYSCFGEX=\"00\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2 |
 |Force modem to LTE only mode  | chat -V -s '' ' AT\^SYSCFGEX=\"03\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
-|Start the failover script once AT commands are done </br>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 start |
+|Start the failover script once AT commands are done <br/>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 start |
 
 ## Step 4: Configure the LoRa Gateway
 

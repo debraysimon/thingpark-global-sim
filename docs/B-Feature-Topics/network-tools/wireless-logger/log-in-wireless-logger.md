@@ -37,7 +37,7 @@ these packets</strong>.</p></li>
 received by foreign devices roaming into the operator’s network are
 shown only in the network partner’s Wireless Logger application since
 the corresponding subscribers are not registered in this
-network.</br>
+network.<br/>
 <strong>Note: This option is only applicable to LoRaWAN devices.</strong></p></li>
 </ul></td>
 </tr>

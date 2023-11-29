@@ -58,9 +58,9 @@ The beacon advertising interval has direct impact on:
 - Battery lifetime: a smaller value of advertising interval will consume the battery of beacon faster
 - Latency of detection: Larger advertising duration results in larger latency for beacon detection, but also improves the battery lifetime of the beacon.  
 
-In order to ensure that the beacon is correctly detected by the tracker when the tracker is sniffing the beacon, you must ensure</br> the following condition:
+In order to ensure that the beacon is correctly detected by the tracker when the tracker is sniffing the beacon, you must ensure<br/> the following condition:
 
-*Beacon_advertising_interval << ble_beacon_timeout*</br>
+*Beacon_advertising_interval << ble_beacon_timeout*<br/>
 In general, you can set *beacon_advertising_interval = ble_beacon_timeout/10*
 
 If different models of beacons are used, you must ensure the same Advertising Interval value is set on all of them
