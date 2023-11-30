@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ThingParkGlobalSIM',
-  tagline: 'Thing Park GlobalSIM',
+  title: 'Thing Park GlobalSIM',
+  tagline: 'Documentation',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -48,15 +48,14 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
+          showLastUpdateTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          // path: './docs',
-          routeBasePath: '/',
           editUrl:
             'https://github.com/actility/thingpark-global-sim/',
         },
         theme: {
-          customCss: ['./src/css/custom.scss', './src/css/tpx-theme.scss'],
+          customCss: ['./src/css/custom.scss', './src/css/tp-global-sim.scss'],
         },
       }),
     ],
@@ -74,15 +73,15 @@ const config = {
           src: 'img/DesktopBanner-actility.png',
         },
         items: [
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Tutorial',
+          // },
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.com/actility/thingpark-global-sim',
+            label: 'Contribute!',
             position: 'right',
           },
         ],

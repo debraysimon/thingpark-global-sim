@@ -18,7 +18,7 @@ providers with the ability to:
 - **Monetize** their services in a flexible way that support various go
   to market options.
   
-![](./images/tpwoverview.jpg)
+![](_images/tpwoverview.jpg)
 
 <details type="info">
 <summary><strong>Connect</strong></summary>

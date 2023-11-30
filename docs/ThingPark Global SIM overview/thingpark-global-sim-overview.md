@@ -3,7 +3,7 @@
 
 ThingPark Evolved Packet Core (EPC) Connector is an add-on to ThingPark Wireless that allows interconnection with 3GPP core network to manage the cellular devices with the following features.
 
-![image](./images/epcc-arch.png)
+![image](_images/epcc-arch.png)
 
 
 <details type="info">

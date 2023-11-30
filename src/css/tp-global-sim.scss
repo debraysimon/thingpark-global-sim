@@ -49,3 +49,23 @@ main > .container {
 //    max-width: initial !important;
 //  }
 //}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 2px;
+}
+.textColorStyle{
+  color: #00b3b1;
+  text-decoration: underline;
+}
+.grid-item {
+  padding: 40px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.homeImg{
+  width: 100px;
+  height: 100px;
+}

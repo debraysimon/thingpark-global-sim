@@ -2,7 +2,7 @@
 
 ThingPark Global SIM is LPWAN-enabled world-wide cellular connectivity service based on ThingPark Wireless.
 
-![](./images/sim-card-front.png)
+![](_images/sim-card-front.png)
 
 The solution is based on ThingPark Wireless + EPC Connector (EPCC). EPCC is an add-on to ThingPark Wireless that allows interconnection with 3GPP core networks using 3GPP S6a and S5/S8 interface. The ThingPark Global Sim is based on EPCC connected to 3GPP global roaming hub that allows worldwide global cellular connectivity.
 
@@ -13,7 +13,7 @@ The solution is based on ThingPark Wireless + EPC Connector (EPCC). EPCC is an a
 - You can purchase ThingPark Global SIM from [here](https://market.thingpark.com/actility-global-sim)
   :::
 
-![](./images/epcc-arch.png)
+![](_images/epcc-arch.png)
 
 In the next sections, you will learn the high level features of ThingPark Wireless.
 
