@@ -23,7 +23,7 @@ const config = {
   organizationName: 'actility', // Usually your GitHub org/user name.
   projectName: 'thing-park-global-sim', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -50,6 +50,8 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
+          // path: './docs',
+          routeBasePath: '/',
           editUrl:
             'https://github.com/actility/thingpark-global-sim/',
         },
