@@ -1,6 +1,4 @@
 ---
-sidebar_label: Overview
-sidebar_position: 0
 hide_table_of_contents: true
 ---
 
@@ -158,6 +156,6 @@ expected roadmap enhancements of the product.
 
 See [ThingPark-Wireless-Evolved-Packet-Core-Connector-Product-Description.pdf](https://actilitysa.sharepoint.com/:f:/t/product/EiSxy1ZXL-tNrdnahig5_ngBx9d9RCzsQYji447jvEl7WA?e=OW4Y6d)
 
-::: warning Note
+:::warning Note
 - This portal only focusses on the ThingPark Wireless documentation specific to cellular devices. For complete documentation of ThingPark Wireless, please refer [here](https://docs.thingpark.com/thingpark-wireless/7.2/Content/Home.htm).
 :::

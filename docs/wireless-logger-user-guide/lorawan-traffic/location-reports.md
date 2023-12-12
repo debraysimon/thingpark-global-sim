@@ -5,7 +5,7 @@ sidebar_position: 5
 ---
 
 # Location reports
-::: warning Note
+:::warning Note
 - The location reports are only applicable to LoRaWAN devices
 :::
 

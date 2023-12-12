@@ -41,7 +41,7 @@ summary and location of a:
 
         ![](./_images/viewing-the-device-s-general-1.png)
 
-    ::: warning Note
+    :::warning Note
     If a manufactured-class B device displays its current class in
     black for too long, it might also mean:
 
@@ -66,7 +66,7 @@ summary and location of a:
     and [Manual location: locating a device or editing its
     location](locate-device.md#manual-location-locating-a-device-or-editing-its-location).
 
-::: warning Note
+:::warning Note
 In view mode, the **Update location** and **Change marker**
 buttons are not available in the Device frame.
 :::

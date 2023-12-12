@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Device Manager user guide
 
 Device Manager user guide provides end-users of subscribers with

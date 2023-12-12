@@ -30,7 +30,7 @@ Here are the steps:
 6. Apply the tracker configuration which will result in multiple downlinks.
 7. Ensure the tracker configuration is applied correctly. The tracker will send the uplinks to indicate its tracker configuration which will be visible in Abeeway Device Manager.
 
-::: warning Note
+:::warning Note
 Even if you plan to use your own location solver, we recommend to use ThingPark X Location Engine (TPX-LE) when preparing your tracker for first use for the following reasons:
 - **Support for Low-Power GPS (LP-GPS) feature which allows faster GNSS fix with much lower power consumption on the tracker.**
 - Support for averaging and filtering of positions with multiple geolocation technologies (GPS/LP-GPS/WiFi/Bluetooth) in the backend to remove outliers.
@@ -41,13 +41,13 @@ Even if you plan to use your own location solver, we recommend to use ThingPark 
 
 ## Ensure tracker's LoRaWAN configuration for high capacity use cases
 If you are setting *ul_period* to smaller values (for example 15 sec), then the tracker will generate uplink every 15 seconds. This will result in very high LoRaWAN throughput. It is important in this scenario to force the tracker configuration to LoRaWAN date rates that can accommodate high throughput or the tracker will reset itself after some time as firmware will have too many uplinks which will be buffered and cannot be sent due to duty cycle or regional restrictions. For more information on setting the specific LoRaWAN data rates, please refer to [AN-002_LoRa_Transmission_strategy](/D-Reference/DocLibrary_R/AbeewayTrackers_R.md#application-notes).
-::: warning Warning
+:::warning Warning
 **It is important to dimension the LoRaWAN network for high capacity use cases to ensure the network can appropriately handle the traffic without loss.**
 :::
 
 ## Beacon Configuration considerations
 
-::: warning Warning
+:::warning Warning
 **Please review the section: Beacon settings & Calibration in [BLE Position Filtering training](/D-Reference/DocLibrary_R/AbeewayTrackers_R.md#abeeway-firmware-trainings) to ensure the trackers and beacons are correctly configured. Faulty beacon or tracker configuration will result in incorrect location resolution from Thingpark location.**
 :::
 

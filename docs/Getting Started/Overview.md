@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Overview
 
 In this section, we will provide you step by step procedure to get Cellular devices to connect to ThingPark Wireless. Here are the key steps:
@@ -28,7 +32,7 @@ The first step is to provision the devices in ThingPark Wireless. You can access
 10. Select "Key Configuration" as "automatic"<sup>(3)</sup> 
 11. Assign the "cellular connectivity plan" to the newly created device
 12. Assign the "routing profile" to the device. If this routing profile, does not exist, we will create one in the next steps
-::: warning Note
+:::warning Note
 <sup>(1)</sup> This field is only for informational purposes and has no impact on the functioning of the cellular device
 
 <sup>(2)</sup> The manufacturer/model needs to be created by the operator admin in the operator manager. You can ask support to create the manufacturer/model of the device or you can select the generic make/model of the cellular device
@@ -85,7 +89,7 @@ The figure below shows the steps to add the routing profile created in earlier s
 3. Click "save" to save the routing profile
 
 ## Step 4: Configure Application Server Router (ASR) for Direct IP traffic
-::: warning Note
+:::warning Note
 - This step is only required if the routing profile mode is set to Mixed or Direct IP only.
 :::
 

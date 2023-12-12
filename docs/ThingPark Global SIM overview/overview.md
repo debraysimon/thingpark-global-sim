@@ -1,3 +1,7 @@
+---
+sidebar_label: Overview
+---
+
 # ThingPark Global SIM overview
 
 ThingPark Global SIM is LPWAN-enabled world-wide cellular connectivity service based on ThingPark Wireless.
