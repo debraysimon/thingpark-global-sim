@@ -35,7 +35,7 @@ router.
     allocated to a cellular device:
 
     - Either when creating the device.  
-      For more information, see [Creating devices](../device-manager-user-guide/create-devices/index).
+      For more information, see [Creating devices](../device-manager-user-guide/create-devices/index.md).
 
     - Or after you have created the device.  
       For more information, see [Managing the AS routing profile of a device](../device-manager-user-guide/manage-device-network/manage-as-routing-profile-device)

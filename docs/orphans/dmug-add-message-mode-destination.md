@@ -20,7 +20,7 @@ information, see the Maximum allowed Application
 Servers parameter in [Cellular IoT connectivity plan details](../device-manager-user-guide/reference-information.md#cellular-iot-connectivity-plan-details).
 
 If you want to use a local application server, it must have only one
-route and be active to work properly. To learn more, click [Adding a route to a local application server](../device-manager-user-guide/manage-local-application-servers/adding-a-route-to-a-local-application-server/index)
+route and be active to work properly. To learn more, click [Adding a route to a local application server](../device-manager-user-guide/manage-local-application-servers/adding-a-route-to-a-local-application-server/index.md)
 and [Deactivating a local application server](../device-manager-user-guide/manage-local-application-servers/deactivate-local-application-server).
 When added to the AS routing profile, a destination displays its status.
 
@@ -87,7 +87,7 @@ When added to the AS routing profile, a destination displays its status.
     allocated to a cellular device:
 
     - Either when creating the device.  
-      For more information, see [Creating devices](../device-manager-user-guide/create-devices/index).
+      For more information, see [Creating devices](../device-manager-user-guide/create-devices/index.md).
 
     - Or after you have created the device.  
       For more information, see [Managing the AS routing profile of a device](../device-manager-user-guide/manage-device-network/manage-as-routing-profile-device)

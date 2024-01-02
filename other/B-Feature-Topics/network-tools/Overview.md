@@ -9,13 +9,11 @@ title: Using network tools
 
 The three network tools available on ThingPark Enterprise are:
 
-- [Wireless Logger
-  tool](../../user-guide/network-tools/wireless-logger/overview).
+- [Wireless Logger tool](../../user-guide/network-tools/wireless-logger/overview).
 
 - [Network Survey tool](../../user-guide/network-tools/network-survey/overview).
 
-- [Spectrum Analysis
-  tool](../../user-guide/network-tools/spectrum-analysis/overview).
+- [Spectrum Analysis tool](../../user-guide/network-tools/spectrum-analysis/overview).
 
 Prior to using the network tools you need to be aware of the parameters
 that you need to perform this action.

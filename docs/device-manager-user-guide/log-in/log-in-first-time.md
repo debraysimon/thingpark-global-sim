@@ -6,13 +6,11 @@ You have received an account details email containing your ThingPark
 account name and login:
 
 - If this email asks you to click **Account Activation**, apply
-  [Authenticating using an activation
-  URL](./orphans/dmug-authenticate-activation-url).
+  [Authenticating using an activation URL](../../orphans/dmug-authenticate-activation-url.md).
 
   ![](./_images/logging-in-for-the-first-time.png)
 
-- Otherwise, apply [Authenticating using an initial
-  password](./orphans/dmug-authenticate-initial-password).
+- Otherwise, apply [Authenticating using an initial password](../../orphans/dmug-authenticate-initial-password.md).
 
   ![](./_images/logging-in-for-the-first-time-5.png)
 

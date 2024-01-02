@@ -64,8 +64,7 @@ checks:
 - The parameters for the noise scan execution are correct: the min and
   max frequencies and the step set are relevant.
 
-- The result file format is the one expected (see the example in [What
-  is a noise scan?](../noise-scan-process/what-is-noise-scan))
+- The result file format is the one expected (see the example in [What is a noise scan?](../noise-scan-process/what-is-noise-scan))
 
 If these checks are ok, contact Actility.
 

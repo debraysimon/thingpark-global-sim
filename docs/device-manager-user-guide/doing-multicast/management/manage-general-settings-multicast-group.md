@@ -130,8 +130,8 @@ downlinks it manages. This information is read-only.
 - Clicking an item of the caption makes it appear/disappear from the
   chart and adjust the scale.
 
-For more information about charts, see [Monitoring packets and payloads history of a LoRaWAN® device](../../orphans/dmug-monitor-packets-payloads-history-lorawan-device)
-and [Printing or downloading a chart](../../Manage%20a%20device/check-device-settings-activity.md#printing-or-downloading-a-chart).
+For more information about charts, see [Monitoring packets and payloads history of a LoRaWAN® device](../../../orphans/dmug-monitor-packets-payloads-history-lorawan-device.md)
+and [Printing or downloading a chart](../../manage-a-device/check-device-settings-activity.md#printing-or-downloading-a-chart).
 
  
 

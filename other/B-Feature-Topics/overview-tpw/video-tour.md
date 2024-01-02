@@ -52,7 +52,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Operator user guide](../user-guide-tpw/operator/index).
+To learn more, see [Operator user guide](../user-guide-tpw/operator/index.md).
 
 ## Profiles (4 minutes)
 
@@ -73,7 +73,7 @@ x- What are device profiles, base stations profiles and RF regions in ThingParkÂ
 </div>
 ```
 
-To learn more, see [Operator user guide](../user-guide-tpw/operator/index).
+To learn more, see [Operator user guide](../user-guide-tpw/operator/index.md).
 
 ## Accounts (8 minutes)
 
@@ -94,7 +94,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Operator user guide](../user-guide-tpw/operator/index).
+To learn more, see [Operator user guide](../user-guide-tpw/operator/index.md).
 
 ## Managing connectivity
 
@@ -117,7 +117,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Supplier user guide](../user-guide-tpw/supplier/index).
+To learn more, see [Supplier user guide](../user-guide-tpw/supplier/index.md).
 
 ## Licenses (3 minutes)
 
@@ -138,7 +138,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Supplier user guide](../user-guide-tpw/supplier/index).
+To learn more, see [Supplier user guide](../user-guide-tpw/supplier/index.md).
 
 ## Offers (5 minutes)
 
@@ -159,7 +159,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Vendor user guide](../user-guide-tpw/vendor/index).
+To learn more, see [Vendor user guide](../user-guide-tpw/vendor/index.md).
 
 ## Subscribers (7 minutes)
 
@@ -181,7 +181,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Vendor user guide](../user-guide-tpw/vendor/index).
+To learn more, see [Vendor user guide](../user-guide-tpw/vendor/index.md).
 
 ## Managing devices
 
@@ -224,7 +224,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Device Manager user guide](../user-guide-tpw/device-manager/index).
+To learn more, see [Device Manager user guide](../user-guide-tpw/device-manager/index.md).
 
 ## Routing profiles (6 minutes)
 
@@ -246,7 +246,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Device Manager user guide](../user-guide-tpw/device-manager/index).
+To learn more, see [Device Manager user guide](../user-guide-tpw/device-manager/index.md).
 
 ## Managing the network
 
@@ -290,7 +290,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Network Manager user guide](../user-guide-tpw/network-manager/index).
+To learn more, see [Network Manager user guide](../user-guide-tpw/network-manager/index.md).
 
 ## Base station administration (10 minutes)
 
@@ -309,7 +309,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Network Manager user guide](../user-guide-tpw/network-manager/index).
+To learn more, see [Network Manager user guide](../user-guide-tpw/network-manager/index.md).
 
 ## Suplog (10 minutes)
 
@@ -329,7 +329,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Network Manager user guide](../user-guide-tpw/network-manager/index).
+To learn more, see [Network Manager user guide](../user-guide-tpw/network-manager/index.md).
 
 ## Network Survey (9 minutes)
 

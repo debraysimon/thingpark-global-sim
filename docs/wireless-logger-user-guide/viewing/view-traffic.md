@@ -73,19 +73,19 @@ This task also shows you how to reload the packets to refresh the Last packets l
 
 6.  Check the most important metadata of the packets that appear in
     columns. 
-    :specificContent[     For more information, see [Uplink metadata     columns](../lorawan-traffic/uplink-lorawan-packets.md#uplink-metadata-columns)
-    and [Downlink metadata     columns](../lorawan-traffic/downlink-lorawan-unicast-packets.md#downlink-metadata-columns).
+    :specificContent[For more information, see [Uplink metadata columns](../lorawan-traffic/uplink-lorawan-packets.md#uplink-metadata-columns)
+    and [Downlink metadata columns](../lorawan-traffic/downlink-lorawan-unicast-packets.md#downlink-metadata-columns).
     ]{flavor=tpe}
 
     For more information, see:
 
-    - **For LoRaWAN®**: [Uplink metadata       columns](../lorawan-traffic/uplink-lorawan-packets.md#uplink-metadata-columns)
-      and [Downlink metadata       columns](../lorawan-traffic/downlink-lorawan-unicast-packets.md#downlink-metadata-columns)
+    - **For LoRaWAN®**: [Uplink metadata columns](../lorawan-traffic/uplink-lorawan-packets.md#uplink-metadata-columns)
+      and [Downlink metadata columns](../lorawan-traffic/downlink-lorawan-unicast-packets.md#downlink-metadata-columns)
 
-    - **For cellular**: [Cellular metadata       columns](../cellular-traffic-tpw/cellular-traffic-overview.md#cellular-metadata-columns).
+    - **For cellular**: [Cellular metadata columns](../cellular-traffic-tpw/cellular-traffic-overview.md#cellular-metadata-columns).
 
 7.  Check the radio parameters that appear in color. For
-    more information, see [Radio color     codes](../lorawan-traffic/lorawan-traffic-overview.md#radio-color-codes)
+    more information, see [Radio color codes](../lorawan-traffic/lorawan-traffic-overview.md#radio-color-codes)
     and [LoRaWAN® radio     statistics](../lorawan-traffic/lorawan-traffic-overview.md#lorawan-radio-statistics).
     :specificContent[(LoRaWAN® only)]{flavor=tpw}
 

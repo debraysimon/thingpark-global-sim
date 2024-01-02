@@ -6,7 +6,7 @@ sidebar_position: 10
 
 # Managing local application servers
 
-This task is a prerequisite for [Managing AS routing profiles](../manage-as-routing-profiles/index). It helps you define
+This task is a prerequisite for [Managing AS routing profiles](../manage-as-routing-profiles/index.md). It helps you define
 which type of application servers you need for your devices, and
 according to your choice, shows you how to handle the local applications
 servers that are managed in the Application Servers panel.
@@ -51,8 +51,8 @@ access.
 |---|---|---|
 |Subscriber **HTTP application Server**<br/>It can be used for LoRaWAN® and cellular message mode and mixed mode.|HTTP LRC-AS tunneling interface.|**You must create the LoRaWAN® or cellular HTTP application server** before adding it to a LoRaWAN® or cellular AS routing profile. |
 |Subscriber **Kafka client**<br/>It can be used for LoRaWAN® and cellular message mode and mixed mode.|Kafka LRC-AS tunneling interface for UL,<br/>HTTP LRC-AS tunneling interface for DL.|**You must create the Kafka cluster**. before adding it to a LoRaWAN® or cellular AS routing profile.|
-|Supplier **HTTP application server** / **Kafka client**<br/>This is a shared application server defined by shared suppliers. If you have to use them, go directly to [Managing AS routing profiles](../manage-as-routing-profiles/index).|Same as subscriber, see above|Being created when configuring the operator’s platform, **you do not need to create the supplier application server**. If you want to use it as a destination for a LoRaWAN® AS routing profile, go directly to [Managing AS routing profiles](../manage-as-routing-profiles/index).|
-|**ThingPark X Destination**<br/>This is an shared Actility proprietary Kafka client. It can be used for LoRaWAN® and cellular message mode and mixed mode to route traffic to **ThingPark X IoT Flow**.|Internal|Being created when configuring the operator’s platform, **you do not need to create the ThingPark X destination**. If you want to use it as a destination for a LoRaWAN® or cellular AS routing profile, go directly to [Managing AS routing profiles](../manage-as-routing-profiles/index).|
+|Supplier **HTTP application server** / **Kafka client**<br/>This is a shared application server defined by shared suppliers. If you have to use them, go directly to [Managing AS routing profiles](../manage-as-routing-profiles/index.md).|Same as subscriber, see above|Being created when configuring the operator’s platform, **you do not need to create the supplier application server**. If you want to use it as a destination for a LoRaWAN® AS routing profile, go directly to [Managing AS routing profiles](../manage-as-routing-profiles/index.md).|
+|**ThingPark X Destination**<br/>This is an shared Actility proprietary Kafka client. It can be used for LoRaWAN® and cellular message mode and mixed mode to route traffic to **ThingPark X IoT Flow**.|Internal|Being created when configuring the operator’s platform, **you do not need to create the ThingPark X destination**. If you want to use it as a destination for a LoRaWAN® or cellular AS routing profile, go directly to [Managing AS routing profiles](../manage-as-routing-profiles/index.md).|
 
 See more [About AS routing profiles types and cellular modes](../manage-as-routing-profiles/index.md#about-as-routing-profiles-types-and-cellular-modes).
 

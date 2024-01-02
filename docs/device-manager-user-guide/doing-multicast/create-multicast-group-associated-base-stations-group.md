@@ -180,8 +180,8 @@ station tag.
             the multicast connectivity plan, or failing that, in the
             unicast connectivity plans of the target devices, your class
             C multicast group will use the value of the **Force RX2 Data
-            Rate** parameter. For more information, see [LoRaWAN®             multicast connectivity plan             details](../reference-information.md#lorawan®-multicast-connectivity-plan-details)
-            and [LoRaWAN® unicast connectivity plan             details](../reference-information.md#lorawan®-unicast-connectivity-plan-details).
+            Rate** parameter. For more information, see [LoRaWAN® multicast connectivity plan details](../reference-information.md#lorawan-multicast-connectivity-plan-details)
+            and [LoRaWAN® unicast connectivity plan details](../reference-information.md#lorawan-unicast-connectivity-plan-details).
             You do not need to enter anything.
 
           - Otherwise or if your target devices are not compliant with
@@ -201,7 +201,7 @@ station tag.
         is no connectivity plan available, you can add it later by
         editing the multicast group.
 
-      - For more information about connectivity plans, see [LoRaWAN®         multicast connectivity plan         details](../reference-information.md#lorawan®-multicast-connectivity-plan-details).
+      - For more information about connectivity plans, see [LoRaWAN® multicast connectivity plan details](../reference-information.md#lorawan-multicast-connectivity-plan-details).
 
 8.  In the Application layer handling frame:
 
@@ -264,7 +264,7 @@ or will be located, or ask your operator for the tags you can use:
 
 Tags are created and added to base stations by operators, or network
 partners if base stations tagging is delegated. For more information,
-see [Operator user guide](../../operator/index) and [Network Manager user guide](../../network-manager/index).
+see [Operator user guide] and [Network Manager user guide].
 
 For more information about base station tags, see [Viewing, managing and removing base station tags in a multicast group](management/manage-general-settings-multicast-group.md#viewing-managing-and-removing-base-station-tags-in-a-multicast-group).
 

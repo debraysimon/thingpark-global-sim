@@ -16,9 +16,9 @@ view, the parameters they use, and their mapping with all types of
 applications servers.
 
 You can create and associate an AS routing profile either when creating
-or editing a device. For more information, see respectively [Creating devices](../create-devices/index) and [Managing the device network](../manage-device-network/index).
+or editing a device. For more information, see respectively [Creating devices](../create-devices/index.md) and [Managing the device network](../manage-device-network/index.md).
 
-**Prerequisite** The prerequisite of this topic is [Managing local application servers](../manage-local-application-servers/index),
+**Prerequisite** The prerequisite of this topic is [Managing local application servers](../manage-local-application-servers/index.md),
 except if you want to use a ThingPark X destination, a supplier
 application server or cellular connectivity in direct IP mode. For those
 cases, you do not have to create any local application server.

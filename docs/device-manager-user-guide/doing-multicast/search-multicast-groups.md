@@ -45,7 +45,7 @@ Alternatively, if you want to filter multicast groups, see [Searching multicast 
 | **Tag names**       | Tag names corresponding to base stations groups associated with the multicast group.                                                                                                             |
 | **Connectivity**    | Name of the multicast connectivity plan /Name of the AS routing profile associated with the multicast group.                                                                                     |
 | **Average packets** | Average number of multicast downlink packets/day managed by the multicast group.                                                                                                                 |
-| **Alarm**           | Number of alarms of the multicast group that are not acknowledged with color indicating state and severity level. For more information, see [Managing alarms](../manage-device-alarms/index). |
+| **Alarm**           | Number of alarms of the multicast group that are not acknowledged with color indicating state and severity level. For more information, see [Managing alarms](../manage-device-alarms/index.md). |
 
 1.  If you want to manage contents in the list, hover your mouse over a
     column header and click the arrow that appears, then select the
@@ -84,5 +84,5 @@ You can search multicast groups of your network using filters.
 1.  Click **Search**.
 
     -\> The result of your search appears in the list area of the Search
-    frame. For more information on this result, see [Searching and     viewing all the multicast groups of your     network](#searching-and-viewing-all-the-multicast-groups-of-your-network)
+    frame. For more information on this result, see [Searching and viewing all the multicast groups of your network](#searching-and-viewing-all-the-multicast-groups-of-your-network)
     from step 2.

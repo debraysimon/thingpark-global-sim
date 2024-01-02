@@ -68,9 +68,9 @@ You must have read-write access. Read more\... For more information, see
 In addition to the alarms notifications appearing in the Devices panel
 and the Active alarms panel of a device Read more\... For more
 information, see 
-[Viewing not acknowledged alarms of your network](./manage-alarms/monitor-device-alarms.md#viewing-not-acknowledged-alarms-of-your-network)
+[Viewing not acknowledged alarms of your network](manage-device-alarms/monitor-device-alarms.md#viewing-not-acknowledged-alarms-of-your-network)
 and 
-[More about searching alarms](./manage-alarms/monitor-device-alarms.md#more-about-searching-alarms),
+[More about searching alarms](manage-device-alarms/monitor-device-alarms.md#more-about-searching-alarms),
 you can set alarm notifications by email to monitor all devices of the
 account when necessary, and independently of the device the alarm
 belongs to:
@@ -146,7 +146,7 @@ reached, an email for all devices impacted is sent:
 - Whenever an existing alarm changes to this alarm state.  
   **Note** For an event-driven alarm, no email is sent for any new
   occurrence if the alarm state is the same. For more information, see
-  [Alarm occurrence   management](./manage-alarms#alarm-occurrence-management).
+  [Alarm occurrence   management](./manage-device-alarms#alarm-occurrence-management).
 
 - Whenever the alarm has been acknowledged and increases to this alarm
   state.  
@@ -198,4 +198,4 @@ mode** and do not click **Save**.
     frame will appear with the advanced mode.
 
 To learn more how you can use alarms to identify and prioritize device
-issues, see [Managing alarms](./manage-alarms).
+issues, see [Managing alarms](./manage-device-alarms).

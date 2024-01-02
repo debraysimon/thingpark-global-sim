@@ -47,7 +47,7 @@ summary and location of a:
 
     - Either the device cannot switch to class B. If you want to check the
       device packets, see 
-[Wireless Logger User Guide](../../wireless-logger-user-guide/index).
+[Wireless Logger User Guide](../../wireless-logger-user-guide/index.md).
 
     - Or when creating the device, it has been associated with:
 
@@ -60,7 +60,7 @@ summary and location of a:
 
 4.  In the map, click the marker to display the manual or network
     coordinates of the device location. For more information, see
-    [Network location: viewing the device location history (LoRaWAN®     only)](locate-device.md#network-location-viewing-the-device-location-history-lorawan®-only)
+    [Network location: viewing the device location history (LoRaWAN®     only)](locate-device.md#network-location-viewing-the-device-location-history-lorawan-only-network-location-viewing-the-device-location-history-lorawan-only)
     and [Manual location: locating a device or editing its     location](locate-device.md#manual-location-locating-a-device-or-editing-its-location).
 
 :::warning Note
@@ -75,11 +75,11 @@ can switch from one tab to the other to display charts showing
 statistics to monitor the activity of the device for a given time. This
 information is read-only.
 
-- [Monitoring packets and payloads history of a LoRaWAN®   device](../orphans/dmug-monitor-packets-payloads-history-lorawan-device)
+- [Monitoring packets and payloads history of a LoRaWAN® device](../../orphans/dmug-monitor-packets-payloads-history-lorawan-device)
 
-- [Monitoring radio statistics of a LoRaWAN® device](../orphans/dmug-monitor-radio-statistics-lorawan-device)
+- [Monitoring radio statistics of a LoRaWAN® device](../../orphans/dmug-monitor-radio-statistics-lorawan-device)
 
-- [More about LoRaWAN® radio statistics](../orphans/dmug-more-lorawan-radio-statistics)
+- [More about LoRaWAN® radio statistics](../../orphans/dmug-more-lorawan-radio-statistics)
 
 ## Monitoring the activity of a cellular device
 
@@ -191,9 +191,9 @@ JPEG, PDF, SVG). This task is also available for read-only end-users.
 
 1.  Display the chart you want as explained in:
 
-    - [Monitoring packets and payloads history of a LoRaWAN®   device](../orphans/dmug-monitor-packets-payloads-history-lorawan-device)
+    - [Monitoring packets and payloads history of a LoRaWAN®   device](../../orphans/dmug-monitor-packets-payloads-history-lorawan-device)
 
-    - [Monitoring radio statistics of a LoRaWAN® device](../orphans/dmug-monitor-radio-statistics-lorawan-device)
+    - [Monitoring radio statistics of a LoRaWAN® device](../../orphans/dmug-monitor-radio-statistics-lorawan-device)
 
     - [Monitoring the activity of a cellular       device](#monitoring-the-activity-of-a-cellular-device)
 

@@ -41,7 +41,7 @@ connectivity plan he/she wants to use for the device.
 
 Connectivity plans cannot be edited in Device Manager. They are created
 by the Connectivity Supplier in the Connectivity Manager to be included
-in a Vendor offer. For more information, see [Supplier user guide](../../user-guide-tpw/supplier/index).
+in a Vendor offer. For more information, see [Supplier user guide](../../user-guide-tpw/supplier/index.md).
 
 The connectivity plan associated with the device must enable the routing
 parameter corresponding to the application server used by the device.

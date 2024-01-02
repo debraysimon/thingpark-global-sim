@@ -21,7 +21,7 @@ simultaneously the same downlink payload in a LoRaWAN® network if they:
   added to this multicast group. For more information, see [Adding a   base station tag to a multicast   group](create-multicast-group-associated-base-stations-group.md#adding-a-base-station-tag-to-a-multicast-group).
 
 The multicast downlink is an unconfirmed data down message without MAC
-commands. For more information, see [LRC-AS Tunnel Interface Developer Guide](../../integrating-applications-with-tpw.md#lrc-as-tunnel-interface-developer-guide).
+commands. For more information, see [LRC-AS Tunnel Interface Developer Guide].
 
 ![](./_images/about-multicast.png)
 

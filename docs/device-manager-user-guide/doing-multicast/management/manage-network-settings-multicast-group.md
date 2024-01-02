@@ -21,11 +21,11 @@ LoRaWAN® multicast connectivity plan:
   **View** it.
 
 - If you have read-write access Read more\... For more information, see
-  [Opening a panel and checking your read-write   access](../../use-interface.md#opening-a-panel-and-checking-your-read-write-access),
+  [Opening a panel and checking your read-write access](../../use-interface.md#opening-a-panel-and-checking-your-read-write-access),
   you can also **Change** or **Remove** it, or **Allocate** it if no
   connectivity plan is associated.
 
-For more information, see [LoRaWAN® multicast connectivity plan details](../../reference-information.md#lorawan®-multicast-connectivity-plan-details).
+For more information, see [LoRaWAN® multicast connectivity plan details](../../reference-information.md#lorawan-multicast-connectivity-plan-details).
 
  
 
@@ -42,7 +42,7 @@ For more information, see [LoRaWAN® multicast connectivity plan details](../../
 
     -\> The multicast group appears in the navigation panel.
 
-For more information, see [Managing a device](../../manage-a-device/index) that works similarly.
+For more information, see [Managing a device](../../manage-a-device/index.md) that works similarly.
 
  
 
@@ -70,7 +70,7 @@ all end-users.
 
     ![](./_images/managing-the-network-settings.png)
 
-4.  For more information, see [Managing the device     network](../../manage-device-network/index) that works similarly.
+4.  For more information, see [Managing the device network](../../manage-device-network/index.md) that works similarly.
 
 ## Managing the AS routing profile of a multicast group
 
@@ -85,5 +85,5 @@ the current AS routing profile associated with the multicast group:
   you can also **Change** or **Remove** it, or **Allocate** it if no AS
   routing profile is associated.
 
-For more information, see [Managing AS routing profiles](../../manage-as-routing-profiles/index) that works
+For more information, see [Managing AS routing profiles](../../manage-as-routing-profiles/index.md) that works
 similarly.

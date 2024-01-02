@@ -101,7 +101,7 @@ When added to the AS routing profile, a destination displays its status.
 
     - Either when creating the device.
 
-      For more information, see [Creating       devices](../create-devices/index).
+      For more information, see [Creating       devices](../create-devices/index.md).
 
     - Or after you have created the device.
 
