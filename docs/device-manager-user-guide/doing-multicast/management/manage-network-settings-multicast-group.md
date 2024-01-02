@@ -45,7 +45,7 @@ details](../../reference-information.md#lorawan®-multicast-connectivity-plan-de
     -\> The multicast group appears in the navigation panel.
 
 For more information, see [Managing a
-device](../../manage-a-device/index.md) that works similarly.
+device](../../manage-a-device/index) that works similarly.
 
  
 
@@ -74,7 +74,7 @@ all end-users.
     ![](./_images/managing-the-network-settings.png)
 
 4.  For more information, see [Managing the device
-    network](../../manage-device-network/index.md) that works similarly.
+    network](../../manage-device-network/index) that works similarly.
 
 ## Managing the AS routing profile of a multicast group
 
@@ -91,5 +91,5 @@ the current AS routing profile associated with the multicast group:
   routing profile is associated.
 
 For more information, see [Managing AS routing
-profiles](../../manage-as-routing-profiles/index.md) that works
+profiles](../../manage-as-routing-profiles/index) that works
 similarly.

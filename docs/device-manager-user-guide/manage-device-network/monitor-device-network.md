@@ -52,7 +52,7 @@ device that you can monitor:
     mode. For more information about how to use the charts of the
     device's statistics, see [Monitoring packets and payloads history of
     a LoRaWAN®
-    device](../orphans/dmug-monitor-packets-payloads-history-lorawan-device.md)
+    device](../orphans/dmug-monitor-packets-payloads-history-lorawan-device)
     and [Monitoring the activity of a cellular
     device](../manage-a-device/check-device-settings-activity.md#monitoring-the-activity-of-a-cellular-device).
 

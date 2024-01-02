@@ -14,7 +14,7 @@ entering no criteria, you can retrieve up to 10 000 packets displayed on
 as follows:
 
 - In a filter box, type several values separated by comma. When using
-  [Quick filtering](quick-filtering.md), type then a comma and type
+  [Quick filtering](quick-filtering), type then a comma and type
   manually the next value.
 
 - In a filter list, select several items in the list.
@@ -64,7 +64,7 @@ To delete your selection, click **Clear**.
     pages. Repeat as necessary.
 
 4.  (Optional) To see more packets on your screen, see [Extending the
-    dashboard](../viewing/extend-dashboard.md).
+    dashboard](../viewing/extend-dashboard).
 
 5.  (Optional) Restrict you search as necessary, for example using
-    [Quick filtering](quick-filtering.md).
+    [Quick filtering](quick-filtering).

@@ -27,8 +27,8 @@ possible in the following cases:
 
 1.  (Recommended) Refine your search regarding the type of packets your
     want to decode. You can only decode packets including data. For more
-    information, see [Searching packets](../filtering/search-packets.md)
-    and [Quick filtering](../filtering/quick-filtering.md).
+    information, see [Searching packets](../filtering/search-packets)
+    and [Quick filtering](../filtering/quick-filtering).
 
 2.  From the **Decoder** list of the LoRaWAN® Dashboard, select your decoder as follows:
 
@@ -40,7 +40,7 @@ possible in the following cases:
       device profile. **Note** When **Automatic** is selected, the
       decoded data is also included in the export file, along with
       information about the driver. For more information, see [LoRaWAN®
-      export file](../lorawan-traffic/lorawan-export-file.md).
+      export file](../lorawan-traffic/lorawan-export-file).
 
     - If using versions earlier than ThingPark 6.1, select another
       decoder from the list. This option is essentially kept for

@@ -18,8 +18,8 @@ displayed by default.
 
 1.  (Recommended) Refine your search regarding the type of packets your
     want to decode. You can only decode packets including data. For more
-    information, see [Searching packets](../filtering/search-packets.md)
-    and [Quick filtering](../filtering/quick-filtering.md).
+    information, see [Searching packets](../filtering/search-packets)
+    and [Quick filtering](../filtering/quick-filtering).
 
 2.  From the **Decoder** list, select **ASCII**.
 

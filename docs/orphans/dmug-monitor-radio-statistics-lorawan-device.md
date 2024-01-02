@@ -19,7 +19,7 @@ help you monitor or troubleshoot a LoRaWAN® device:
 - **Spreading Factor (SF)**
 
 This information is read-only. For more information about how devices
-radio statistics is defined and computed in Device Manager, see [More about LoRaWAN® radio statistics](./dmug-more-lorawan-radio-statistics.md).
+radio statistics is defined and computed in Device Manager, see [More about LoRaWAN® radio statistics](./dmug-more-lorawan-radio-statistics).
 
 On the charts, you can display the following details for each device:
 

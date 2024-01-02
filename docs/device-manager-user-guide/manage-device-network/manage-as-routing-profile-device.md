@@ -40,9 +40,9 @@ Only one AS routing profile can be allocated to a device.
 - You must have created and provisioned at least two AS routing
   profiles.  
   For more information, see [Managing local application
-  servers](../manage-local-application-servers/index.md) and [Accessing
+  servers](../manage-local-application-servers/index) and [Accessing
   AS routing
-  profiles](../manage-as-routing-profiles/access-as-routing-profiles.md).
+  profiles](../manage-as-routing-profiles/access-as-routing-profiles).
 
 1.  In the navigation panel, click **Devices** to display the Devices
     panel, then click the **List** or the **Map** tab.
@@ -90,8 +90,8 @@ compatibility rules](#as-routing-profile-compatibility-rules).
 - You must have created and provisioned at least two AS routing
   profiles.  
   For more information, see [Managing local application
-  servers](../manage-local-application-servers/index.md) and [Managing
-  AS routing profiles](../manage-as-routing-profiles/index.md).
+  servers](../manage-local-application-servers/index) and [Managing
+  AS routing profiles](../manage-as-routing-profiles/index).
 
  
 

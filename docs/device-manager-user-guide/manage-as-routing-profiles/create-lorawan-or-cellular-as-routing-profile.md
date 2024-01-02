@@ -16,11 +16,11 @@ connectivity, the New device dialog box used to create a device and the
 Network panel of existing devices. By default, a cellular AS routing
 profile is created in message mode but you can change it later. For more
 information, see [Configuring a cellular AS routing
-profile](configure-cellular-as-routing-profile.md).
+profile](configure-cellular-as-routing-profile).
 
 The first created AS routing profile of each type is a default AS
 routing profile. For more information, see [Changing the default AS
-routing profile](change-default-as-routing-profile.md).
+routing profile](change-default-as-routing-profile).
 
 **Important** Hardware Security Module (HSM) is not applicable to
 cellular devices. When creating a cellular AS routing profile, do not

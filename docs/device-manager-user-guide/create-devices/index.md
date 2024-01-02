@@ -30,7 +30,6 @@ associated with:
 creating a destination and an AS routing profile. If you want to create
 and provision a device in one step less, create first the destination
 and the AS routing profile by following the guidelines given in
-[Managing local application
-servers](../manage-local-application-servers/index.md) and [Managing AS
-routing profiles](../manage-as-routing-profiles/index.md). Then, go back
+[Managing local application servers](../manage-local-application-servers/index.md) and 
+[Managing AS routing profiles](../manage-as-routing-profiles/index.md). Then, go back
 to [Creating devices](./index.md).

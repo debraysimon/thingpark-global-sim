@@ -182,7 +182,7 @@ later.
       cellular connectivity plans.  
       The number in parenthesis indicates the remaining connectivity
       plans available. For more information about connectivity plans,
-      see [Viewing connectivity plans](../view-connectivity-plans.md).
+      see [Viewing connectivity plans](../view-connectivity-plans).
 
 8.  In the Application layer handling frame:
 

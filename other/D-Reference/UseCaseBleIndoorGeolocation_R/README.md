@@ -91,7 +91,7 @@ Once the tracker starts to send uplinks with Bluetooth beacon IDs, you can see t
 
 <img src="images/TPXLEpushConnector.png" width="800" border="1" />
 
-The position from the Bluetooth solver is inside the JSON object [ResolvedPosition](https://dx-api.thingpark.io/location-connector/latest/doc/index.html#resolvedposition). You can find the example JSON object that is sent when ThingPark Location resolves Bluetooth position [here](/tpxle-sample-payloads-main_R/tpxle-output-position-ble.md).
+The position from the Bluetooth solver is inside the JSON object [ResolvedPosition](https://dx-api.thingpark.io/location-connector/latest/doc/index.html#resolvedposition). You can find the example JSON object that is sent when ThingPark Location resolves Bluetooth position [here](/tpxle-sample-payloads-main_R/tpxle-output-position-ble).
 
 
 ```

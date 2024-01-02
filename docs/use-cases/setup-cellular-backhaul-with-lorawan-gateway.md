@@ -80,7 +80,7 @@ Login to the Gateway support menu and ensure the following:
 ## Step 5: Provision the Actility SIM Card
 :::warning Warning
 - This step is restricted to [Actility Support](/FAQ_R/) unless you have a dedicated account for your SIM Cards.
-- For more information on ThingPark Wireless Device Manager, see [here](/B-Feature-Topics/DeviceManager_C/Overview.md)
+- For more information on ThingPark Wireless Device Manager, see [here](/B-Feature-Topics/DeviceManager_C/Overview)
 :::
 
 Login to the following URL [https://iot.thingpark.com/portal/web](https://iot.thingpark.com/portal/web) with your credentials and create a new cellular device as shown in the figure below.

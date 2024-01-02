@@ -55,7 +55,7 @@ of the packet, see [Uplink expandable panel](#uplink-expandable-panel).
 
 This topic also applies to passive roaming uplinks. For more
 information, see [Passive roaming LoRaWAN®
-packets](passive-roaming-lorawan-packets.md).
+packets](passive-roaming-lorawan-packets).
 
 | Metadata | Description |
 | -------- | ----------- |
@@ -79,7 +79,7 @@ packets](passive-roaming-lorawan-packets.md).
 | **LRR Long** | Longitude of the best-LRR. |
 | **LRR GwCnt** |Number of LRR gateways (LRR base stations) receiving the uplink packet. The system performs a 250ms buffering upon receiving an uplink packet to check if the same packet arrives through other LRRs, in which case the LRR Count is incremented. |
 | **MIC** | Message Integrity Checksum.|
-| **Device Lat** / **Device Long** / **LoS Distance (m)** / **Map** / **Trip** | Respectively: Device latitude / Device longitude / Distance between the device and the best-LRR / Displays the device and the LRR base station on a map / Displays the location path of the device (if device location is available).<br/><br/>The GPS data are filled only if the device gives its location: <br/>- **Manual location**: Provisioned in Device Manager application<br/>- **GPS location reported by the device in the uplink payload**: This option is only valid if the payload decoder is selected and the application session key (AppSKey) of the device is known to ThingPark. For more information, see [Decoding LoRaWAN® payloads](../analyzing/decode-lorawan-payload.md)<br/>-**Network-based geolocation:** based on TDoA/RSSI geolocation algorithms. |
+| **Device Lat** / **Device Long** / **LoS Distance (m)** / **Map** / **Trip** | Respectively: Device latitude / Device longitude / Distance between the device and the best-LRR / Displays the device and the LRR base station on a map / Displays the location path of the device (if device location is available).<br/><br/>The GPS data are filled only if the device gives its location: <br/>- **Manual location**: Provisioned in Device Manager application<br/>- **GPS location reported by the device in the uplink payload**: This option is only valid if the payload decoder is selected and the application session key (AppSKey) of the device is known to ThingPark. For more information, see [Decoding LoRaWAN® payloads](../analyzing/decode-lorawan-payload)<br/>-**Network-based geolocation:** based on TDoA/RSSI geolocation algorithms. |
 
 ## Receiving base stations and best-LRR
 
@@ -125,15 +125,15 @@ click **+** the left side of the packet.
 
 This topic also applies to passive roaming uplinks. For more
 information, see [Passive roaming LoRaWAN®
-packets](passive-roaming-lorawan-packets.md).
+packets](passive-roaming-lorawan-packets).
 
 | Field | Description |
 | --- | --- |
 | **Mtype** | Indicates the type of message: **ConfirmedDataUp**, **UnConfirmedDataUp**, or **JoinRequest**. For more information, see [Uplink message type](#uplink-message-type) | 
 | **Flags** | MAC layer flags available in the Frame Header (for more details, see LoRaWAN® 1.0.3 MAC Layer specification):<br/>- **ADR**: set to 1 if ADR enabled by the device, 0 otherwise. For more details, see [Adaptive Data Rate](#adaptive-data-rate)<br/>- **ACK**: set to 1 if the packet contains an acknowledgement to the previous downlink packet, 0 otherwise.<br/>- **ADRACKReq**: set to 1 when the device requests an acknowledgment to validate the network-controlled ADR. |
-| **MAC (hex)** | Contains the uplink MAC commands in hexadecimal format. **Note:** Wireless Logger also displays MAC commands in decoded format, in the expandable panel. For more information, see [Decoding LoRaWAN® payloads](../analyzing/decode-lorawan-payload.md) | 
+| **MAC (hex)** | Contains the uplink MAC commands in hexadecimal format. **Note:** Wireless Logger also displays MAC commands in decoded format, in the expandable panel. For more information, see [Decoding LoRaWAN® payloads](../analyzing/decode-lorawan-payload) | 
 | **Data (hex)** | Contains the uplink application payload in hexadecimal format. |
-| **Driver metadata** | Metadata associated with the device profile corresponding to the device in question. This metadata allows Wireless Logger application to automatically map the device to the right payload decoder from the list of IoT Flow drivers. For more information, see [Decoding LoRaWAN® payloads](../analyzing/decode-lorawan-payload.md) |
+| **Driver metadata** | Metadata associated with the device profile corresponding to the device in question. This metadata allows Wireless Logger application to automatically map the device to the right payload decoder from the list of IoT Flow drivers. For more information, see [Decoding LoRaWAN® payloads](../analyzing/decode-lorawan-payload) |
 | **Data size (bytes)** | Size of the application payload in bytes. |
 | **AirTime (s)** | Time duration of the packet over the air (in seconds).|
 | **LRR table** | Reception metadata for each LRR that received the uplink packet (up to 10 LRRs).For more information, see the description of the corresponding parameters. |

@@ -52,7 +52,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Operator user guide](../user-guide-tpw/operator/index.md).
+To learn more, see [Operator user guide](../user-guide-tpw/operator/index).
 
 ## Profiles (4 minutes)
 
@@ -73,7 +73,7 @@ x- What are device profiles, base stations profiles and RF regions in ThingParkÂ
 </div>
 ```
 
-To learn more, see [Operator user guide](../user-guide-tpw/operator/index.md).
+To learn more, see [Operator user guide](../user-guide-tpw/operator/index).
 
 ## Accounts (8 minutes)
 
@@ -94,7 +94,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Operator user guide](../user-guide-tpw/operator/index.md).
+To learn more, see [Operator user guide](../user-guide-tpw/operator/index).
 
 ## Managing connectivity
 
@@ -117,7 +117,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Supplier user guide](../user-guide-tpw/supplier/index.md).
+To learn more, see [Supplier user guide](../user-guide-tpw/supplier/index).
 
 ## Licenses (3 minutes)
 
@@ -138,7 +138,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Supplier user guide](../user-guide-tpw/supplier/index.md).
+To learn more, see [Supplier user guide](../user-guide-tpw/supplier/index).
 
 ## Offers (5 minutes)
 
@@ -159,7 +159,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Vendor user guide](../user-guide-tpw/vendor/index.md).
+To learn more, see [Vendor user guide](../user-guide-tpw/vendor/index).
 
 ## Subscribers (7 minutes)
 
@@ -181,7 +181,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Vendor user guide](../user-guide-tpw/vendor/index.md).
+To learn more, see [Vendor user guide](../user-guide-tpw/vendor/index).
 
 ## Managing devices
 
@@ -224,7 +224,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Device Manager user guide](../user-guide-tpw/device-manager/index.md).
+To learn more, see [Device Manager user guide](../user-guide-tpw/device-manager/index).
 
 ## Routing profiles (6 minutes)
 
@@ -246,7 +246,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Device Manager user guide](../user-guide-tpw/device-manager/index.md).
+To learn more, see [Device Manager user guide](../user-guide-tpw/device-manager/index).
 
 ## Managing the network
 
@@ -269,7 +269,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Wireless Logger user guide](../user-guide/network-tools/wireless-logger/overview.md).
+To learn more, see [Wireless Logger user guide](../user-guide/network-tools/wireless-logger/overview).
 
 ## Network Manager (9 minutes)
 
@@ -290,7 +290,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Network Manager user guide](../user-guide-tpw/network-manager/index.md).
+To learn more, see [Network Manager user guide](../user-guide-tpw/network-manager/index).
 
 ## Base station administration (10 minutes)
 
@@ -309,7 +309,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Network Manager user guide](../user-guide-tpw/network-manager/index.md).
+To learn more, see [Network Manager user guide](../user-guide-tpw/network-manager/index).
 
 ## Suplog (10 minutes)
 
@@ -329,7 +329,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Network Manager user guide](../user-guide-tpw/network-manager/index.md).
+To learn more, see [Network Manager user guide](../user-guide-tpw/network-manager/index).
 
 ## Network Survey (9 minutes)
 
@@ -350,7 +350,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Network Survey user guide](../user-guide/network-tools/network-survey/overview.md).
+To learn more, see [Network Survey user guide](../user-guide/network-tools/network-survey/overview).
 
 ## Spectrum Analysis (7 minutes)
 
@@ -371,7 +371,7 @@ This video answers the following questions:
 </div>
 ```
 
-To learn more, see [Spectrum Analysis user guide](../user-guide/network-tools/spectrum-analysis/overview.md).
+To learn more, see [Spectrum Analysis user guide](../user-guide/network-tools/spectrum-analysis/overview).
 
 ## Integrating applications with ThingPark Wireless
 

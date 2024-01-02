@@ -201,12 +201,12 @@ filter not acknowledged alarms.
     1.  Get the alarm name and associated information.
 
     2.  Follow the corresponding guidelines in [Troubleshooting
-        devices](troubleshoot-devices.md).
+        devices](troubleshoot-devices).
 
     3.  If you consider the alarm as being not important and do not want
         to see it anymore in the default display, click **Ack**. For
         more information, see [Acknowledging
-        alarms](acknowledge-alarms.md).
+        alarms](acknowledge-alarms).
 
 8.  Repeat until all active alarms disappear.
 
@@ -259,7 +259,7 @@ also filter cleared alarms whenever you want.
     - If you consider the alarm as being not important and do not want
       to see it anymore in the default display, click it, and click
       **Ack**. For more information, see [Acknowledging
-      alarms](acknowledge-alarms.md).
+      alarms](acknowledge-alarms).
 
 ## Investigating a cleared alarm in the alarms history of the device
 
@@ -351,7 +351,7 @@ situation of the device where an alarm keeps triggering and clearing.
         **Alarms** in the navigation panel to enter the Active alarm
         panel. Select the alarm name from the **Alarm** list, click
         **Search**, then click the alarm, and click **Ack**. For more
-        information, see [Acknowledging alarms](acknowledge-alarms.md).
+        information, see [Acknowledging alarms](acknowledge-alarms).
 
 9.  Repeat steps 6 and 7 to investigate another cleared alarm.
     -\> If more than one state before clearance are displayed for the
@@ -363,7 +363,7 @@ situation of the device where an alarm keeps triggering and clearing.
         at which the alarm has been triggered and cleared.
 
     2.  Follow the guidelines corresponding to the alarm in
-        [Troubleshooting devices](troubleshoot-devices.md).
+        [Troubleshooting devices](troubleshoot-devices).
 
     3.  (Optional) If you want to acknowledge the alarm, repeat step
         8.b.

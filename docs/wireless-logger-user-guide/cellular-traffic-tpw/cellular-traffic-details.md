@@ -8,7 +8,7 @@ sidebar_position: 1
 
 This topic provides quick access to all information you can display when
 expanding cellular packets and reports in Wireless Logger. For more
-information, see [Expanding packets](../analyzing/expand-packets.md).
+information, see [Expanding packets](../analyzing/expand-packets).
 
 ## Session creation
 

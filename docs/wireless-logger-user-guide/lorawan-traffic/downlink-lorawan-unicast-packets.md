@@ -72,8 +72,8 @@ packet.
 
 This topic also applies to multicast and passive roaming downlinks. For
 more information, see [Downlink LoRaWAN® multicast
-packets](downlink-lorawan-multicast-packets.md) and [Passive roaming
-LoRaWAN® packets](passive-roaming-lorawan-packets.md).
+packets](downlink-lorawan-multicast-packets) and [Passive roaming
+LoRaWAN® packets](passive-roaming-lorawan-packets).
 
 | Metadata                 | Description                                                                                                                                                                    |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -114,8 +114,8 @@ LoRaWAN® downlink packet. To access the expandable panel, click
 
 This topic also applies to multicast and passive roaming downlinks. For
 more information, see [Downlink LoRaWAN® multicast
-packets](downlink-lorawan-multicast-packets.md) and [Passive roaming
-LoRaWAN® packets](passive-roaming-lorawan-packets.md).
+packets](downlink-lorawan-multicast-packets) and [Passive roaming
+LoRaWAN® packets](passive-roaming-lorawan-packets).
 
 | Field | Description |
 | -- | -- |
@@ -125,7 +125,7 @@ LoRaWAN® packets](passive-roaming-lorawan-packets.md).
 | **Flags** | MAC layer flags available in the Frame Header (for more details, see LoRaWAN® 1.0.3 MAC Layer specification):<br/>- **ADR**: always set to 1 if the command **LinkADRReq** is supported in the device profile of the device.<br/>- **ACK**: set to 1 if the packet contains an acknowledgement to the previous uplink packet, 0 otherwise.<br/>- **ADRACKReq**: not relevant for downlink packets.<br/>- **FPending**: set by the network to inform the device that other downlink packets are waiting for transmission on the network side. | 
 | **MAC (hex)** |Contains the downlink MAC commands in hexadecimal format. **Note:** Wireless Logger also displays MAC commands in decoded format in the expandable panel. |
 | **Data (hex)** | Contains the downlink application payload in hexadecimal format. |
-| **Driver metadata** | Metadata associated with the device profile corresponding to the device in question. This metadata allows Wireless Logger application to automatically map the device to the right payload decoder from the list of IoT Flow drivers (for more details, see [Decoding LoRaWAN® payloads](../analyzing/decode-lorawan-payload.md)|
+| **Driver metadata** | Metadata associated with the device profile corresponding to the device in question. This metadata allows Wireless Logger application to automatically map the device to the right payload decoder from the list of IoT Flow drivers (for more details, see [Decoding LoRaWAN® payloads](../analyzing/decode-lorawan-payload)|
 | **Data size (bytes)** | Size of the application payload in bytes. |
 | **AirTime (s)** |Time duration of the packet over the air (in seconds). | 
 | **Delivery Status** | Transmission status of the downlink packet by the LRR base station:<br/>- **Sent**: the downlink packet was successfully sent by the LRR. **Note:** Successful transmission by the LRR does not guarantee successful reception by the device, due to potential loss of the packet over the air (collision, link budget issues…).<br/>- **Failed**: the downlink packet could not be sent by the LRR over the air interface. The delivery failure cause on RX1/RX2/Pingslot (the latter is exclusive to class B devices) is provided by Wireless Logger. For more information, see [Downlink delivery failure causes](#downlink-delivery-failure-causes). | 

@@ -8,27 +8,27 @@ sidebar_position: 7
 This topic provides quick access to all LoRaWAN® packet and report
 information you can display in Wireless Logger:
 
-- [LoRaWAN® traffic overview](lorawan-traffic-overview.md) information
+- [LoRaWAN® traffic overview](lorawan-traffic-overview) information
   you can display in the Last packets list.
 
 - LoRaWAN® details information you can display when expanding packets
   and reports.
 
-  - [Uplink LoRaWAN® packets](uplink-lorawan-packets.md)
+  - [Uplink LoRaWAN® packets](uplink-lorawan-packets)
 
   - [Downlink LoRaWAN® unicast
-    packets](downlink-lorawan-unicast-packets.md)
+    packets](downlink-lorawan-unicast-packets)
 
   - [Downlink LoRaWAN® multicast
-    packets](downlink-lorawan-multicast-packets.md)
+    packets](downlink-lorawan-multicast-packets)
 
   - [Passive roaming LoRaWAN®
-    packets](passive-roaming-lorawan-packets.md)
+    packets](passive-roaming-lorawan-packets)
 
-  - [Location reports](location-reports.md)
+  - [Location reports](location-reports)
 
-  - [Device reset reports](device-reset-reports.md)
+  - [Device reset reports](device-reset-reports)
 
-  - [LoRaWAN® export file](lorawan-export-file.md)
+  - [LoRaWAN® export file](lorawan-export-file)
 
-- [LoRaWAN® export file](lorawan-export-file.md).
+- [LoRaWAN® export file](lorawan-export-file).

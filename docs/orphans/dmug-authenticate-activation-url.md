@@ -44,4 +44,4 @@ For more information, contact your vendor.
 
     <img src="../_images/logging-in-for-the-first-time-4.png" border="0" />
 
-3.  To complete the task, apply the steps described in [Usual logging in](../usual-logging-in.md).
+3.  To complete the task, apply the steps described in [Usual logging in](../usual-logging-in).

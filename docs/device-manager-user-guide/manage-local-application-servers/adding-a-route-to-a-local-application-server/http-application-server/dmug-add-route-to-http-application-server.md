@@ -88,7 +88,7 @@ server to add it one or more routes:
     routing profile:
 
     - If you want to add it to an existing AS routing profile, see
-      [Adding a destination to a LoRaWAN® AS routing profile](../manage-as-routing-profiles/add-destination-to-lorawan-as-routing-profile.md).
+      [Adding a destination to a LoRaWAN® AS routing profile](../manage-as-routing-profiles/add-destination-to-lorawan-as-routing-profile).
 
-    - If you want to add it to a new AS routing profile, see [Managing AS routing profiles](../manage-as-routing-profiles/index.md)
+    - If you want to add it to a new AS routing profile, see [Managing AS routing profiles](../manage-as-routing-profiles/index)
       .

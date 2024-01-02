@@ -9,7 +9,7 @@ This topic provides quick access to the definitions and computations of
 the radio statistics that build the charts used to monitor LoRaWAN®
 devices in Device Manager. For more information, see [Monitoring radio
 statistics of a LoRaWAN®
-device](./dmug-monitor-radio-statistics-lorawan-device.md).
+device](./dmug-monitor-radio-statistics-lorawan-device).
 
 ## Packet Error Rate (PER)
 
@@ -21,7 +21,7 @@ Its computation depends on the ADR algorithm version set in the
 connectivity plan associated with the device. For more information, see
 [Monitoring radio
 statistics of a LoRaWAN®
-device](./dmug-monitor-radio-statistics-lorawan-device.md).
+device](./dmug-monitor-radio-statistics-lorawan-device).
 
 ### Instant PER
 

@@ -50,7 +50,7 @@ filters](#searching-multicast-groups-using-filters).
 | **Tag names**       | Tag names corresponding to base stations groups associated with the multicast group.                                                                                                             |
 | **Connectivity**    | Name of the multicast connectivity plan /Name of the AS routing profile associated with the multicast group.                                                                                     |
 | **Average packets** | Average number of multicast downlink packets/day managed by the multicast group.                                                                                                                 |
-| **Alarm**           | Number of alarms of the multicast group that are not acknowledged with color indicating state and severity level. For more information, see [Managing alarms](../manage-device-alarms/index.md). |
+| **Alarm**           | Number of alarms of the multicast group that are not acknowledged with color indicating state and severity level. For more information, see [Managing alarms](../manage-device-alarms/index). |
 
 1.  If you want to manage contents in the list, hover your mouse over a
     column header and click the arrow that appears, then select the

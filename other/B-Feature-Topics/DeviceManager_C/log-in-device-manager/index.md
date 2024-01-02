@@ -9,11 +9,11 @@ sidebar_position: 1
 This topic shows you how to log in Device Manager for the first time and
 every day.
 
-- [Logging in for the first time](log-in-first-time.md)
+- [Logging in for the first time](log-in-first-time)
 
-- [Usual logging in](usual-logging-in.md)
+- [Usual logging in](usual-logging-in)
 
-- [Log in troubleshooting](log-in-troubleshooting.md)
+- [Log in troubleshooting](log-in-troubleshooting)
 
 For more information about your logging policy, refer to your
 administrator.

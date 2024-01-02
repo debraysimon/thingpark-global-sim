@@ -13,7 +13,7 @@ open AS routing profiles in view mode to check their parameters.
 
 The panel also displays the default AS routing profiles. For more
 information, see [Changing the default AS routing
-profile](change-default-as-routing-profile.md)
+profile](change-default-as-routing-profile)
 
  
 

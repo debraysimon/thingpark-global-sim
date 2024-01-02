@@ -17,7 +17,7 @@ or reception of the packet.
 
 - For packets, the expanded view allows you to get the MAC commands and
   the applicative payload if any. For more information, see [Packet and
-  payload](packet-and-payload.md).
+  payload](packet-and-payload).
 
 ## Expanding a packet
 

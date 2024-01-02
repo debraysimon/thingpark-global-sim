@@ -17,7 +17,7 @@ password by asking your account to be unlocked.
 1.  Contact the vendor to unlock your account.
 
 2.  When done, log in Device Manager with your usual password. For more
-    information, see [Usual logging in](usual-logging-in.md).
+    information, see [Usual logging in](usual-logging-in).
 
 ## You have lost your password - Asking a password reset or self-resetting password
 

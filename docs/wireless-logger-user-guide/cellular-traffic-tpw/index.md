@@ -8,8 +8,8 @@ sidebar_position: 8
 This topic provides quick access to all cellular packet and report
 information you can display in Wireless Logger:
 
-- [Cellular traffic overview](cellular-traffic-overview.md) information
+- [Cellular traffic overview](cellular-traffic-overview) information
   you can display in the Last packets list.
 
-- [Cellular traffic details](cellular-traffic-details.md) information
+- [Cellular traffic details](cellular-traffic-details) information
   you can display when expanding packets and reports.

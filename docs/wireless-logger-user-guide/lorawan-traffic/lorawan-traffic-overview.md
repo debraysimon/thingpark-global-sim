@@ -6,7 +6,7 @@ sidebar_position: 0
 # LoRaWAN® traffic overview
 
 This topic describes LoRaWAN® summary information displayed in the Last packets list. For more information, see
-[Viewing the traffic](../viewing/view-traffic.md).
+[Viewing the traffic](../viewing/view-traffic).
 
 ## LoRaWAN® packets
 

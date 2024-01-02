@@ -138,7 +138,7 @@ downlinks it manages. This information is read-only.
 
 For more information about charts, see [Monitoring packets and payloads
 history of a LoRaWAN®
-device](../../orphans/dmug-monitor-packets-payloads-history-lorawan-device.md)
+device](../../orphans/dmug-monitor-packets-payloads-history-lorawan-device)
 and [Printing or downloading a
 chart](../../Manage%20a%20device/check-device-settings-activity.md#printing-or-downloading-a-chart).
 

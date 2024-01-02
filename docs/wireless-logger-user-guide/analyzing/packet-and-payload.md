@@ -26,4 +26,4 @@ packet to display the MAC and/or applicative payload inside:
   decrypted by the LRC network server and displayed in Wireless Logger.
   Otherwise, the payload is displayed encrypted. For more information
   about how to decode payloads, see [Decoding LoRaWAN®
-  payloads](decode-lorawan-payload.md).
+  payloads](decode-lorawan-payload).

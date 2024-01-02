@@ -27,7 +27,7 @@ In the Last packets list:
 This task also shows you how to reload the packets to refresh the Last packets list.
 
 1.  If Wireless Logger is not opened, apply [Logging
-    in](../log-in-wireless-logger.md).
+    in](../log-in-wireless-logger).
 
 2.  (Optional) If you have been logged in for a while, do one of the
     following to load the latest packets:
@@ -68,9 +68,9 @@ This task also shows you how to reload the packets to refresh the Last packets l
 
 4.  Check the different types of packet you have in your traffic. 
     For more information, see 
-    :specificContent[[LoRaWAN® traffic overview](../lorawan-traffic/lorawan-traffic-overview.md).]{flavor=tpe}
-    :specificContent[[LoRaWAN® traffic overview](../lorawan-traffic/lorawan-traffic-overview.md)
-    or [Cellular traffic overview](../cellular-traffic-tpw/cellular-traffic-overview.md).]{flavor=tpw}
+    :specificContent[[LoRaWAN® traffic overview](../lorawan-traffic/lorawan-traffic-overview).]{flavor=tpe}
+    :specificContent[[LoRaWAN® traffic overview](../lorawan-traffic/lorawan-traffic-overview)
+    or [Cellular traffic overview](../cellular-traffic-tpw/cellular-traffic-overview).]{flavor=tpw}
 
 6.  Check the most important metadata of the packets that appear in
     columns. 
@@ -102,4 +102,4 @@ This task also shows you how to reload the packets to refresh the Last packets l
     ![](./../_images/expandmessage.png) on the left side of the packet.
 
 9.  To reload the packets, click **Refresh** anytime you want or use
-    [Autoreloading search](../filtering/autoreload.md).
+    [Autoreloading search](../filtering/autoreload).

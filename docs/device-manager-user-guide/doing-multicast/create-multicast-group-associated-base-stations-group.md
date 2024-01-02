@@ -272,7 +272,7 @@ or will be located, or ask your operator for the tags you can use:
 
 Tags are created and added to base stations by operators, or network
 partners if base stations tagging is delegated. For more information,
-see [Operator user guide](../../operator/index.md) and [Network Manager user guide](../../network-manager/index.md).
+see [Operator user guide](../../operator/index) and [Network Manager user guide](../../network-manager/index).
 
 For more information about base station tags, see [Viewing, managing and
 removing base station tags in a multicast

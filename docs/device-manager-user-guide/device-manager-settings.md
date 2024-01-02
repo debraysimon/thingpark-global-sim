@@ -36,17 +36,14 @@ access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 You, or your operator on your behalf, can define the ISM bands
 corresponding to your deployment to only display compatible models when
-creating or updating devices. For more information, see [Creating an
-OTAA
-device](create-devices/create-lorawan-device.md#creating-an-otaa-device),
-[Creating an ABP
-device](create-devices/create-lorawan-device.md#creating-an-abp-device),
+creating or updating devices. For more information, see 
+[Creating an OTAA device](create-devices/create-lorawan-device.md#creating-an-otaa-device),
+[Creating an ABP device](create-devices/create-lorawan-device.md#creating-an-abp-device),
 and [Changing the device model](manage-a-device/change-device-model.md)
 .
 
 You must have read-write access. Read more\... For more information, see
-[Opening a panel and checking your read-/write
-access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+[Opening a panel and checking your read-/write access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
  
 
@@ -72,10 +69,10 @@ access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 In addition to the alarms notifications appearing in the Devices panel
 and the Active alarms panel of a device Read more\... For more
-information, see [Viewing not acknowledged alarms of your
-network](manage-device-alarms/monitor-device-alarms.md#viewing-not-acknowledged-alarms-of-your-network)
-and [More about searching
-alarms](manage-device-alarms/monitor-device-alarms.md#more-about-searching-alarms),
+information, see 
+[Viewing not acknowledged alarms of your network](./manage-alarms/monitor-device-alarms.md#viewing-not-acknowledged-alarms-of-your-network)
+and 
+[More about searching alarms](./manage-alarms/monitor-device-alarms.md#more-about-searching-alarms),
 you can set alarm notifications by email to monitor all devices of the
 account when necessary, and independently of the device the alarm
 belongs to:
@@ -100,14 +97,12 @@ cleared or acknowledged alarm.
 - The Setting panel opens with the last saved configuration mode.
 
 You must have read-write access to Device Manager to set alarms
-notifications emails. Read more\... For more information, see [Opening a
-panel and checking your read-/write
-access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+notifications emails. Read more\... For more information, see 
+[Opening a panel and checking your read-/write access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 If you have read-only access, you can see who receives alarm
 notification emails for which alarms state. For more information, see
-[Viewing/Setting an alarm notification email in advanced
-mode](#viewing-setting-an-alarm-notification-email-in-advanced-mode). If
+[Viewing/Setting an alarm notification email in advanced mode](#viewingsetting-an-alarm-notification-email-in-advanced-mode). If
 you want to receive alarm notification emails, ask an end-user with
 read-write access to set it for you.
 
@@ -118,9 +113,8 @@ triggered, whatever the alarm state (Critical, Major, Minor, Warning,
 Indeterminate, Cleared or Acked).
 
 You must have read-write access to Device Manager to set alarms
-notifications emails. Read more\... For more information, see [Opening a
-panel and checking your read-/write
-access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+notifications emails. Read more\... For more information, see 
+[Opening a panel and checking your read-/write access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
  
 
@@ -155,7 +149,7 @@ reached, an email for all devices impacted is sent:
   **Note** For an event-driven alarm, no email is sent for any new
   occurrence if the alarm state is the same. For more information, see
   [Alarm occurrence
-  management](manage-device-alarms/index.md#alarm-occurrence-management).
+  management](./manage-alarms#alarm-occurrence-management).
 
 - Whenever the alarm has been acknowledged and increases to this alarm
   state.  
@@ -210,4 +204,4 @@ mode** and do not click **Save**.
     frame will appear with the advanced mode.
 
 To learn more how you can use alarms to identify and prioritize device
-issues, see [Managing alarms](manage-device-alarms/index.md).
+issues, see [Managing alarms](./manage-alarms).

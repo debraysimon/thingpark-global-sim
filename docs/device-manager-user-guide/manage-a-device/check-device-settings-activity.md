@@ -47,12 +47,12 @@ summary and location of a:
 
     - Either the device cannot switch to class B. If you want to check the
       device packets, see 
-[Wireless Logger User Guide](../../wireless-logger-user-guide/index.md).
+[Wireless Logger User Guide](../../wireless-logger-user-guide/index).
 
     - Or when creating the device, it has been associated with:
 
       - A model that does not support class B. If you want to change it, see
-        [Changing the device model](change-device-model.md).
+        [Changing the device model](change-device-model).
 
       - A connectivity plan that does not allow class B. If you want to
         change it, see [Changing the connectivity
@@ -79,11 +79,11 @@ statistics to monitor the activity of the device for a given time. This
 information is read-only.
 
 - [Monitoring packets and payloads history of a LoRaWAN®
-  device](../orphans/dmug-monitor-packets-payloads-history-lorawan-device.md)
+  device](../orphans/dmug-monitor-packets-payloads-history-lorawan-device)
 
-- [Monitoring radio statistics of a LoRaWAN® device](../orphans/dmug-monitor-radio-statistics-lorawan-device.md)
+- [Monitoring radio statistics of a LoRaWAN® device](../orphans/dmug-monitor-radio-statistics-lorawan-device)
 
-- [More about LoRaWAN® radio statistics](../orphans/dmug-more-lorawan-radio-statistics.md)
+- [More about LoRaWAN® radio statistics](../orphans/dmug-more-lorawan-radio-statistics)
 
 ## Monitoring the activity of a cellular device
 
@@ -199,9 +199,9 @@ JPEG, PDF, SVG). This task is also available for read-only end-users.
 1.  Display the chart you want as explained in:
 
     - [Monitoring packets and payloads history of a LoRaWAN®
-  device](../orphans/dmug-monitor-packets-payloads-history-lorawan-device.md)
+  device](../orphans/dmug-monitor-packets-payloads-history-lorawan-device)
 
-    - [Monitoring radio statistics of a LoRaWAN® device](../orphans/dmug-monitor-radio-statistics-lorawan-device.md)
+    - [Monitoring radio statistics of a LoRaWAN® device](../orphans/dmug-monitor-radio-statistics-lorawan-device)
 
     - [Monitoring the activity of a cellular
       device](#monitoring-the-activity-of-a-cellular-device)

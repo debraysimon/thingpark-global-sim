@@ -9,7 +9,7 @@ sidebar_position: 1
 ## Alarms list with troubleshooting guidelines
 
 Once you have investigated alarms as shown in [Monitoring
-alarms](monitor-device-alarms.md), you can use the following table that
+alarms](monitor-device-alarms), you can use the following table that
 lists all the alarms triggered by Device Manager to help you
 troubleshoot devices.
 

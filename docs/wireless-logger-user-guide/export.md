@@ -20,16 +20,16 @@ You can use your export file:
   that is 35 days for ThingPark wireless.
 
 If you have decoded payloads using the automatic decoder as described in
-[Decoding LoRaWAN® payloads](analyzing/decode-lorawan-payload.md), the
+[Decoding LoRaWAN® payloads](analyzing/decode-lorawan-payload), the
 export file contains the decoded payloads and information about the
 driver. For more information about the packet information contained in
 the export file, see [LoRaWAN® export
-file](lorawan-traffic/lorawan-export-file.md).
+file](lorawan-traffic/lorawan-export-file).
 
 1.  (Optional) Restrict your search according to the packets you want to
     export. For more information, see [Searching
-    packets](filtering/search-packets.md) and [Quick
-    filtering](filtering/quick-filtering.md).
+    packets](filtering/search-packets) and [Quick
+    filtering](filtering/quick-filtering).
 
 2.  From the **Export size** list, do one of the following:
     
@@ -48,5 +48,5 @@ file](lorawan-traffic/lorawan-export-file.md).
     -\> The export file downloads.
 
     -\> For more information, see [LoRaWAN® export
-    file](lorawan-traffic/lorawan-export-file.md):specificContent[ and [Cellular traffic
-    details](cellular-traffic-tpw/cellular-traffic-details.md)]{flavor=tpw}.
+    file](lorawan-traffic/lorawan-export-file):specificContent[ and [Cellular traffic
+    details](cellular-traffic-tpw/cellular-traffic-details)]{flavor=tpw}.

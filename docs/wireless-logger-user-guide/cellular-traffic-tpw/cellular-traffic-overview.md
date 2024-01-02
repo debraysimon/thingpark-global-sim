@@ -7,8 +7,8 @@ sidebar_position: 0
 # Cellular traffic overview
 
 This topic describes cellular summary information displayed in the Last packets list. For more information, see
-[Viewing the traffic](../viewing/view-traffic.md) and [Cellular traffic
-details](cellular-traffic-details.md).
+[Viewing the traffic](../viewing/view-traffic) and [Cellular traffic
+details](cellular-traffic-details).
 
 ## Cellular packets
 
@@ -17,7 +17,7 @@ message mode.
 
 This cellular mode consists in sending a small volume of data in uplink
 and downlink packets to one or more application servers. It works
-similarly to LoRaWAN®. For more information, see [Device Manager user guide](../../../../user-guide-tpw/device-manager/index.md).
+similarly to LoRaWAN®. For more information, see [Device Manager user guide](../../../../user-guide-tpw/device-manager/index).
 
 | Symbol                        | Name         | Description          |
 |-------------------------------|--------------|----------------------|
@@ -30,7 +30,7 @@ The cellular report you can see in Wireless Logger applies to cellular
 direct IP mode.
 
 This cellular mode consists in sending large volumes of data in uplink
-and downlink bytes to an ASR address. For more information, see [Device Manager user guide](../../../../user-guide-tpw/device-manager/index.md).
+and downlink bytes to an ASR address. For more information, see [Device Manager user guide](../../../../user-guide-tpw/device-manager/index).
 
 | Symbol                                              | Name                 | Description                                                                                                                                                                                        |
 |-----------------------------------------------------|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -39,7 +39,7 @@ and downlink bytes to an ASR address. For more information, see [Device Manager 
 ## Cellular metadata columns
 
 For more information about all cellular metadata available in Wireless
-Logger, see [Cellular traffic details](cellular-traffic-details.md).
+Logger, see [Cellular traffic details](cellular-traffic-details).
 
 | Metadata        | Description                                                                                                                                             |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|

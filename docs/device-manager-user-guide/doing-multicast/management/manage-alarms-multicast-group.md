@@ -36,4 +36,4 @@ The following alarm applies to multicast groups:
     15 days.
 
     For more information, see [Managing
-    alarms](../../manage-device-alarms/index.md) that works similarly.
+    alarms](../../manage-device-alarms/index) that works similarly.

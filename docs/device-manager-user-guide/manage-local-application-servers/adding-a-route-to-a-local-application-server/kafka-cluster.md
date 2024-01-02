@@ -34,7 +34,7 @@ the Application server panel.
 
     - If you want to add it to an existing AS routing profile, see
       [Adding a destination to a LoRaWAN® AS routing
-      profile](../manage-as-routing-profiles/add-destination-to-lorawan-as-routing-profile.md).
+      profile](../manage-as-routing-profiles/add-destination-to-lorawan-as-routing-profile).
 
     - If you want to add it to a new AS routing profile, see [Managing
-      AS routing profiles](../manage-as-routing-profiles/index.md).
+      AS routing profiles](../manage-as-routing-profiles/index).
