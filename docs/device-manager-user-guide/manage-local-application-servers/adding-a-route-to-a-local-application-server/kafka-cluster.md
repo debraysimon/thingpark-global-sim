@@ -33,6 +33,6 @@ the Application server panel.
     LoRaWAN® or a cellular AS routing profile:
 
     - If you want to add it to an existing AS routing profile, see
-      [Adding a destination to a LoRaWAN® AS routing       profile](../manage-as-routing-profiles/add-destination-to-lorawan-as-routing-profile).
+      [Adding a destination to a LoRaWAN® AS routing profile](../../manage-as-routing-profiles/add-destination-to-lorawan-as-routing-profile.md).
 
-    - If you want to add it to a new AS routing profile, see [Managing       AS routing profiles](../manage-as-routing-profiles/index.md).
+    - If you want to add it to a new AS routing profile, see [Managing AS routing profiles](../../manage-as-routing-profiles/index.md).

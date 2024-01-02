@@ -12,7 +12,7 @@ The solution is based on ThingPark Wireless + EPC Connector (EPCC). EPCC is an a
 
 :::warning WARNING
 - The list of supported countries for LTE coverage is [here](https://thingpark.page.link/TPCellularSIMPricing).
-- The service is primarily restricted to LTE-only coverage. For other countries or with option for 2G/3G data connectivity, please [contact us](/FAQ_R/).
+- The service is primarily restricted to LTE-only coverage. For other countries or with option for 2G/3G data connectivity, please [contact us](../troubleshooting-and-support/FAQ.md).
 
 - You can purchase ThingPark Global SIM from [here](https://market.thingpark.com/actility-global-sim)
   :::

@@ -30,7 +30,7 @@ ThingPark Wireless EPCC supports both message mode and Direct IP traffic.
 
 - The message mode allows the device to send only the payloads which it intends to send to the application server. The communicataion with cloud platforms can be done using [ThingPark X IoT Flow](https://docs.thingpark.com/thingpark-x/latest/Overview/). This allows the device to save significant power as all the communication happens over UDP or NIDD, while at the same time customer applications can build applications in cloud platforms and interact with the device using cloud connector using ThingPark X IoT Flow.
 
-- The message mode traffic can also be decoded in [Wireless logger](/B-Feature-Topics/network-tools/wireless-logger/overview) using built-in drivers in ThingPark X IoT Flow. ThingPark X also allows the customers to build custom drivers for their devices.
+- The message mode traffic can also be decoded in [Wireless logger](../wireless-logger-user-guide/index.md) using built-in drivers in ThingPark X IoT Flow. ThingPark X also allows the customers to build custom drivers for their devices.
 
 </details>
 

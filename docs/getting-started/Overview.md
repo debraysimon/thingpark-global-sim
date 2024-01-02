@@ -16,7 +16,7 @@ In this section, we will provide you step by step procedure to get Cellular devi
 - Step 8: Using OSS APIs for automation
 
 ## Step 1: Provision your devices
-The first step is to provision the devices in ThingPark Wireless. You can access the [Device Manager](https://iot.thingpark.com/deviceManager/). The URL is specific to EU PROD environment for cellular devices. For other platforms, please [contact us](/FAQ_R/). The figure below gives an overview of all the steps to provision the device.
+The first step is to provision the devices in ThingPark Wireless. You can access the [Device Manager](https://iot.thingpark.com/deviceManager/). The URL is specific to EU PROD environment for cellular devices. For other platforms, please [contact us](../troubleshooting-and-support/FAQ.md). The figure below gives an overview of all the steps to provision the device.
 
 ![](_images/create-device.png)
 
@@ -39,7 +39,7 @@ The first step is to provision the devices in ThingPark Wireless. You can access
 
 <sup>(3)</sup> This step implies that the cellular SIM card keys are pre-provisioning the [Connectivity supplier](https://docs.thingpark.com/thingpark-wireless/7.2/docs/user-guide-tpw/supplier/use-connectivity-manager/pre-provision-cellular-devices#importing-sim-cards)
 
-For more information of device manager, click [here](/B-Feature-Topics/DeviceManager_C/Overview)
+For more information of device manager, click [here](../device-manager-user-guide/index.md)
 :::
 
 ## Step 2: Create routing profile and application server
@@ -95,16 +95,16 @@ The figure below shows the steps to add the routing profile created in earlier s
 
 EPCC will terminate all the Direct IP traffic to the ASR using GRE tunnel. This ensures all the traffic originating to/from device stays in the customer's premises. This router can be configured with Enterprise specific rules forr handling the device traffic. Here are the commands to run inside Linux VM to terminate all the device traffic to internet using NAT:
 
-| Linux command | Description | 
-| - | -------- |
-|sudo modprobe ip_gre gre| Insert the GRE kernel module |
-|ip tunnel add gre1 mode gre remote **PGW_GRE_IP** local **GRE_VM_IP** ttl 255 | create the GRE tunnel |
-|ip link set gre1 up | start the newly created GRE interface |
-|route add -net **IP_DHCP_POOL_ROUTING_PROFILE** dev gre1 | Add a route to the GRE interface for the DHCP pool set in the routing profile |
-|iptables -t mangle -D POSTROUTING -d **IP_DHCP_POOL_ROUTING_PROFILE** -p tcp -m tcp --tcp-flags SYN,RST SYN -j TCPMSS --set-mss 1300 | Force the TCP Maximum segment size to 1300 to avoid packet fragmentation|
+| Linux command                                                                                                                        | Description                                                                   | 
+|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| sudo modprobe ip_gre gre                                                                                                             | Insert the GRE kernel module                                                  |
+| ip tunnel add gre1 mode gre remote **PGW_GRE_IP** local **GRE_VM_IP** ttl 255                                                        | create the GRE tunnel                                                         |
+| ip link set gre1 up                                                                                                                  | start the newly created GRE interface                                         |
+| route add -net **IP_DHCP_POOL_ROUTING_PROFILE** dev gre1                                                                             | Add a route to the GRE interface for the DHCP pool set in the routing profile |
+| iptables -t mangle -D POSTROUTING -d **IP_DHCP_POOL_ROUTING_PROFILE** -p tcp -m tcp --tcp-flags SYN,RST SYN -j TCPMSS --set-mss 1300 | Force the TCP Maximum segment size to 1300 to avoid packet fragmentation      |
 
 Note:
-1. **PGW_GRE_IP** refers to the IP address of the GRE interface on PGW. Please ask [support](/FAQ_R/) for this IP address
+1. **PGW_GRE_IP** refers to the IP address of the GRE interface on PGW. Please ask [support](../troubleshooting-and-support/FAQ.md) for this IP address
 2. **GRE_VM_IP** refers to the IP address of GRE VM. From the example screenshots above, it is **10.10.10.10**.
 3. **IP_DHCP_POOL_ROUTING_PROFILE** refers to the DHCP pool that is set in the routing profile. From the example screenshots above, it is **10.20.0.0/16**.
 4. The customer can add further rules to handle Direct IP traffic.
@@ -146,7 +146,7 @@ The next step is to visualize device traffic in the [Wireless logger](https://io
 2. Enter the IMEI of your device
 3. Visualize the traffic to/from the device in wireless logger
 
-For more information on wireless logger, click [here](/B-Feature-Topics/network-tools/wireless-logger/overview)
+For more information on wireless logger, click [here](../wireless-logger-user-guide/index.md)
 
 ## Step 8: Using OSS APIs for automation
 ThingPark Wireless comes with rich set of APIs that can be used to automate the processes above and much more. You can also find information on how ThingPark Wireless sends message mode packets to the application server. For more information on using OSS APIs, see [here](https://docs.thingpark.com/thingpark-wireless/7.2/docs/user-guide-tpw/integrating-applications-with-tpw).

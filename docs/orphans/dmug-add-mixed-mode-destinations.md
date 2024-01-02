@@ -11,7 +11,7 @@ cellular AS routing profile.
 **Before you begin**
 
 - You must have read-write access to Device Manager. Read more\... For
-  more information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+  more information, see [Opening a panel and checking your read-write access](../device-manager-user-guide/use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 - The cellular AS routing profile must be opened in edit mode.
 

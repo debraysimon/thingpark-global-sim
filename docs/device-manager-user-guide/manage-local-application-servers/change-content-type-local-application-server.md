@@ -47,7 +47,7 @@ You can use one of the following content types:
   }
   ```
 
-For more information, see [LRC-AS Tunnel Interface Developer Guide](../../integrating-applications-with-tpw.md#lrc-as-tunnel-interface-developer-guide).
+For more information, see [LRC-AS Tunnel Interface Developer Guide].
 
 **Before you begin** The application server must be opened in edit mode.
 

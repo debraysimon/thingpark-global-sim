@@ -17,16 +17,16 @@ destinations that are the following application servers:
 - **Local applications servers**: LoRaWAN® HTTP application servers or
   Kafka clusters
 
-For more information, see [AS routing profiles and application servers mapping](index#as-routing-profiles-and-application-servers-mapping).
+For more information, see [AS routing profiles and application servers mapping](index.md#as-routing-profiles-and-application-servers-mapping).
 
 **Important** The maximum number of destinations, summing up all types
 of application servers you can add in a LoRaWAN® AS routing profile, is
 defined in the connectivity plan associated with the device. For more
 information, see the Maximum allowed Application
-Servers parameter in [LoRaWAN® unicast connectivity plan details](../../../../Device%20Manager%20User%20Guide/reference-information.md#lorawan®-unicast-connectivity-plan-details).
+Servers parameter in [LoRaWAN® unicast connectivity plan details](../../device-manager-user-guide/reference-information.md#lorawan-unicast-connectivity-plan-details).
 
 If you want to use a local application server, it must have a route and
-be active to work properly. For more information, see [Adding a route to a local application server](../manage-local-application-servers/add-route-to-local-application-server)
+be active to work properly. For more information, see [Adding a route to a local application server](../manage-local-application-servers/adding-a-route-to-a-local-application-server/index.md)
 and [Deactivating a local application server](../manage-local-application-servers/deactivate-local-application-server).
 When added to the AS routing profile, a destination displays its status.
 

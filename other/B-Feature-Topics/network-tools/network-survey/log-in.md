@@ -6,8 +6,6 @@ sidebar_position: 2
 ::
 # Logging in
 
-:::specificContent{flavor=tpw}
-
 Launch the browser to access the URL:
 
 http://\<operator\>.thingpark.com/networkSurvey/
@@ -27,10 +25,6 @@ To log in:
 
 3.  Click Login.
 
-:::
-
-:::specificContent{flavor=tpe}
-
 You can access Network Survey tool directly from ThingPark Enterprise.
 
 1.  Click **Manage** \> **Operating Management** \> **Network Tools**.
@@ -41,5 +35,4 @@ You can access Network Survey tool directly from ThingPark Enterprise.
 
     ![](./_images/using-the-network-survey-tool-1.png)
 
-:::
 

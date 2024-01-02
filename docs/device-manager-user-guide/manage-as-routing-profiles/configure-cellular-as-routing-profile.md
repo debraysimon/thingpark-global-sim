@@ -76,11 +76,11 @@ DNS server 1</td>
 It consists in selecting and configuring the cellular mode you want for
 the cellular AS routing profile:
 
-- [Adding a message mode   destination](../orphans/dmug-add-message-mode-destination)
+- [Adding a message mode   destination](../../orphans/dmug-add-message-mode-destination.md)
 
-- [Adding a direct IP mode   destination](../orphans/dmug-add-direct-ip-mode-destination)
+- [Adding a direct IP mode   destination](../../orphans/dmug-add-direct-ip-mode-destination)
 
-- [Adding mixed mode   destinations](../orphans/dmug-add-mixed-mode-destinations)
+- [Adding mixed mode   destinations](../../orphans/dmug-add-mixed-mode-destinations)
 
 You must have read-write access to Device Manager. Read more\... For
 more information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).

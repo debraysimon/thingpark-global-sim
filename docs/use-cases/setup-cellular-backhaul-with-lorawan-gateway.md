@@ -16,8 +16,8 @@ Once the LRR image installed, please do the following steps in the LoRaWAN gatew
 
 :::warning Warning
 - The commands should be entered by logging into the gateway with the root login/password. The root login/password of the gateway is present in the delivery note that is shipped along with the gateway.
-- The AT commands above should return **OK**. If they do not return OK, then ensure SIM card is inserted properly and ensure the modem detects the SIM card properly and is detected by the OS correctly. If the problem persists, please do not proceed further and contact [Actility Support](/FAQ_R/).
-- The AT command manuals for different Gateway models are [here](/DocLibrary_R/#cellular-modem-at-command-manuals). Please contact [Actility Support](/FAQ_R/) if the AT command manual is not available for your LoRaWAN Gateway model. 
+- The AT commands above should return **OK**. If they do not return OK, then ensure SIM card is inserted properly and ensure the modem detects the SIM card properly and is detected by the OS correctly. If the problem persists, please do not proceed further and contact [Actility Support](../troubleshooting-and-support/FAQ.md).
+- The AT command manuals for different Gateway models are [here](../documentation-library.md#cellular-modem-at-command-manuals). Please contact [Actility Support](../troubleshooting-and-support/FAQ.md) if the AT command manual is not available for your LoRaWAN Gateway model. 
 :::
 
 ### Multitech Gateway (All models)
@@ -31,14 +31,14 @@ Once the LRR image installed, please do the following steps in the LoRaWAN gatew
 |Start the failover script once AT commands are done <br/>(Optional, Only needs to be done if AT commands return error)| /etc/init.d/ipfailover2 start                                          |
 
 ### Ufispace Gateway (All models)
-|Description|Command<br/>(Ufispace Gateway models)<br/>Cellular Modem: Huawei E3372 USB dongle, Huawei ME906s|
-|-----------|--------------------------------------|
-|Stop the failover script <br/>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 stop |
-|Get International Mobile Equipment Identifier (IMEI)   | chat -V -s '' ' AT+GSN ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
-|Get International mobile subscriber identity (IMSI)   | chat -V -s '' ' AT\^CIMI ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
-|Force modem to Packet Switched (PS) only ATTACH | chat -V -s '' ' AT\^SYSCFGEX=\"00\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2 |
-|Force modem to LTE only mode  | chat -V -s '' ' AT\^SYSCFGEX=\"03\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2  |
-|Start the failover script once AT commands are done <br/>(Optional, Only needs to be done if AT commands return error)|/etc/init.d/ipfailover2 start |
+| Description                                                                                                            | Command<br/>(Ufispace Gateway models)<br/>Cellular Modem: Huawei E3372 USB dongle, Huawei ME906s    |
+|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Stop the failover script <br/>(Optional, Only needs to be done if AT commands return error)                            | /etc/init.d/ipfailover2 stop                                                                        |
+| Get International Mobile Equipment Identifier (IMEI)                                                                   | chat -V -s '' ' AT+GSN ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2                                      |
+| Get International mobile subscriber identity (IMSI)                                                                    | chat -V -s '' ' AT\^CIMI ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2                                    |
+| Force modem to Packet Switched (PS) only ATTACH                                                                        | chat -V -s '' ' AT\^SYSCFGEX=\"00\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2 |
+| Force modem to LTE only mode                                                                                           | chat -V -s '' ' AT\^SYSCFGEX=\"03\",3fffffff,1,1,40000000,, ' 'OK' '' > /dev/ttyUSB2 < /dev/ttyUSB2 |
+| Start the failover script once AT commands are done <br/>(Optional, Only needs to be done if AT commands return error) | /etc/init.d/ipfailover2 start                                                                       |
 
 ### Gemtek Gateway (Model: gemodu, gempiconext)
 :::warning Note
@@ -79,11 +79,11 @@ Login to the Gateway support menu and ensure the following:
 
 ## Step 5: Provision the Actility SIM Card
 :::warning Warning
-- This step is restricted to [Actility Support](/FAQ_R/) unless you have a dedicated account for your SIM Cards.
-- For more information on ThingPark Wireless Device Manager, see [here](/B-Feature-Topics/DeviceManager_C/Overview)
+- This step is restricted to [Actility Support](../troubleshooting-and-support/FAQ.md) unless you have a dedicated account for your SIM Cards.
+- For more information on ThingPark Wireless Device Manager, see [here](../device-manager-user-guide/index.md)
 :::
 
 Login to the following URL [https://iot.thingpark.com/portal/web](https://iot.thingpark.com/portal/web) with your credentials and create a new cellular device as shown in the figure below.
 ![](images/ProvisionAndActivateSIM.png)
 
-Once all the above steps are done, you can restart the LoRa Gateway to connect and use Cellular backhaul. If there are still issues with cellular connectivity, please open a ticket to [Actility Support](/FAQ_R/).
+Once all the above steps are done, you can restart the LoRa Gateway to connect and use Cellular backhaul. If there are still issues with cellular connectivity, please open a ticket to [Actility Support](../troubleshooting-and-support/FAQ.md).

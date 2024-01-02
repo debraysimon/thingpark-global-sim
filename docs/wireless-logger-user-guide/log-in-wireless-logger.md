@@ -151,10 +151,6 @@ your operator to access your Wireless Logger application.
 
     ![](./_images/logging-in-through-the-user-2.png)
 
-:::
-
-:::specificContent{flavor=tpe}
-
 You can access Wireless Logger directly from ThingPark Enterprise.
 
 1.  Log in to your ThingPark Enterprise account.
@@ -165,4 +161,3 @@ You can access Wireless Logger directly from ThingPark Enterprise.
 
     ![](./_images/accessing-wireless-logger-tpe.png)
 
-:::

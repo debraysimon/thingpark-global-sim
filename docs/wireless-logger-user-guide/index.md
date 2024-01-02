@@ -5,9 +5,7 @@ sidebar_position: 4
 # Wireless logger user guide
 
 ThingPark Wireless Logger is the back-end graphical interface that
-allows you to monitor and track packets and reports of LoRaWAN®
-`:specificContent[and cellular]{flavor=tpw}`
-devices.
+allows you to monitor and track packets and reports of LoRaWAN® devices.
 You can view up to 10 000 packets going through your
 IoT network. You can also analyze in detail their metadata and use it
 for troubleshooting purpose.

@@ -43,7 +43,7 @@ server to add it one or more routes:
             FPort**.
 
             For more information about LoRaWAN® reports and FPort, see
-            [LRC-AS Tunnel Interface Developer Guide](../../integrating-applications-with-tpw.md#lrc-as-tunnel-interface-developer-guide).
+            [LRC-AS Tunnel Interface Developer Guide].
 
         - **For cellular devices**: There is no source port to define.
 
@@ -88,7 +88,7 @@ server to add it one or more routes:
     routing profile:
 
     - If you want to add it to an existing AS routing profile, see
-      [Adding a destination to a LoRaWAN® AS routing profile](../manage-as-routing-profiles/add-destination-to-lorawan-as-routing-profile).
+      [Adding a destination to a LoRaWAN® AS routing profile](../../../manage-as-routing-profiles/add-destination-to-lorawan-as-routing-profile.md).
 
-    - If you want to add it to a new AS routing profile, see [Managing AS routing profiles](../manage-as-routing-profiles/index.md)
+    - If you want to add it to a new AS routing profile, see [Managing AS routing profiles](../../../../device-manager-user-guide/manage-as-routing-profiles/index.md)
       .

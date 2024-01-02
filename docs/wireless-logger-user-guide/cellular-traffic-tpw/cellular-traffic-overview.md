@@ -16,7 +16,7 @@ message mode.
 
 This cellular mode consists in sending a small volume of data in uplink
 and downlink packets to one or more application servers. It works
-similarly to LoRaWAN®. For more information, see [Device Manager user guide](../../../../user-guide-tpw/device-manager/index.md).
+similarly to LoRaWAN®. For more information, see [Device Manager user guide](../../device-manager-user-guide/index.md).
 
 | Symbol                        | Name         | Description          |
 |-------------------------------|--------------|----------------------|
@@ -29,7 +29,7 @@ The cellular report you can see in Wireless Logger applies to cellular
 direct IP mode.
 
 This cellular mode consists in sending large volumes of data in uplink
-and downlink bytes to an ASR address. For more information, see [Device Manager user guide](../../../../user-guide-tpw/device-manager/index.md).
+and downlink bytes to an ASR address. For more information, see [Device Manager user guide](../../device-manager-user-guide/index.md).
 
 | Symbol                                              | Name                 | Description                                                                                                                                                                                        |
 |-----------------------------------------------------|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

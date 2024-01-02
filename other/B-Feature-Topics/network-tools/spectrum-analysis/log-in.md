@@ -6,8 +6,6 @@ sidebar_position: 1
 
 # Logging in
 
-:::specificContent{flavor=tpw}
-
 Launch the browser to access the URL:
 
 http://\<operator\>.thingpark.com/spectrumAnalysis/
@@ -35,9 +33,6 @@ your subscriber account:
     ![](./_images/logging-in-1.png)
 
 3.  Click Login.
-:::
-
-:::specificContent{flavortpe}
 
 You can access Spectrum Analysis tool directly from ThingPark Enterprise.
 
@@ -46,5 +41,3 @@ You can access Spectrum Analysis tool directly from ThingPark Enterprise.
 
 2.  Click **Spectrum Analysis Tool**.
     ![](./_images/log-in2.png)
-
-:::

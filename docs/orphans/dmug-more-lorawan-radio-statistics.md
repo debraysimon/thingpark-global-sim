@@ -38,7 +38,7 @@ using **ADRv2** (legacy ADR algorithm), then Instant PER is
 evaluated over a sliding window of the last N received uplink frames. N,
 being 50 by default, depends on the network configuration.
 
-::note
+:::note
 When Instant PER equals to zero, it means that there is no error
 in the reception of the uplink packets by the device.
 

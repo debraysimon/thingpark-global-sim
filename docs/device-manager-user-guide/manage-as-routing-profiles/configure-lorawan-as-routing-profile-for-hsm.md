@@ -23,7 +23,7 @@ You must have read-write access to Device Manager Read more\... For more
 information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access),
 an HSM installed on your operator platform and a connectivity plan with
 the **Hardware Security Module (HSM) protection** parameter set. For
-more information, see [LoRaWAN® unicast connectivity plan details](../../../../Device%20Manager%20User%20Guide/reference-information.md#lorawan®-unicast-connectivity-plan-details).
+more information, see [LoRaWAN® unicast connectivity plan details](../../device-manager-user-guide/reference-information.md#lorawan-unicast-connectivity-plan-details).
 
  
 

@@ -44,4 +44,4 @@ the export file, see [LoRaWAN® export file](lorawan-traffic/lorawan-export-file
 
     -\> The export file downloads.
 
-    -\> For more information, see [LoRaWAN® export     file](lorawan-traffic/lorawan-export-file):specificContent[ and [Cellular traffic     details](cellular-traffic-tpw/cellular-traffic-details)]{flavor=tpw}.
+    -\> For more information, see [LoRaWAN® export file](lorawan-traffic/lorawan-export-file) and [Cellular traffic details](cellular-traffic-tpw/cellular-traffic-details).

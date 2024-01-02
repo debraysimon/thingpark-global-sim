@@ -57,5 +57,5 @@ LoRaWAN®, Cellular message mode AS routing profiles.
   
 **Important** The connectivity plan associated with the device must
 enable the routing parameter corresponding to the application server
-destination used by the device. For more information, see [LoRaWAN® unicast connectivity plan details](../reference-information.md#lorawan®-unicast-connectivity-plan-details)
+destination used by the device. For more information, see [LoRaWAN® unicast connectivity plan details](../reference-information.md#lorawan-unicast-connectivity-plan-details)
 or [Cellular IoT connectivity plan details](../reference-information.md#cellular-iot-connectivity-plan-details).
