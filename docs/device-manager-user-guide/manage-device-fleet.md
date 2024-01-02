@@ -6,8 +6,7 @@ subscriber account, if any already created by you or other end-users of
 your subscriber account.
 
 It is available in read-write access and read-only access. Read more\...
-For more information, see [Opening a panel and checking your read-/write
-access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+For more information, see [Opening a panel and checking your read-/write access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 ## Searching devices
 
@@ -146,9 +145,7 @@ You can open a device in view or edit mode from the list.
 
 You must have read-write access to open the device in edit mode. The
 view mode is available to read-write access and read-only access. Read
-more\... For more information, see [Opening a panel and checking your
-read-/write
-access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more\... For more information, see [Opening a panel and checking your read-/write access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
  
 
@@ -177,9 +174,7 @@ If a device has a marker, you can:
 - Access to the device alarms
 
 - Open the device in view, or edit mode if you have read-write access.
-  Read more\... For more information, see [Opening a panel and checking
-  your read-write
-  access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+  Read more\... For more information, see [Opening a panel and checking   your read-write   access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 According to the choice of your operator, the map supports Google Maps,
 OpenStreetMap or Baidu Maps.

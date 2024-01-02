@@ -60,19 +60,14 @@ There are two categories of passive roaming packets:
 - **Serving passive roaming** The network server acts as a serving
   network server (sNS).
 
-To see all types of passive roaming packets, see [LoRaWAN® traffic
-overview](lorawan-traffic-overview.md#lorawan®-packets).
+To see all types of passive roaming packets, see [LoRaWAN® traffic overview](lorawan-traffic-overview.md#lorawan®-packets).
 
 ![](./_images/passiveroamingpackets.png)
 
 ## Passive roaming metadata
 
-- For uplinks, see [Uplink metadata
-  columns](uplink-lorawan-packets.md#uplink-metadata-columns) and
-  [Uplink expandable
-  panel](uplink-lorawan-packets.md#uplink-expandable-panel).
+- For uplinks, see [Uplink metadata   columns](uplink-lorawan-packets.md#uplink-metadata-columns) and
+  [Uplink expandable   panel](uplink-lorawan-packets.md#uplink-expandable-panel).
 
-- For downlinks, see [Downlink metadata
-  columns](downlink-lorawan-unicast-packets.md#downlink-metadata-columns)
-  and [Downlink expandable
-  panel](downlink-lorawan-unicast-packets.md#downlink-expandable-panel).
+- For downlinks, see [Downlink metadata   columns](downlink-lorawan-unicast-packets.md#downlink-metadata-columns)
+  and [Downlink expandable   panel](downlink-lorawan-unicast-packets.md#downlink-expandable-panel).

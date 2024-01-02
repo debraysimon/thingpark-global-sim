@@ -14,10 +14,8 @@ Columns in the Last packets list display the most important metadata of the pack
 
 For more information, see:
 
-- **For LoRaWAN®**: [Uplink metadata
-  columns](../lorawan-traffic/uplink-lorawan-packets.md#uplink-metadata-columns)
-  and [Downlink metadata
-  columns](../lorawan-traffic/downlink-lorawan-unicast-packets.md#downlink-metadata-columns)
+- **For LoRaWAN®**: [Uplink metadata   columns](../lorawan-traffic/uplink-lorawan-packets.md#uplink-metadata-columns)
+  and [Downlink metadata   columns](../lorawan-traffic/downlink-lorawan-unicast-packets.md#downlink-metadata-columns)
 
 - **For cellular**: [Cellular metadata columns](../cellular-traffic-tpw/cellular-traffic-overview.md#cellular-metadata-columns).
 

@@ -35,5 +35,4 @@ The following alarm applies to multicast groups:
     clearance of all the alarms that have been cleared during the past
     15 days.
 
-    For more information, see [Managing
-    alarms](../../manage-device-alarms/index) that works similarly.
+    For more information, see [Managing     alarms](../../manage-device-alarms/index) that works similarly.

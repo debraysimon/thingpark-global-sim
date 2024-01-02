@@ -38,8 +38,7 @@ fleet of devices in the Devices panel. The alarms can be active or
 cleared. It allows you to detect devices to investigate.
 
 If you prefer being notified when alarms are triggered and change states
-on your device fleet, see [Setting alarm notification
-emails](../device-manager-settings.md#setting-alarm-notification-emails).
+on your device fleet, see [Setting alarm notification emails](../device-manager-settings.md#setting-alarm-notification-emails).
 
  
 
@@ -63,8 +62,7 @@ devices to investigate.
 
 You can optionally use the **Not cleared** filter to restrict your
 search to active and not acknowledged alarms. For more information about
-alarms filters, see [More about searching
-alarms](#more-about-searching-alarms).
+alarms filters, see [More about searching alarms](#more-about-searching-alarms).
 
  
 
@@ -102,13 +100,10 @@ investigating.
 **Notes**
 
 - The current status of a cleared alarm appears in the Active alarm
-  panel. For more information, see [Viewing current status of cleared
-  alarms of a
-  device](#viewing-current-status-of-cleared-alarms-of-a-device).
+  panel. For more information, see [Viewing current status of cleared   alarms of a   device](#viewing-current-status-of-cleared-alarms-of-a-device).
 
 - By default, the Active alarm panel is set to filter not acknowledged
-  alarms. If you want to see all alarms of the device, see [More about
-  searching alarms](#more-about-searching-alarms).
+  alarms. If you want to see all alarms of the device, see [More about   searching alarms](#more-about-searching-alarms).
 
  
 
@@ -123,8 +118,7 @@ investigating.
     number of alarms that have not been acknowledged, whether active or
     cleared. This is the same number as the one displayed with a state
     color in the Alarm column of the device list. For more information,
-    see [Viewing not acknowledged alarms of your
-    network](#viewing-not-acknowledged-alarms-of-your-network).
+    see [Viewing not acknowledged alarms of your     network](#viewing-not-acknowledged-alarms-of-your-network).
 
     ![](./_images/viewing-not-acknowledged-alarms-1.png)
 
@@ -200,13 +194,11 @@ filter not acknowledged alarms.
 
     1.  Get the alarm name and associated information.
 
-    2.  Follow the corresponding guidelines in [Troubleshooting
-        devices](troubleshoot-devices).
+    2.  Follow the corresponding guidelines in [Troubleshooting         devices](troubleshoot-devices).
 
     3.  If you consider the alarm as being not important and do not want
         to see it anymore in the default display, click **Ack**. For
-        more information, see [Acknowledging
-        alarms](acknowledge-alarms).
+        more information, see [Acknowledging         alarms](acknowledge-alarms).
 
 8.  Repeat until all active alarms disappear.
 
@@ -222,9 +214,7 @@ also filter cleared alarms whenever you want.
   panel.
 
 - Its status before clearance appears in the Alarm history panel. For
-  more information, see [Investigating a cleared alarm in the alarms
-  history of the
-  device](#investigating-a-cleared-alarm-in-the-alarms-history-of-the-device).
+  more information, see [Investigating a cleared alarm in the alarms   history of the   device](#investigating-a-cleared-alarm-in-the-alarms-history-of-the-device).
 
  
 
@@ -252,14 +242,11 @@ also filter cleared alarms whenever you want.
 
 6.  Do one of the following:
 
-    - If you want to know more about the alarm, see [Investigating a
-      cleared alarm in the alarms history of the
-      device](#investigating-a-cleared-alarm-in-the-alarms-history-of-the-device).
+    - If you want to know more about the alarm, see [Investigating a       cleared alarm in the alarms history of the       device](#investigating-a-cleared-alarm-in-the-alarms-history-of-the-device).
 
     - If you consider the alarm as being not important and do not want
       to see it anymore in the default display, click it, and click
-      **Ack**. For more information, see [Acknowledging
-      alarms](acknowledge-alarms).
+      **Ack**. For more information, see [Acknowledging       alarms](acknowledge-alarms).
 
 ## Investigating a cleared alarm in the alarms history of the device
 
@@ -276,9 +263,7 @@ device. By default, this panel is set with no filter.
 **Notes**
 
 - The current status of a cleared alarm appears in the Active alarm
-  panel. For more information, see [Viewing current status of cleared
-  alarms of a
-  device](#viewing-current-status-of-cleared-alarms-of-a-device).
+  panel. For more information, see [Viewing current status of cleared   alarms of a   device](#viewing-current-status-of-cleared-alarms-of-a-device).
 
 - Its status before clearance appears in the Alarm history panel.
 
@@ -306,8 +291,7 @@ situation of the device where an alarm keeps triggering and clearing.
     investigate, and click **History** in the navigation panel.
 
     -\> The Alarms history panel opens with a Search frame set by
-    default with no filter. For more information, see [More about
-    searching alarms](#more-about-searching-alarms).
+    default with no filter. For more information, see [More about     searching alarms](#more-about-searching-alarms).
 
     ![](./_images/investigating-a-cleared-alarm.png)
 
@@ -420,9 +404,7 @@ right priority level.
           before the date and time you have entered.
 
     - **Alarm**: Returns alarms according to the alarm name you have
-      selected. For more information, see [Alarms list with
-      troubleshooting
-      guidelines](troubleshoot-devices.md#alarms-list-with-troubleshooting-guidelines).
+      selected. For more information, see [Alarms list with       troubleshooting       guidelines](troubleshoot-devices.md#alarms-list-with-troubleshooting-guidelines).
 
     - **State**: Returns alarms with the following states:
 
@@ -435,8 +417,7 @@ right priority level.
       | **Not cleared** (Purple) | Indeterminate, warning, minor, major, and critical (all active alarms) |
       | **Cleared** (Green)      | Cleared                                                                |
 
-      For more information about associated alarm states, see [Alarm
-      states](index.md#alarm-states).
+      For more information about associated alarm states, see [Alarm       states](index.md#alarm-states).
 
       - **Acked**: Acknowledged alarms or not. By default, this filter
         is set to:

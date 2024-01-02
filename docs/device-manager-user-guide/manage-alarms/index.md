@@ -20,18 +20,14 @@ Device Manager triggers alarms regarding a device when:
 
 - You have configured an alarm based on an inactivity threshold of the
   device.  
-  For more information, see [Configuring an inactivity
-  alarm](configure-alarms.md#configuring-an-inactivity-alarm).
+  For more information, see [Configuring an inactivity   alarm](configure-alarms.md#configuring-an-inactivity-alarm).
 
 For more information about:
 
 - The alarms that apply to LoRaWAN® devices, cellular devices, and
-  multicast group, see [Alarms list with troubleshooting
-  guidelines](troubleshoot-devices.md#alarms-list-with-troubleshooting-guidelines).
+  multicast group, see [Alarms list with troubleshooting   guidelines](troubleshoot-devices.md#alarms-list-with-troubleshooting-guidelines).
 
-- How to receive an alarm notification by email, see [Setting alarm
-  notification
-  emails](../../other/B-Feature-Topics/DeviceManager_C/device-manager-settings.md#setting-alarm-notification-emails).
+- How to receive an alarm notification by email, see [Setting alarm   notification   emails](../../other/B-Feature-Topics/DeviceManager_C/device-manager-settings.md#setting-alarm-notification-emails).
 
 The device must be ready to work. To do so, it must be associated with a
 connectivity plan and an AS routing profile.
@@ -103,8 +99,7 @@ The following graphic illustrates the alarm lifecycle:
 
 The following categories of alarms manage and display the number of
 occurrences of alarms in a different way. To know which alarms are
-event-driven or state-driven, see [Alarms list with troubleshooting
-guidelines](troubleshoot-devices.md#alarms-list-with-troubleshooting-guidelines).
+event-driven or state-driven, see [Alarms list with troubleshooting guidelines](troubleshoot-devices.md#alarms-list-with-troubleshooting-guidelines).
 
 | Alarm Category | Description | 
 | -- | -- |

@@ -12,8 +12,7 @@ packets.
 
 Uplink packets are LoRaWAN® packets sent by devices to the ThingPark
 network. They are represented in Wireless Logger by a symbol. To learn
-more about packet symbols, click [LoRaWAN® traffic
-overview](lorawan-traffic-overview.md#lorawan®-packets).
+more about packet symbols, click [LoRaWAN® traffic overview](lorawan-traffic-overview.md#lorawan®-packets).
 
 You can see and filter several categories of uplink packets in Wireless
 Logger according to their content. A frame is a packet.
@@ -54,8 +53,7 @@ more information about other metadata displayed in the expandable panel
 of the packet, see [Uplink expandable panel](#uplink-expandable-panel).
 
 This topic also applies to passive roaming uplinks. For more
-information, see [Passive roaming LoRaWAN®
-packets](passive-roaming-lorawan-packets).
+information, see [Passive roaming LoRaWAN® packets](passive-roaming-lorawan-packets).
 
 | Metadata | Description |
 | -------- | ----------- |
@@ -95,9 +93,7 @@ ThingPark identifies the uplink **best-LRR** as the LRR that has
 received the uplink packet with the **highest SNR** (Signal to Noise
 Ratio).
 
-For more information, see LRR table in [Uplink expandable
-panel](#uplink-expandable-panel) and [LoRaWAN® radio
-statistics](lorawan-traffic-overview.md#lorawan-radio-statistics).
+For more information, see LRR table in [Uplink expandable panel](#uplink-expandable-panel) and [LoRaWAN® radio statistics](lorawan-traffic-overview.md#lorawan-radio-statistics).
 
 **Note** For Wireless Logger associated with a network partner account,
 only the uplink packets for which the best-LRR belongs to the network
@@ -124,8 +120,7 @@ LoRaWAN® uplink packet. To access the expandable panel of each packet,
 click **+** the left side of the packet.
 
 This topic also applies to passive roaming uplinks. For more
-information, see [Passive roaming LoRaWAN®
-packets](passive-roaming-lorawan-packets).
+information, see [Passive roaming LoRaWAN® packets](passive-roaming-lorawan-packets).
 
 | Field | Description |
 | --- | --- |

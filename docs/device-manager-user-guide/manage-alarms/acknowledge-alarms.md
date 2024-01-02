@@ -23,9 +23,7 @@ When acknowledged:
   acknowledgement is automatically canceled.
 
 **Before you begin** You must have read-write access to Device Manager.
-Read more\... For more information, see [Opening a panel and checking
-your read-write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+Read more\... For more information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
  
 

@@ -45,10 +45,8 @@ in a Vendor offer. For more information, see [Supplier user guide](../../user-gu
 
 The connectivity plan associated with the device must enable the routing
 parameter corresponding to the application server used by the device.
-For more information, see [LoRaWAN® unicast connectivity plan
-details](reference-information.md#lorawan®-unicast-connectivity-plan-details)
-or [Cellular IoT connectivity plan
-details](reference-information.md#cellular-iot-connectivity-plan-details).
+For more information, see [LoRaWAN® unicast connectivity plan details](reference-information.md#lorawan®-unicast-connectivity-plan-details)
+or [Cellular IoT connectivity plan details](reference-information.md#cellular-iot-connectivity-plan-details).
 
 ## Viewing the connectivity plans and available credits
 
@@ -108,14 +106,11 @@ information is read-only.
 - For more information about all parameters of the connectivity plans,
   see:
 
-  - [LoRaWAN® unicast connectivity plan
-    details](reference-information.md#lorawan®-unicast-connectivity-plan-details)
+  - [LoRaWAN® unicast connectivity plan     details](reference-information.md#lorawan®-unicast-connectivity-plan-details)
 
-  - [LoRaWAN® multicast connectivity plan
-    details](reference-information.md#lorawan®-multicast-connectivity-plan-details)
+  - [LoRaWAN® multicast connectivity plan     details](reference-information.md#lorawan®-multicast-connectivity-plan-details)
 
-  - [Cellular IoT connectivity plan
-    details](reference-information.md#cellular-iot-connectivity-plan-details)
+  - [Cellular IoT connectivity plan     details](reference-information.md#cellular-iot-connectivity-plan-details)
 
 1.  If you want to display another connectivity plan, select it from the
     list.

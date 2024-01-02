@@ -63,8 +63,7 @@ To delete your selection, click **Clear**.
 3.  Click **Next** to check if the result of your search contain more
     pages. Repeat as necessary.
 
-4.  (Optional) To see more packets on your screen, see [Extending the
-    dashboard](../viewing/extend-dashboard).
+4.  (Optional) To see more packets on your screen, see [Extending the     dashboard](../viewing/extend-dashboard).
 
 5.  (Optional) Restrict you search as necessary, for example using
     [Quick filtering](quick-filtering).

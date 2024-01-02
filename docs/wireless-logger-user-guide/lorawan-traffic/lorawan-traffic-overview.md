@@ -65,8 +65,7 @@ The network server acts as a forwarding network server. Applies to Wireless Logg
 
 Wireless Logger displays a range of colors for radio parameters that are
 subject to limited values in the columns of the Last packets list. For more
-information about LoRaWAN® radio parameters, see [LoRaWAN® radio
-statistics](#lorawan-radio-statistics).
+information about LoRaWAN® radio parameters, see [LoRaWAN® radio statistics](#lorawan-radio-statistics).
 
 ![](./_images/appendix-a-color-rules-in.png)
 

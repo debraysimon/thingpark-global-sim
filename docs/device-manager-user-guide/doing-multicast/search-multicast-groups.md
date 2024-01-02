@@ -12,8 +12,7 @@ using filters.
 This task is mandatory to open a multicast group in edit or view mode to
 perform a closer monitoring on its activity. The edit mode is only
 available for end-users with read-write access. Read more\... For more
-information, see [Opening a panel and checking your read-write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 ## Searching and viewing all the multicast groups of your network
 
@@ -24,13 +23,9 @@ on their overall activity.
 They are displayed in a list that you can manage by showing/hiding
 columns and by sorting or filtering contents. If you have read-write
 access, you can also delete the multicast group from the list if
-necessary. Read more\... For more information, see [Opening a panel and
-checking your read-write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+necessary. Read more\... For more information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
-Alternatively, if you want to filter multicast groups, see [Searching
-multicast groups using
-filters](#searching-multicast-groups-using-filters).
+Alternatively, if you want to filter multicast groups, see [Searching multicast groups using filters](#searching-multicast-groups-using-filters).
 
  
 
@@ -89,7 +84,5 @@ You can search multicast groups of your network using filters.
 1.  Click **Search**.
 
     -\> The result of your search appears in the list area of the Search
-    frame. For more information on this result, see [Searching and
-    viewing all the multicast groups of your
-    network](#searching-and-viewing-all-the-multicast-groups-of-your-network)
+    frame. For more information on this result, see [Searching and     viewing all the multicast groups of your     network](#searching-and-viewing-all-the-multicast-groups-of-your-network)
     from step 2.

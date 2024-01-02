@@ -63,17 +63,14 @@ configurations.
 The most important downlink metadata are directly displayed as distinct
 columns in Wireless Logger and are listed in the following table. For
 more information about other metadata displayed in the expandable panel
-of the packet, see [Downlink expandable
-panel](#downlink-expandable-panel).
+of the packet, see [Downlink expandable panel](#downlink-expandable-panel).
 
 In the downlink packet content, **ACK flag = 1** means that the downlink
 packet acknowledges the reception by the network of the last uplink
 packet.
 
 This topic also applies to multicast and passive roaming downlinks. For
-more information, see [Downlink LoRaWAN® multicast
-packets](downlink-lorawan-multicast-packets) and [Passive roaming
-LoRaWAN® packets](passive-roaming-lorawan-packets).
+more information, see [Downlink LoRaWAN® multicast packets](downlink-lorawan-multicast-packets) and [Passive roaming LoRaWAN® packets](passive-roaming-lorawan-packets).
 
 | Metadata                 | Description                                                                                                                                                                    |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -113,9 +110,7 @@ LoRaWAN® downlink packet. To access the expandable panel, click
 ![](./../_images/expandmessage.png) on the left side of the packet.
 
 This topic also applies to multicast and passive roaming downlinks. For
-more information, see [Downlink LoRaWAN® multicast
-packets](downlink-lorawan-multicast-packets) and [Passive roaming
-LoRaWAN® packets](passive-roaming-lorawan-packets).
+more information, see [Downlink LoRaWAN® multicast packets](downlink-lorawan-multicast-packets) and [Passive roaming LoRaWAN® packets](passive-roaming-lorawan-packets).
 
 | Field | Description |
 | -- | -- |

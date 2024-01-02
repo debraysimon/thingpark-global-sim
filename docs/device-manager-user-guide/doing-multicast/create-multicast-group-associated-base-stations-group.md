@@ -8,8 +8,7 @@ sidebar_position: 0
 # Creating a multicast group associated with a base station group
 
 You must have read-write access to Device Manager. Read more\... For
-more information, see [Opening a panel and checking your read-/write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more information, see [Opening a panel and checking your read-/write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 You must perform this task in two main steps.
 
@@ -181,11 +180,8 @@ station tag.
             the multicast connectivity plan, or failing that, in the
             unicast connectivity plans of the target devices, your class
             C multicast group will use the value of the **Force RX2 Data
-            Rate** parameter. For more information, see [LoRaWAN®
-            multicast connectivity plan
-            details](../reference-information.md#lorawan®-multicast-connectivity-plan-details)
-            and [LoRaWAN® unicast connectivity plan
-            details](../reference-information.md#lorawan®-unicast-connectivity-plan-details).
+            Rate** parameter. For more information, see [LoRaWAN®             multicast connectivity plan             details](../reference-information.md#lorawan®-multicast-connectivity-plan-details)
+            and [LoRaWAN® unicast connectivity plan             details](../reference-information.md#lorawan®-unicast-connectivity-plan-details).
             You do not need to enter anything.
 
           - Otherwise or if your target devices are not compliant with
@@ -205,9 +201,7 @@ station tag.
         is no connectivity plan available, you can add it later by
         editing the multicast group.
 
-      - For more information about connectivity plans, see [LoRaWAN®
-        multicast connectivity plan
-        details](../reference-information.md#lorawan®-multicast-connectivity-plan-details).
+      - For more information about connectivity plans, see [LoRaWAN®         multicast connectivity plan         details](../reference-information.md#lorawan®-multicast-connectivity-plan-details).
 
 8.  In the Application layer handling frame:
 
@@ -242,14 +236,12 @@ station tag.
     Multicast Groups panel.
 
     -\> If you want to make the multicast group ready to work, see
-    [Adding a base station tag to a multicast
-    group](#adding-a-base-station-tag-to-a-multicast-group).
+    [Adding a base station tag to a multicast     group](#adding-a-base-station-tag-to-a-multicast-group).
 
 ## Adding a base station tag to a multicast group
 
 You must have read-write access to Device Manager. Read more\... For
-more information, see [Opening a panel and checking your read-/write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more information, see [Opening a panel and checking your read-/write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 Adding a base station tag to a multicast group is mandatory to make it
 work.
@@ -274,9 +266,7 @@ Tags are created and added to base stations by operators, or network
 partners if base stations tagging is delegated. For more information,
 see [Operator user guide](../../operator/index) and [Network Manager user guide](../../network-manager/index).
 
-For more information about base station tags, see [Viewing, managing and
-removing base station tags in a multicast
-group](management/manage-general-settings-multicast-group.md#viewing-managing-and-removing-base-station-tags-in-a-multicast-group).
+For more information about base station tags, see [Viewing, managing and removing base station tags in a multicast group](management/manage-general-settings-multicast-group.md#viewing-managing-and-removing-base-station-tags-in-a-multicast-group).
 
 1.  In the navigation panel, click **Multicast groups**.
 

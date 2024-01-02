@@ -23,6 +23,5 @@ cellular AS routing profile.
     -\> The AS routing profile panel appears with mixed mode
     configuration.
 
-2.  Apply [Adding a message mode destination](dmug-add-message-mode-destination) from step 2, then [Adding a
-    direct IP mode destination](dmug-add-direct-ip-mode-destination)
+2.  Apply [Adding a message mode destination](dmug-add-message-mode-destination) from step 2, then [Adding a     direct IP mode destination](dmug-add-direct-ip-mode-destination)
     from step 2.

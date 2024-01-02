@@ -16,14 +16,11 @@ information you can display in Wireless Logger:
 
   - [Uplink LoRaWAN® packets](uplink-lorawan-packets)
 
-  - [Downlink LoRaWAN® unicast
-    packets](downlink-lorawan-unicast-packets)
+  - [Downlink LoRaWAN® unicast     packets](downlink-lorawan-unicast-packets)
 
-  - [Downlink LoRaWAN® multicast
-    packets](downlink-lorawan-multicast-packets)
+  - [Downlink LoRaWAN® multicast     packets](downlink-lorawan-multicast-packets)
 
-  - [Passive roaming LoRaWAN®
-    packets](passive-roaming-lorawan-packets)
+  - [Passive roaming LoRaWAN®     packets](passive-roaming-lorawan-packets)
 
   - [Location reports](location-reports)
 

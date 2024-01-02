@@ -11,8 +11,7 @@ optional. If you want to activate it, you must configure this security
 after creating the local application server, and before adding a route.
 
 You must have read-write access to Device Manager. Read more\... For
-more information, see [Opening a panel and checking your read-write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 **Notes**
 
@@ -35,9 +34,7 @@ uplink/downlink security of the application server.
 It is given by the supplier of the application server. The Tunnel
 interface authentication key is shared by the LRC and the application
 server to secure uplink and downlink packets passing through the tunnel
-interface. For more information, see the [LRC-AS Tunnel Interface
-Developer
-Guide](../../integrating-applications-with-tpw.md#lrc-as-tunnel-interface-developer-guide).
+interface. For more information, see the [LRC-AS Tunnel Interface Developer Guide](../../integrating-applications-with-tpw.md#lrc-as-tunnel-interface-developer-guide).
 
 When you provide a Tunnel interface authentication key, its entropy is
 computed by the system using Shannon's algorithm:
@@ -52,9 +49,7 @@ computed by the system using Shannon's algorithm:
 ## Activating the security
 
 This task is optional, and you must have read-write access to Device
-Manager. Read more\... For more information, see [Opening a panel and
-checking your read-write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+Manager. Read more\... For more information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 You need the following information from the supplier of the application
 server:

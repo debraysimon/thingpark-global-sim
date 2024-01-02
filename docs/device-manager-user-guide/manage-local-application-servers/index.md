@@ -6,8 +6,7 @@ sidebar_position: 10
 
 # Managing local application servers
 
-This task is a prerequisite for [Managing AS routing
-profiles](../manage-as-routing-profiles/index). It helps you define
+This task is a prerequisite for [Managing AS routing profiles](../manage-as-routing-profiles/index). It helps you define
 which type of application servers you need for your devices, and
 according to your choice, shows you how to handle the local applications
 servers that are managed in the Application Servers panel.
@@ -17,8 +16,7 @@ servers that read-write end-users of a subscriber can create and edit in
 Device Manager. If you have read-only access, this topic gives you
 background information about all types of applications servers you can
 view and the parameters they use. Read more\... For more information,
-see [Opening a panel and checking your read-write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 ## About application servers
 
@@ -69,7 +67,5 @@ device:
 
 - **ThingPark X routing** parameter for ThingPark X destination.
 
-For more information, see [LoRaWAN® unicast connectivity plan
-details](../reference-information.md#lorawan®-unicast-connectivity-plan-details)
-or [Cellular IoT connectivity plan
-details](../reference-information.md#cellular-iot-connectivity-plan-details).
+For more information, see [LoRaWAN® unicast connectivity plan details](../reference-information.md#lorawan®-unicast-connectivity-plan-details)
+or [Cellular IoT connectivity plan details](../reference-information.md#cellular-iot-connectivity-plan-details).

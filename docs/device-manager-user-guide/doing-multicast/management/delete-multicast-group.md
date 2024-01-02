@@ -11,8 +11,7 @@ should be handled with care. All multicast group details and multicast
 group status information will be lost.
 
 You must have read-write access to Device Manager. Read more\...For more
-information, see [Opening a panel and checking your read-/write
-access](../../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+information, see [Opening a panel and checking your read-/write access](../../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
  
 

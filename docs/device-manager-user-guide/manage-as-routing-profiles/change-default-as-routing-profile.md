@@ -7,8 +7,7 @@ sidebar_position: 5
 # Changing the default AS routing profile
 
 You must have read-write access to Device Manager. Read more\... For
-more information, see [Opening a panel and checking your read-write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 You can set another AS routing profile by default if you have several AS
 routing profiles.

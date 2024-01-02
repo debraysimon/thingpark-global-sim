@@ -24,9 +24,7 @@ daily network subscription overflow of the device and the device network
 coverage.
 
 If you have read-only access to Device Manager, the information
-displayed is read-only. Read more\... For more information, see [Opening
-a panel and checking your read-/write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+displayed is read-only. Read more\... For more information, see [Opening a panel and checking your read-/write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 If no device has been yet created by you or other end-users of your
 subscriber account, you cannot display the Network panel of a device.

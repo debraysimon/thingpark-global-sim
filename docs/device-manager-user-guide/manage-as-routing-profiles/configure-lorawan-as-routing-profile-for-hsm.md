@@ -9,8 +9,7 @@ sidebar_position: 3
 This task consists in activating a Hardware Security Module (HSM) on an
 AS routing profile you will associate with an OTAA device you want a
 hardware protection of the device's root keys. For more information, see
-[Creating an OTAA
-device](../create-devices/create-lorawan-device.md#creating-an-otaa-device).
+[Creating an OTAA device](../create-devices/create-lorawan-device.md#creating-an-otaa-device).
 
 It generates the AS transport key used by the application server to
 decrypt the AppSKey, then the device payload. You will use an RSA key to
@@ -21,12 +20,10 @@ it, you will have to generate a new one and all devices associated with
 this AS routing profile will have to restart a join procedure.
 
 You must have read-write access to Device Manager Read more\... For more
-information, see [Opening a panel and checking your read-write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access),
+information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access),
 an HSM installed on your operator platform and a connectivity plan with
 the **Hardware Security Module (HSM) protection** parameter set. For
-more information, see [LoRaWAN® unicast connectivity plan
-details](../../../../Device%20Manager%20User%20Guide/reference-information.md#lorawan®-unicast-connectivity-plan-details).
+more information, see [LoRaWAN® unicast connectivity plan details](../../../../Device%20Manager%20User%20Guide/reference-information.md#lorawan®-unicast-connectivity-plan-details).
 
  
 
@@ -108,11 +105,9 @@ details](../../../../Device%20Manager%20User%20Guide/reference-information.md#lo
     HSM protection**:
 
     - Either when creating the device.  
-      For more information, see [Creating an OTAA
-      device](../create-devices/create-lorawan-device.md#creating-an-otaa-device).
+      For more information, see [Creating an OTAA       device](../create-devices/create-lorawan-device.md#creating-an-otaa-device).
 
-    - Or by editing it using [Allocating an AS routing
-      profile](../manage-device-network/manage-as-routing-profile-device.md#allocating-an-as-routing-profile).
+    - Or by editing it using [Allocating an AS routing       profile](../manage-device-network/manage-as-routing-profile-device.md#allocating-an-as-routing-profile).
 
     -\> Your AS transport key in hexadecimal format is ready to be given
     to the owner of the application server to be configured on it.

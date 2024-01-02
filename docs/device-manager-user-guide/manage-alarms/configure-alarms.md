@@ -23,9 +23,7 @@ You can configure the inactivity alarm in the Node Settings panel of the
 device you want.
 
 **Prerequisite**You must have read-write access to Device Manager. Read
-more\... For more information, see [Opening a panel and checking your
-read-write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more\... For more information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
  
 
@@ -73,5 +71,4 @@ access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access)
 ## Receiving alarm notification email
 
 If you want to receive a notification email when an alarm is triggered
-on any device, see [Setting alarm notification
-emails](../device-manager-settings.md#setting-alarm-notification-emails).
+on any device, see [Setting alarm notification emails](../device-manager-settings.md#setting-alarm-notification-emails).

@@ -8,15 +8,13 @@ sidebar_position: 1
 
 ## Alarms list with troubleshooting guidelines
 
-Once you have investigated alarms as shown in [Monitoring
-alarms](monitor-device-alarms), you can use the following table that
+Once you have investigated alarms as shown in [Monitoring alarms](monitor-device-alarms), you can use the following table that
 lists all the alarms triggered by Device Manager to help you
 troubleshoot devices.
 
 This table gives the ID and meaning of each alarm, its probable causes
 and guidelines for corrective actions. It also tells if the alarm is
-event-driven or state-driven. For more information, see [Alarm
-occurrence management](index.md#alarm-occurrence-management).
+event-driven or state-driven. For more information, see [Alarm occurrence management](index.md#alarm-occurrence-management).
 
 The following alarms also apply to cellular devices and multicast
 groups:
@@ -51,8 +49,7 @@ groups:
 ## Resetting the security context of a device
 
 You must have read-write access to Device Manager. Read more\... For
-more information, see [Opening a panel and checking your read-write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 It does not apply to cellular devices.
 
@@ -111,19 +108,16 @@ this device.
 ![](./_images/resetting-the-security-context.png)
 
 1.  If you have diagnosed that the replay attack detected by the alarm
-    007 or 010 is not real, follow the instructions given in [Resetting
-    the security context](#resetting-the-security-context).
+    007 or 010 is not real, follow the instructions given in [Resetting     the security context](#resetting-the-security-context).
 
 ## Resetting the security context
 
 If you have diagnosed that the replay attack detected by the alarm 007
 or 010 is not real, you can reset the security context of a device to
-troubleshoot it. For more information, see [Diagnosing when to reset the
-security context](#diagnosing-when-to-reset-the-security-context).
+troubleshoot it. For more information, see [Diagnosing when to reset the security context](#diagnosing-when-to-reset-the-security-context).
 
 You must have read-write access to Device Manager. Read more\... For
-more information, see [Opening a panel and checking your read-write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 **WARNING** The Reset the security context command resets the whole
 device context in the network server and must be used with caution.

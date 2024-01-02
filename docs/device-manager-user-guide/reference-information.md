@@ -9,8 +9,7 @@ sidebar_position: 14
 
 ## Building your CSV file to import devices
 This section helps you construct your CSV file when you want to add or delete devices
-in bulk. For more information, see [Importing LoRaWAN® or cellular
-devices](create-devices/import-lorawan-cellular-devices).
+in bulk. For more information, see [Importing LoRaWAN® or cellular devices](create-devices/import-lorawan-cellular-devices).
 
 ### Import CSV file for cellular devices
 
@@ -141,10 +140,7 @@ as a sample to guide you through the process.
 ## Connectivity plans
 
 This section provides quick access to the details of all connectivity
-plans. For more information about connectivity plans, see [Viewing
-connectivity plans](view-connectivity-plans) and [Managing the
-connectivity plan of a
-device](manage-device-network/manage-connectivity-plan-device).
+plans. For more information about connectivity plans, see [Viewing connectivity plans](view-connectivity-plans) and [Managing the connectivity plan of a device](manage-device-network/manage-connectivity-plan-device).
 
 
 ### Cellular IoT connectivity plan details

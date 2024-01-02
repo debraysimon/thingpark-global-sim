@@ -55,16 +55,13 @@ summary and location of a:
         [Changing the device model](change-device-model).
 
       - A connectivity plan that does not allow class B. If you want to
-        change it, see [Changing the connectivity
-        plan](../manage-device-network/manage-connectivity-plan-device.md#changing-the-connectivity-plan).
+        change it, see [Changing the connectivity         plan](../manage-device-network/manage-connectivity-plan-device.md#changing-the-connectivity-plan).
     :::
 
 4.  In the map, click the marker to display the manual or network
     coordinates of the device location. For more information, see
-    [Network location: viewing the device location history (LoRaWAN®
-    only)](locate-device.md#network-location-viewing-the-device-location-history-lorawan®-only)
-    and [Manual location: locating a device or editing its
-    location](locate-device.md#manual-location-locating-a-device-or-editing-its-location).
+    [Network location: viewing the device location history (LoRaWAN®     only)](locate-device.md#network-location-viewing-the-device-location-history-lorawan®-only)
+    and [Manual location: locating a device or editing its     location](locate-device.md#manual-location-locating-a-device-or-editing-its-location).
 
 :::warning Note
 In view mode, the **Update location** and **Change marker**
@@ -78,8 +75,7 @@ can switch from one tab to the other to display charts showing
 statistics to monitor the activity of the device for a given time. This
 information is read-only.
 
-- [Monitoring packets and payloads history of a LoRaWAN®
-  device](../orphans/dmug-monitor-packets-payloads-history-lorawan-device)
+- [Monitoring packets and payloads history of a LoRaWAN®   device](../orphans/dmug-monitor-packets-payloads-history-lorawan-device)
 
 - [Monitoring radio statistics of a LoRaWAN® device](../orphans/dmug-monitor-radio-statistics-lorawan-device)
 
@@ -95,9 +91,7 @@ information is read-only.
 These statistics are displayed according to the cellular mode enabled in
 the connectivity plan associated with the device. If no connectivity
 plan is associated, all corresponding tabs are displayed. For more
-information about cellular modes, see [About AS routing profiles types
-and cellular
-modes](../manage-as-routing-profiles/index.md#about-as-routing-profiles-types-and-cellular-modes).
+information about cellular modes, see [About AS routing profiles types and cellular modes](../manage-as-routing-profiles/index.md#about-as-routing-profiles-types-and-cellular-modes).
 
 **Tips**
 
@@ -188,8 +182,7 @@ modes](../manage-as-routing-profiles/index.md#about-as-routing-profiles-types-an
     corresponding item in the chart caption. It also adjusts the scale
     according to the information displayed.
 
-8.  If you want to print or download this chart, see [Printing or
-    downloading a chart](#printing-or-downloading-a-chart).
+8.  If you want to print or download this chart, see [Printing or     downloading a chart](#printing-or-downloading-a-chart).
 
 ## Printing or downloading a chart
 
@@ -198,13 +191,11 @@ JPEG, PDF, SVG). This task is also available for read-only end-users.
 
 1.  Display the chart you want as explained in:
 
-    - [Monitoring packets and payloads history of a LoRaWAN®
-  device](../orphans/dmug-monitor-packets-payloads-history-lorawan-device)
+    - [Monitoring packets and payloads history of a LoRaWAN®   device](../orphans/dmug-monitor-packets-payloads-history-lorawan-device)
 
     - [Monitoring radio statistics of a LoRaWAN® device](../orphans/dmug-monitor-radio-statistics-lorawan-device)
 
-    - [Monitoring the activity of a cellular
-      device](#monitoring-the-activity-of-a-cellular-device)
+    - [Monitoring the activity of a cellular       device](#monitoring-the-activity-of-a-cellular-device)
 
 2.  If you want to print the chart:
 

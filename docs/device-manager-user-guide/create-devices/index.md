@@ -5,9 +5,7 @@
 You must have read-write access to Device Manager to create devices. If
 you have read-only access, this topic gives you background information
 about the devices you can view and the parameters they use. Read
-more\... For more information, see [Opening a panel and checking your
-read-write
-access](../use-interface#opening-a-panel-and-checking-your-read-write-access).
+more\... For more information, see [Opening a panel and checking your read-write access](../use-interface#opening-a-panel-and-checking-your-read-write-access).
 
 ## About creating devices
 

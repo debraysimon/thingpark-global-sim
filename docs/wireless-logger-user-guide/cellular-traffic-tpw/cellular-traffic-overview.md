@@ -7,8 +7,7 @@ sidebar_position: 0
 # Cellular traffic overview
 
 This topic describes cellular summary information displayed in the Last packets list. For more information, see
-[Viewing the traffic](../viewing/view-traffic) and [Cellular traffic
-details](cellular-traffic-details).
+[Viewing the traffic](../viewing/view-traffic) and [Cellular traffic details](cellular-traffic-details).
 
 ## Cellular packets
 

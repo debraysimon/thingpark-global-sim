@@ -24,6 +24,4 @@ If no device has been yet created by you or other end-users of your
 subscriber account, you cannot display this panel.
 
 If you have read-only access to Device Manager, the information
-displayed is read-only. Read more\... For more information, see [Opening
-a panel and checking your read-/write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+displayed is read-only. Read more\... For more information, see [Opening a panel and checking your read-/write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).

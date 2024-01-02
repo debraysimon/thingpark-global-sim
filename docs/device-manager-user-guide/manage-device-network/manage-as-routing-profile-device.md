@@ -7,8 +7,7 @@ sidebar_position: 2
 # Managing the AS routing profile of a device
 
 You must have read-write access to Device Manager. Read more\... For
-more information, see [Opening a panel and checking your read-/write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more information, see [Opening a panel and checking your read-/write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 ## AS routing profile compatibility rules
 
@@ -22,8 +21,7 @@ apply the following rules:
 
 ## Allocating an AS routing profile
 
-If applying [AS routing profile compatibility
-rules](#as-routing-profile-compatibility-rules), you can allocate:
+If applying [AS routing profile compatibility rules](#as-routing-profile-compatibility-rules), you can allocate:
 
 - A LoRaWAN® AS routing profile to an existing LoRaWAN® device
 
@@ -34,15 +32,11 @@ Only one AS routing profile can be allocated to a device.
 **Before you begin**
 
 - You must have read-write access to Device Manager. Read more\... For
-  more information, see [Opening a panel and checking your read-/write
-  access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+  more information, see [Opening a panel and checking your read-/write   access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 - You must have created and provisioned at least two AS routing
   profiles.  
-  For more information, see [Managing local application
-  servers](../manage-local-application-servers/index) and [Accessing
-  AS routing
-  profiles](../manage-as-routing-profiles/access-as-routing-profiles).
+  For more information, see [Managing local application   servers](../manage-local-application-servers/index) and [Accessing   AS routing   profiles](../manage-as-routing-profiles/access-as-routing-profiles).
 
 1.  In the navigation panel, click **Devices** to display the Devices
     panel, then click the **List** or the **Map** tab.
@@ -78,20 +72,16 @@ Only one AS routing profile can be allocated to a device.
 ## Changing the AS routing profile
 
 Once allocated, you can change the AS routing profile of an existing
-LoRaWAN® or cellular device if applying [AS routing profile
-compatibility rules](#as-routing-profile-compatibility-rules).
+LoRaWAN® or cellular device if applying [AS routing profile compatibility rules](#as-routing-profile-compatibility-rules).
 
 **Before you begin**
 
 - You must have read-write access to Device Manager. Read more\... For
-  more information, see [Opening a panel and checking your read-/write
-  access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+  more information, see [Opening a panel and checking your read-/write   access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 - You must have created and provisioned at least two AS routing
   profiles.  
-  For more information, see [Managing local application
-  servers](../manage-local-application-servers/index) and [Managing
-  AS routing profiles](../manage-as-routing-profiles/index).
+  For more information, see [Managing local application   servers](../manage-local-application-servers/index) and [Managing   AS routing profiles](../manage-as-routing-profiles/index).
 
  
 
@@ -134,8 +124,7 @@ If you do not want to use a device anymore, you can remove its AS
 routing profile.
 
 You must have read-write access to Device Manager. Read more\... For
-more information, see [Opening a panel and checking your read-/write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more information, see [Opening a panel and checking your read-/write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 **WARNING** This action deactivates the device on the network server
 
@@ -150,8 +139,7 @@ access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access)
   - A device reset for an ABP device.
 
 If you want to replace an AS routing profile on a device you still want
-to use, apply [Changing the AS routing
-profile](#changing-the-as-routing-profile).
+to use, apply [Changing the AS routing profile](#changing-the-as-routing-profile).
 
  
 

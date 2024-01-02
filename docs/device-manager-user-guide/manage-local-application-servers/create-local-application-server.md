@@ -7,8 +7,7 @@ sidebar_position: 1
 # Creating a local application server
 
 You must have read-write access to Device Manager.Read more\... For more
-information, see [Opening a panel and checking your read-write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 ## About local application servers and creating process
 

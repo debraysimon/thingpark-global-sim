@@ -7,8 +7,7 @@ sidebar_position: 1
 # Creating a cellular device
 
 You must have read-write access to Device Manager. Read more\...For more
-information, see [Opening a panel and checking your read-write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 To connect successfully a cellular device to the cellular network, the
 EPC Connector and ThingPark Wireless, the following information is
@@ -60,20 +59,16 @@ later.
       device on your IoT network.
 
     - **Marker:** If you want to change the default device marker, click
-      **Change the marker**, and apply [Changing the device
-      marker](../manage-a-device/locate-device.md#changing-the-device-marker)
+      **Change the marker**, and apply [Changing the device       marker](../manage-a-device/locate-device.md#changing-the-device-marker)
       from step 3.
 
     - **Administrative info**: Enter any useful information related to
       the device. Such information is displayed in alarm notification
-      emails. For more information, see [Setting alarm notification
-      emails](../device-manager-settings.md#setting-alarm-notification-emails).
+      emails. For more information, see [Setting alarm notification       emails](../device-manager-settings.md#setting-alarm-notification-emails).
 
     - **Administrative location:** By default, the device location is
       not set. If you want to locate the device, click **Change
-      location**. For more information, see [Manual location: locating a
-      device or editing its
-      location](../manage-a-device/locate-device.md#manual-location-locating-a-device-or-editing-its-location)
+      location**. For more information, see [Manual location: locating a       device or editing its       location](../manage-a-device/locate-device.md#manual-location-locating-a-device-or-editing-its-location)
       from step 3.
 
     - **Motion indicator:** To allow the network server to use the best
@@ -194,16 +189,12 @@ later.
         not contain more destinations, summing up all types of
         application servers in it, than defined in the connectivity plan
         associated with the device. For more information, see Maximum allowed Application Servers in
-        [Cellular IoT connectivity plan
-        details](../reference-information.md#cellular-iot-connectivity-plan-details).
+        [Cellular IoT connectivity plan         details](../reference-information.md#cellular-iot-connectivity-plan-details).
 
       - If there is no AS routing profile in the list, you will
         associate it later by opening the device's Network panel after
         you have created a cellular AS routing profile. For more
-        information, see [Managing AS routing
-        profiles](../manage-as-routing-profiles/index.md) and [Managing
-        the AS routing profile of a
-        device](../manage-device-network/manage-as-routing-profile-device.md).
+        information, see [Managing AS routing         profiles](../manage-as-routing-profiles/index.md) and [Managing         the AS routing profile of a         device](../manage-device-network/manage-as-routing-profile-device.md).
 
 9.  Click **Create**.
 

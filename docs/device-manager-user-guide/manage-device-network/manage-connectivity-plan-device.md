@@ -7,8 +7,7 @@ sidebar_position: 1
 # Managing the connectivity plan of a device
 
 You must have read-write access to Device Manager. Read more\... For
-more information, see [Opening a panel and checking your read-/write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more information, see [Opening a panel and checking your read-/write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 ## Connectivity plan compatibility rules
 
@@ -24,12 +23,10 @@ apply the following rules:
 ## Allocating a connectivity plan
 
 You can associate a device with a connectivity plan after the creation
-of the device if applying [Connectivity plan compatibility
-rules](#connectivity-plan-compatibility-rules).
+of the device if applying [Connectivity plan compatibility rules](#connectivity-plan-compatibility-rules).
 
 You must have read-write access to Device Manager. Read more\... For
-more information, see [Opening a panel and checking your read-/write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more information, see [Opening a panel and checking your read-/write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 1.  In the navigation panel, click **Devices** to display the Devices
     panel, then click the **List** or the **Map** tab.
@@ -52,9 +49,7 @@ access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access)
     of device.
 
     **Note** The number of remaining connectivity plan credits is
-    displayed into parenthesis. For more information, see [Viewing the
-    connectivity plans and available
-    credits](../view-connectivity-plans.md#viewing-the-connectivity-plans-and-available-credits).
+    displayed into parenthesis. For more information, see [Viewing the     connectivity plans and available     credits](../view-connectivity-plans.md#viewing-the-connectivity-plans-and-available-credits).
 
 6.  Click **Save**.
 
@@ -64,12 +59,10 @@ access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access)
 ## Changing the connectivity plan
 
 Once allocated, you can change the connectivity plan of a device if
-applying [Connectivity plan compatibility
-rules](#connectivity-plan-compatibility-rules).
+applying [Connectivity plan compatibility rules](#connectivity-plan-compatibility-rules).
 
 You must have read-write access to Device Manager. Read more\... For
-more information, see [Opening a panel and checking your read-/write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more information, see [Opening a panel and checking your read-/write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 1.  In the navigation panel, click **Devices** to display the Devices
     panel, then click the **List** or the **Map** tab.
@@ -92,9 +85,7 @@ access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access)
     of device.
 
     **Note** The number of remaining connectivity plan credits is
-    displayed into parenthesis. For more information, see [Viewing the
-    connectivity plans and available
-    credits](../view-connectivity-plans.md#viewing-the-connectivity-plans-and-available-credits).
+    displayed into parenthesis. For more information, see [Viewing the     connectivity plans and available     credits](../view-connectivity-plans.md#viewing-the-connectivity-plans-and-available-credits).
 
 6.  Click **Save**.
 
@@ -105,9 +96,7 @@ access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access)
 
 If you do not want to use a device anymore, you can remove its
 connectivity plan. You must have read-write access to Device Manager.
-Read more\... For more information, see [Opening a panel and checking
-your read-/write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+Read more\... For more information, see [Opening a panel and checking your read-/write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 **WARNING** This action deactivates the device on the network server
 
@@ -121,8 +110,7 @@ access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access)
   - A device reset for an ABP device.
 
 If you want to replace a connectivity plan on a device you still want to
-use, apply [Changing the connectivity
-plan](#changing-the-connectivity-plan).
+use, apply [Changing the connectivity plan](#changing-the-connectivity-plan).
 
 1.  In the navigation panel, click **Devices** to display the Devices
     panel, then click the **List** or the **Map** tab.

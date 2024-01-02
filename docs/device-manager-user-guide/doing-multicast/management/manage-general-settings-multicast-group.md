@@ -11,9 +11,7 @@ sidebar_position: 1
 The multicast group general information is displayed in the Multicast
 group frame of the Multicast group panel. You must have read-write
 access to Device Manager if you want to edit a multicast group. Read
-more\... For more information, see [Opening a panel and checking your
-read-write
-access](../../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more\... For more information, see [Opening a panel and checking your read-write access](../../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
  
 
@@ -27,8 +25,7 @@ access](../../use-interface.md#opening-a-panel-and-checking-your-read-write-acce
     ![](./_images/managing-the-general-settings.png)
 
 3.  For more information about editing the multicast group settings, see
-    [Creating a multicast
-    group](../create-multicast-group-associated-base-stations-group.md#creating-a-multicast-group).
+    [Creating a multicast     group](../create-multicast-group-associated-base-stations-group.md#creating-a-multicast-group).
 
 ## Viewing base stations associated with a multicast group
 
@@ -44,8 +41,7 @@ It allows you to display:
 There are two ways to do it:
 
 - Either from the Multicast Group panel if the multicast group is open.
-  For more information, see [Managing the general settings of a
-  multicast group](#_Ref516768849).
+  For more information, see [Managing the general settings of a   multicast group](#_Ref516768849).
 
 - Or from the list of the Multicast Groups panel as shown in this task.
 
@@ -74,8 +70,7 @@ If you have read only access to Device Manager, you can view the base
 station tags associated with a multicast group.
 
 If you have read-write access to Device Manager Read more\... For more
-information, see [Opening a panel and checking your read-write
-access](../../use-interface.md#opening-a-panel-and-checking-your-read-write-access),
+information, see [Opening a panel and checking your read-write access](../../use-interface.md#opening-a-panel-and-checking-your-read-write-access),
 you can manage base station tags in a multicast group by removing and
 adding tags:
 
@@ -85,8 +80,7 @@ adding tags:
   corresponding to an area where multicast devices are located, it will
   stop these devices to receive multicast downlinks.
 
-- For adding tags, apply [Adding a base station tag to a multicast
-  group](../create-multicast-group-associated-base-stations-group.md#adding-a-base-station-tag-to-a-multicast-group).
+- For adding tags, apply [Adding a base station tag to a multicast   group](../create-multicast-group-associated-base-stations-group.md#adding-a-base-station-tag-to-a-multicast-group).
 
 When the multicast group is open in view mode, the Multicast Group Tag
 Manager information is read-only. This task shows you how to remove a
@@ -136,11 +130,8 @@ downlinks it manages. This information is read-only.
 - Clicking an item of the caption makes it appear/disappear from the
   chart and adjust the scale.
 
-For more information about charts, see [Monitoring packets and payloads
-history of a LoRaWAN®
-device](../../orphans/dmug-monitor-packets-payloads-history-lorawan-device)
-and [Printing or downloading a
-chart](../../Manage%20a%20device/check-device-settings-activity.md#printing-or-downloading-a-chart).
+For more information about charts, see [Monitoring packets and payloads history of a LoRaWAN® device](../../orphans/dmug-monitor-packets-payloads-history-lorawan-device)
+and [Printing or downloading a chart](../../Manage%20a%20device/check-device-settings-activity.md#printing-or-downloading-a-chart).
 
  
 

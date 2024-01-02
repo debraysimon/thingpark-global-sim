@@ -26,8 +26,7 @@ reported to your operator. This task shows you how to deactivate the
 local application server. Reactivating it is similar.
 
 You must have read-write access to Device Manager. Read more\... For
-more information, see [Opening a panel and checking your read-/write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more information, see [Opening a panel and checking your read-/write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
  
 

@@ -5,9 +5,7 @@ You can locate a device in two ways: network location or manual
 location.
 
 You must have read-write access to Device Manager to change the device
-location. Read more\... For more information, see [Opening a panel and
-checking your read-/write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+location. Read more\... For more information, see [Opening a panel and checking your read-/write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 ## Network location: viewing the device location history (LoRaWAN® only) {#network-location-viewing-the-device-location-history-lorawan®-only}
 
@@ -24,9 +22,7 @@ The network location can report the device location from:
   by the Geolocation Solver on the network.
 
 The network location is the default location. It can be changed when
-creating the device and later. For more information, see [Manual
-location: locating a device or editing its
-location](#manual-location-locating-a-device-or-editing-its-location).
+creating the device and later. For more information, see [Manual location: locating a device or editing its location](#manual-location-locating-a-device-or-editing-its-location).
 
  
 

@@ -6,9 +6,7 @@ subscriber you belong, and its subscription to Device Manager.
 
 It also allows you to view the recipients of alarm email notifications,
 and configure these email notifications if you have read-write access to
-Device Manager. Read more\... For more information, see [Opening a panel
-and checking your read-write
-access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+Device Manager. Read more\... For more information, see [Opening a panel and checking your read-write access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 ## Accessing the Settings panel and viewing account details
 
@@ -148,8 +146,7 @@ reached, an email for all devices impacted is sent:
 - Whenever an existing alarm changes to this alarm state.  
   **Note** For an event-driven alarm, no email is sent for any new
   occurrence if the alarm state is the same. For more information, see
-  [Alarm occurrence
-  management](./manage-alarms#alarm-occurrence-management).
+  [Alarm occurrence   management](./manage-alarms#alarm-occurrence-management).
 
 - Whenever the alarm has been acknowledged and increases to this alarm
   state.  
@@ -169,9 +166,7 @@ following color codes:
 | **Cleared** (Green)        | The alarm has satisfied the clearing conditions and has been cleared by the system.                  |
 
 You must have read-write access to Device Manager to set alarms
-notifications emails. Read more\... For more information, see [Opening a
-panel and checking your read-/write
-access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+notifications emails. Read more\... For more information, see [Opening a panel and checking your read-/write access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 **Tip** If you want to see who receives alarm notification emails for
 which alarms state, click **Settings \>** **Switch to the advanced
@@ -179,8 +174,7 @@ mode** and do not click **Save**.
 
  
 
-1.  Apply all steps described in [Setting alarm notification emails in
-    basic mode](#setting-alarm-notification-emails-in-basic-mode)
+1.  Apply all steps described in [Setting alarm notification emails in     basic mode](#setting-alarm-notification-emails-in-basic-mode)
     entering the email addresses of all the recipients you want to
     notify, whatever the alarm state of the devices.
 

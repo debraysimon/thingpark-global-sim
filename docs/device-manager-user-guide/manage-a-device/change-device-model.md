@@ -10,8 +10,7 @@ You can change the model of a device for a model compatible with the
 model used when creating the device. Compatible models are suggested.
 
 You must have read-write access to Device Manager.Read more\... For more
-information, see [Opening a panel and checking your read-write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 For a LoRaWAN® device:
 
@@ -26,8 +25,7 @@ you will be suggested models that are compatible with this model. In
 that case, delete the device then create it again with the appropriate
 model.
 
-For more information, see [More about models and
-manufacturers](#more-about-models-and-manufacturers).
+For more information, see [More about models and manufacturers](#more-about-models-and-manufacturers).
 
 1.  Open a device in edit mode.
 

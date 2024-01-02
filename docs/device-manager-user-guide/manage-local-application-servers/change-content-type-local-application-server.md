@@ -13,8 +13,7 @@ must use the same content type to communicate. Ask the content type used
 by the third-party application server to its owner.
 
 You must have read-write access to Device Manager. Read more\... For
-more information, see [Opening a panel and checking your read-write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 **Important** It is not recommended to change the content type of a
 local application server in use.
@@ -48,8 +47,7 @@ You can use one of the following content types:
   }
   ```
 
-For more information, see [LRC-AS Tunnel Interface Developer
-Guide](../../integrating-applications-with-tpw.md#lrc-as-tunnel-interface-developer-guide).
+For more information, see [LRC-AS Tunnel Interface Developer Guide](../../integrating-applications-with-tpw.md#lrc-as-tunnel-interface-developer-guide).
 
 **Before you begin** The application server must be opened in edit mode.
 

@@ -26,8 +26,7 @@ In the Last packets list:
 
 This task also shows you how to reload the packets to refresh the Last packets list.
 
-1.  If Wireless Logger is not opened, apply [Logging
-    in](../log-in-wireless-logger).
+1.  If Wireless Logger is not opened, apply [Logging     in](../log-in-wireless-logger).
 
 2.  (Optional) If you have been logged in for a while, do one of the
     following to load the latest packets:
@@ -74,28 +73,20 @@ This task also shows you how to reload the packets to refresh the Last packets l
 
 6.  Check the most important metadata of the packets that appear in
     columns. 
-    :specificContent[
-    For more information, see [Uplink metadata
-    columns](../lorawan-traffic/uplink-lorawan-packets.md#uplink-metadata-columns)
-    and [Downlink metadata
-    columns](../lorawan-traffic/downlink-lorawan-unicast-packets.md#downlink-metadata-columns).
+    :specificContent[     For more information, see [Uplink metadata     columns](../lorawan-traffic/uplink-lorawan-packets.md#uplink-metadata-columns)
+    and [Downlink metadata     columns](../lorawan-traffic/downlink-lorawan-unicast-packets.md#downlink-metadata-columns).
     ]{flavor=tpe}
 
     For more information, see:
 
-    - **For LoRaWAN®**: [Uplink metadata
-      columns](../lorawan-traffic/uplink-lorawan-packets.md#uplink-metadata-columns)
-      and [Downlink metadata
-      columns](../lorawan-traffic/downlink-lorawan-unicast-packets.md#downlink-metadata-columns)
+    - **For LoRaWAN®**: [Uplink metadata       columns](../lorawan-traffic/uplink-lorawan-packets.md#uplink-metadata-columns)
+      and [Downlink metadata       columns](../lorawan-traffic/downlink-lorawan-unicast-packets.md#downlink-metadata-columns)
 
-    - **For cellular**: [Cellular metadata
-      columns](../cellular-traffic-tpw/cellular-traffic-overview.md#cellular-metadata-columns).
+    - **For cellular**: [Cellular metadata       columns](../cellular-traffic-tpw/cellular-traffic-overview.md#cellular-metadata-columns).
 
 7.  Check the radio parameters that appear in color. For
-    more information, see [Radio color
-    codes](../lorawan-traffic/lorawan-traffic-overview.md#radio-color-codes)
-    and [LoRaWAN® radio
-    statistics](../lorawan-traffic/lorawan-traffic-overview.md#lorawan-radio-statistics).
+    more information, see [Radio color     codes](../lorawan-traffic/lorawan-traffic-overview.md#radio-color-codes)
+    and [LoRaWAN® radio     statistics](../lorawan-traffic/lorawan-traffic-overview.md#lorawan-radio-statistics).
     :specificContent[(LoRaWAN® only)]{flavor=tpw}
 
 8.  If you want to see all the metadata of a packet, click **Expand**

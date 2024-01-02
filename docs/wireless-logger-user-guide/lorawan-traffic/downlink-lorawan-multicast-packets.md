@@ -53,10 +53,8 @@ than once by the LRC. Notice the downlink frame counters 10774 and
 
 ## Multicast downlinks metadata
 
-See [Downlink metadata
-columns](downlink-lorawan-unicast-packets.md#downlink-metadata-columns)
-and [Downlink expandable
-panel](downlink-lorawan-unicast-packets.md#downlink-expandable-panel).
+See [Downlink metadata columns](downlink-lorawan-unicast-packets.md#downlink-metadata-columns)
+and [Downlink expandable panel](downlink-lorawan-unicast-packets.md#downlink-expandable-panel).
 
 ## Multicast summary report
 

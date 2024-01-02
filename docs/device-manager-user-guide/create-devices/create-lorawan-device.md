@@ -58,25 +58,20 @@ the manufactured-class B device switch to class B mode after a
 successful acquisition of the beacon signal.
 
 The device model is created and managed by your operator. For more
-information, see [More about models and
-manufacturers](../manage-a-device/change-device-model.md#more-about-models-and-manufacturers).
+information, see [More about models and manufacturers](../manage-a-device/change-device-model.md#more-about-models-and-manufacturers).
 The connectivity plan is created by the connectivity supplier and is
 included in a Vendor offer to be purchased by the Subscriber. For more
 information, see the **Class B support** parameter in 
 [LoRaWAN® unicast connectivity plan details](../reference-information.md#lorawan-unicast-connectivity-plan-details).
 
-For more information about class B devices, see [Viewing general
-information, activity summary and location of a
-device](../manage-a-device/check-device-settings-activity.md#viewing-general-information-activity-summary-and-location-of-a-device).
+For more information about class B devices, see [Viewing general information, activity summary and location of a device](../manage-a-device/check-device-settings-activity.md#viewing-general-information-activity-summary-and-location-of-a-device).
 
 ## Creating an OTAA device
 
 You must know the manufacturer and the model of the OTAA device you want
 to register in Device Manager to connect it to your IoT network. When
 selected, the model applies the LoRaWAN® version, class and
-configuration of the device. For more information, see [More about
-models and
-manufacturers](../manage-a-device/change-device-model.md#more-about-models-and-manufacturers).
+configuration of the device. For more information, see [More about models and manufacturers](../manage-a-device/change-device-model.md#more-about-models-and-manufacturers).
 
 You must have the following information ready to be used:
 
@@ -121,10 +116,8 @@ encrypted.</p>
 
 - The connectivity plan and the AS routing profile are necessary to make
   the device work. You can associate them by editing the device later as
-  described in [Allocating a connectivity
-  plan](../manage-device-network/manage-connectivity-plan-device.md#allocating-a-connectivity-plan)
-  and [Allocating an AS routing
-  profile](../manage-device-network/manage-as-routing-profile-device.md#allocating-an-as-routing-profile).
+  described in [Allocating a connectivity   plan](../manage-device-network/manage-connectivity-plan-device.md#allocating-a-connectivity-plan)
+  and [Allocating an AS routing   profile](../manage-device-network/manage-as-routing-profile-device.md#allocating-an-as-routing-profile).
 
 - If you want a hardware protection of the device's root keys, you must
   use a connectivity plan and an AS routing profile that both enable HSM
@@ -162,20 +155,16 @@ encrypted.</p>
       device on your IoT network.
 
     - **Marker**: If you want to change the default device marker, click
-      **Change the marker**, and apply [Changing the device
-      marker](../manage-a-device/locate-device.md#changing-the-device-marker)
+      **Change the marker**, and apply [Changing the device       marker](../manage-a-device/locate-device.md#changing-the-device-marker)
       from step 3.
 
     - **Administrative info**: Type any useful information related to
       the device. Such information is displayed in alarm notification
-      emails. For more information, see [Setting alarm notification
-      emails](../device-manager-settings.md#setting-alarm-notification-emails).
+      emails. For more information, see [Setting alarm notification       emails](../device-manager-settings.md#setting-alarm-notification-emails).
 
     - **Administrative location:** By default, the network location is
       set for the device. If you want to set the manual location, click
-      **Change location,** and apply [Manual location: locating a device
-      or editing its
-      location](../manage-a-device/locate-device.md#manual-location-locating-a-device-or-editing-its-location)
+      **Change location,** and apply [Manual location: locating a device       or editing its       location](../manage-a-device/locate-device.md#manual-location-locating-a-device-or-editing-its-location)
       from step 3.
 
     - **Motion indicator:** To allow the network server to use the best
@@ -334,8 +323,7 @@ encrypted.</p>
 
       The number in parenthesis indicates the remaining devices
       available in the connectivity plan. For more information about
-      connectivity plans, see [Viewing connectivity
-      plans](../view-connectivity-plans.md).
+      connectivity plans, see [Viewing connectivity       plans](../view-connectivity-plans.md).
 
       - If you want to create a class B device, select a connectivity
         plan that supports class B. If not, the device will work as a
@@ -370,16 +358,12 @@ encrypted.</p>
         not contain more destinations, summing up all types of
         application servers in it, than defined in the connectivity plan
         associated with the device. For more information, see Maximum allowed Application Servers in
-        [LoRaWAN® unicast connectivity plan
-        details](../reference-information.md#lorawan-unicast-connectivity-plan-details).
+        [LoRaWAN® unicast connectivity plan         details](../reference-information.md#lorawan-unicast-connectivity-plan-details).
 
       - If there is no AS routing profile in the list, you will
         associate it later by opening the device's Network panel after
         you have created a LoRaWAN® AS routing profile. For more
-        information, see [Managing AS routing
-        profiles](../manage-as-routing-profiles/index.md) and [Managing
-        the AS routing profile of a
-        device](../manage-device-network/manage-as-routing-profile-device.md).
+        information, see [Managing AS routing         profiles](../manage-as-routing-profiles/index.md) and [Managing         the AS routing profile of a         device](../manage-device-network/manage-as-routing-profile-device.md).
 
     - If supported by the connectivity plan you have selected, the
       ThingPark X configuration area is displayed. If you want to set a
@@ -406,9 +390,7 @@ encrypted.</p>
 You must know the manufacturer and the model of the ABP device you want
 to register in Device Manager to connect it to your IoT network. When
 selected, the model applies the LoRaWAN® version, class and
-configuration of the device. For more information, see [More about
-models and
-manufacturers](../manage-a-device/change-device-model.md#more-about-models-and-manufacturers).
+configuration of the device. For more information, see [More about models and manufacturers](../manage-a-device/change-device-model.md#more-about-models-and-manufacturers).
 
 You must have the following information ready to be used:
 
@@ -438,20 +420,16 @@ and [Allocating an AS routingprofile](../manage-device-network/manage-as-routing
       device on your IoT network.
 
     - **Marker**: If you want to change the default device marker, click
-      **Change the marker**, and apply [Changing the device
-      marker](../manage-a-device/locate-device.md#changing-the-device-marker)
+      **Change the marker**, and apply [Changing the device       marker](../manage-a-device/locate-device.md#changing-the-device-marker)
       from step 3.
 
     - **Administrative info**: Type any useful information related to
       the device. Such information is displayed in alarm notification
-      emails. For more information, see [Setting alarm notification
-      emails](../device-manager-settings.md#setting-alarm-notification-emails).
+      emails. For more information, see [Setting alarm notification       emails](../device-manager-settings.md#setting-alarm-notification-emails).
 
     - **Administrative location:** By default, the network location is
       set for the device. If you want to set the manual location, click
-      **Change location,** and apply [Manual location: locating a device
-      or editing its
-      location](../manage-a-device/locate-device.md#manual-location-locating-a-device-or-editing-its-location)
+      **Change location,** and apply [Manual location: locating a device       or editing its       location](../manage-a-device/locate-device.md#manual-location-locating-a-device-or-editing-its-location)
       from step 3.
 
     - **Motion indicator:** To allow the network server to use the best
@@ -531,8 +509,7 @@ and [Allocating an AS routingprofile](../manage-device-network/manage-as-routing
 
     The number in parenthesis indicates the remaining devices available
     in the connectivity plan. For more information about connectivity
-    plans, see [Viewing connectivity
-    plans](../view-connectivity-plans.md).
+    plans, see [Viewing connectivity     plans](../view-connectivity-plans.md).
 
     - If you want to create a class B device, select a connectivity plan
       that supports class B. If not, the device will work as a class A
@@ -549,16 +526,12 @@ and [Allocating an AS routingprofile](../manage-device-network/manage-as-routing
         not contain more destinations, summing up all types of
         application servers in it, than defined in the connectivity plan
         associated with the device. For more information, see Maximum allowed Application Servers in
-        [LoRaWAN® unicast connectivity plan
-        details](../reference-information.md#lorawan-unicast-connectivity-plan-details).
+        [LoRaWAN® unicast connectivity plan         details](../reference-information.md#lorawan-unicast-connectivity-plan-details).
 
       - If there is no AS routing profile in the list, you must
         associate it later by opening the device's Network panel after
         you have created a LoRaWAN® AS routing profile. For more
-        information, see [Managing AS routing
-        profiles](../manage-as-routing-profiles/index.md) and [Managing
-        the AS routing profile of a
-        device](../manage-device-network/manage-as-routing-profile-device.md).
+        information, see [Managing AS routing         profiles](../manage-as-routing-profiles/index.md) and [Managing         the AS routing profile of a         device](../manage-device-network/manage-as-routing-profile-device.md).
 
     - If you want the payloads to be encrypted, you can enter one
       distinct AppSKey for each LoRaWAN® ports used by your device. You

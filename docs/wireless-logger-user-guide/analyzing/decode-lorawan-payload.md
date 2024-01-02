@@ -39,8 +39,7 @@ possible in the following cases:
       each device based on the driver metadata associated with the
       device profile. **Note** When **Automatic** is selected, the
       decoded data is also included in the export file, along with
-      information about the driver. For more information, see [LoRaWAN®
-      export file](../lorawan-traffic/lorawan-export-file).
+      information about the driver. For more information, see [LoRaWAN®       export file](../lorawan-traffic/lorawan-export-file).
 
     - If using versions earlier than ThingPark 6.1, select another
       decoder from the list. This option is essentially kept for

@@ -8,9 +8,7 @@ sidebar_position: 7
 
 The following table gives the packets information available in the
 LoRaWAN® export file. Most of the fields described are also accessible
-via ThingPark Tunnel Interface. For more information, see [LRC-AS Tunnel
-Interface Developer
-Guide](https://oss-api.thingpark.com/tpw/7.1/Core-Network/lrc-as-tunnel-lorawan/).
+via ThingPark Tunnel Interface. For more information, see [LRC-AS Tunnel Interface Developer Guide](https://oss-api.thingpark.com/tpw/7.1/Core-Network/lrc-as-tunnel-lorawan/).
 
 From the export file, you can do several analysis such as:
 

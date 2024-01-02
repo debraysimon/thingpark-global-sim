@@ -7,8 +7,7 @@ sidebar_position: 2
 # Importing LoRaWAN® or cellular devices
 
 You must have read-write access to Device Manager. For more
-information, see [Opening a panel and checking your read-/write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+information, see [Opening a panel and checking your read-/write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 You can create several LoRaWAN® or cellular devices at a time in Device
 Manager by importing a formatted CSV file containing the necessary
@@ -26,14 +25,11 @@ need the following information to identify the device to delete:
 1.  According to the type of device you want to import, build your CSV
     file applying one of the structures described below:
 
-    - [Import CSV file for LoRaWAN® OTAA
-      devices](../reference-information.md#import-csv-file-for-lorawan-otaa-devices)
+    - [Import CSV file for LoRaWAN® OTAA       devices](../reference-information.md#import-csv-file-for-lorawan-otaa-devices)
 
-    - [Import CSV file for LoRaWAN® ABP
-      devices](../reference-information.md#import-csv-file-for-lorawan-abp-devices)
+    - [Import CSV file for LoRaWAN® ABP       devices](../reference-information.md#import-csv-file-for-lorawan-abp-devices)
 
-    - [Import CSV file for cellular
-      devices](../reference-information.md#import-csv-file-for-cellular-devices).
+    - [Import CSV file for cellular       devices](../reference-information.md#import-csv-file-for-cellular-devices).
 
     **Important**The CSV file is structured as follows:
 

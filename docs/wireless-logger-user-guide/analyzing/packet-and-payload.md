@@ -25,5 +25,4 @@ packet to display the MAC and/or applicative payload inside:
   ABP) device creation, then uplink and downlink payloads can be
   decrypted by the LRC network server and displayed in Wireless Logger.
   Otherwise, the payload is displayed encrypted. For more information
-  about how to decode payloads, see [Decoding LoRaWAN®
-  payloads](decode-lorawan-payload).
+  about how to decode payloads, see [Decoding LoRaWAN®   payloads](decode-lorawan-payload).

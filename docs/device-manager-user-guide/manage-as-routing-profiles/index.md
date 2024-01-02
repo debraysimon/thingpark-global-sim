@@ -8,8 +8,7 @@ sidebar_position: 11
 
 You must have read-write access to Device Manager to create and
 configure AS routing profiles. Read more\... For more information, see
-[Opening a panel and checking your read-/write
-access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+[Opening a panel and checking your read-/write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 If you have read-only access, this topic gives you background
 information about the types and modes of AS routing profiles you can
@@ -17,12 +16,9 @@ view, the parameters they use, and their mapping with all types of
 applications servers.
 
 You can create and associate an AS routing profile either when creating
-or editing a device. For more information, see respectively [Creating
-devices](../create-devices/index) and [Managing the device
-network](../manage-device-network/index).
+or editing a device. For more information, see respectively [Creating devices](../create-devices/index) and [Managing the device network](../manage-device-network/index).
 
-**Prerequisite** The prerequisite of this topic is [Managing local
-application servers](../manage-local-application-servers/index),
+**Prerequisite** The prerequisite of this topic is [Managing local application servers](../manage-local-application-servers/index),
 except if you want to use a ThingPark X destination, a supplier
 application server or cellular connectivity in direct IP mode. For those
 cases, you do not have to create any local application server.
@@ -42,8 +38,7 @@ profiles have three modes:
 | **Cellular AS routing profiles**<br/>Mixed mode|Enables both Message and Direct IP modes.|
 
 For more information about the three modes of the cellular AS routing
-profile, see [Configuring a cellular AS routing
-profile](configure-cellular-as-routing-profile).
+profile, see [Configuring a cellular AS routing profile](configure-cellular-as-routing-profile).
 
 **Important** Hardware Security Module (HSM) is not applicable to
 cellular devices. When creating or allocating a cellular AS routing
@@ -62,8 +57,5 @@ LoRaWAN®, Cellular message mode AS routing profiles.
   
 **Important** The connectivity plan associated with the device must
 enable the routing parameter corresponding to the application server
-destination used by the device. For more information, see [LoRaWAN®
-unicast connectivity plan
-details](../reference-information.md#lorawan®-unicast-connectivity-plan-details)
-or [Cellular IoT connectivity plan
-details](../reference-information.md#cellular-iot-connectivity-plan-details).
+destination used by the device. For more information, see [LoRaWAN® unicast connectivity plan details](../reference-information.md#lorawan®-unicast-connectivity-plan-details)
+or [Cellular IoT connectivity plan details](../reference-information.md#cellular-iot-connectivity-plan-details).

@@ -60,8 +60,7 @@ The Device Manager includes the following panels:
 
 You can open them using the navigation panel. Only the Devices panel
 displays objects in a map in addition to the list. The Connectivity
-plans panel is read-only. For more information, see [More about the
-navigation panel](#more-about-the-navigation-panel).
+plans panel is read-only. For more information, see [More about the navigation panel](#more-about-the-navigation-panel).
 
 The example below shows you how to open the AS routing profiles panel.
 It lists the existing AS routing profiles, if any.
@@ -91,9 +90,7 @@ The view mode is read-only. You can apply this procedure to any object
 of the interface.
 
 The view mode is available to read-write access and read-only access.
-Read more\... For more information, see [Opening a panel and checking
-your read-write
-access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+Read more\... For more information, see [Opening a panel and checking your read-write access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
  
 
@@ -122,9 +119,7 @@ in edit mode to see the difference between both ways. You can apply this
 procedure to any object of the interface.
 
 You must have read-write access to open an object in edit mode. Read
-more\... For more information, see [Opening a panel and checking your
-read-write
-access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more\... For more information, see [Opening a panel and checking your read-write access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
  
 
@@ -167,8 +162,7 @@ routing profile, or an application server, then refresh the objects
 list.
 
 You must have read-write access to Device Manager. Read more\... For
-more information, see [Opening a panel and checking your read-write
-access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
+more information, see [Opening a panel and checking your read-write access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
  
 
