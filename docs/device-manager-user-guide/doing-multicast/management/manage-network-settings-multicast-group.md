@@ -27,7 +27,7 @@ LoRaWAN® multicast connectivity plan:
 
 For more information, see [LoRaWAN® multicast connectivity plan details](../../reference-information.md#lorawan-multicast-connectivity-plan-details).
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Multicast groups**.
 
@@ -35,16 +35,16 @@ For more information, see [LoRaWAN® multicast connectivity plan details](../../
     panel, select the multicast group you want to open, and click
     **View** or **Edit** if you have read-write access.
 
-    -\> The multicast group appears in the navigation panel.
+    -\&gt; The multicast group appears in the navigation panel.
 
 3.  In the multicast group displayed in the navigation panel, click
     **Network**.
 
-    -\> The multicast group appears in the navigation panel.
+    -\&gt; The multicast group appears in the navigation panel.
 
 For more information, see [Managing a device](../../manage-a-device/index.md) that works similarly.
 
- 
+&nbsp;
 
 ### Checking the overflow activity of a multicast group
 
@@ -53,7 +53,7 @@ group's overflow activity compared with the conditions of the allocated
 LoRaWAN® multicast connectivity plan. The information is read-only for
 all end-users.
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Multicast groups**.
 
@@ -61,12 +61,12 @@ all end-users.
     panel, select the multicast group you want to open, and click
     **View** or **Edit**.
 
-    -\> The multicast group appears in the navigation panel.
+    -\&gt; The multicast group appears in the navigation panel.
 
 3.  In the multicast group displayed in the navigation panel, click
     **Network**.
 
-    -\> The Network panel of the multicast group opens.
+    -\&gt; The Network panel of the multicast group opens.
 
     ![](./_images/managing-the-network-settings.png)
 

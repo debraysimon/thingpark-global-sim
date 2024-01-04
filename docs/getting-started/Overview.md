@@ -121,7 +121,7 @@ ThingPark cellular is LTE only service, so the device configuration must ensure 
 You can change the APN settings on the phone by entering the network settings and creating the new APN. After that, the APN must be applied to the SIM card.
 ![](_images/phone-apn.png).
 
-The next step is to force the phone to connect in "LTE only" mode. You can download the [Force LTE Only](https://play.google.com/store/apps/details?id=com.xsquarestudio.forcelte&hl=en&gl=US) android app to configure the phone in "LTE only" mode.
+The next step is to force the phone to connect in "LTE only" mode. You can download the [Force LTE Only](https://play.google.com/store/apps/details?id=com.xsquarestudio.forcelte&amp;hl=en&amp;gl=US) android app to configure the phone in "LTE only" mode.
 ![](_images/phone-lte-only.png).
 
 Note: You might have to put the phone in airplane mode and enable the mobile data to enable the new settings to take effect.

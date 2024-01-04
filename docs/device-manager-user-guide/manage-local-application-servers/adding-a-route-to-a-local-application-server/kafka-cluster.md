@@ -26,10 +26,10 @@ the Application server panel.
 
 4.  Click **Save** to keep all changes made on the application server.
 
-    -\> The Status frame of the Application server panel is updated with
+    -\&gt; The Status frame of the Application server panel is updated with
     your last modifications.
 
-    -\> The application server destination is ready to be added to a
+    -\&gt; The application server destination is ready to be added to a
     LoRaWAN® or a cellular AS routing profile:
 
     - If you want to add it to an existing AS routing profile, see

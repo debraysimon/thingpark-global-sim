@@ -52,7 +52,7 @@ DNS server 1</td>
 
 - The cellular AS routing profile must be opened in edit mode.
 
- 
+&nbsp;
 
 1.  In the IPV4 settings frame, enter the following information:
 
@@ -69,7 +69,7 @@ DNS server 1</td>
 
 3.  Click **Save**.
 
-    -\> The Status frame is updated with your last modifications.
+    -\&gt; The Status frame is updated with your last modifications.
 
 ## Adding a destination to a cellular AS routing profile
 

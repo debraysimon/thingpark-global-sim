@@ -90,7 +90,7 @@ This panel is read-only.
 You can display the details of the connectivity plan you want. This
 information is read-only.
 
- 
+&nbsp;
 
 1.  Click **Connectivity plans** in the navigation panel to open the
     Connectivity plans panel:

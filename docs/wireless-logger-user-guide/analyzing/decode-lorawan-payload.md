@@ -50,7 +50,7 @@ possible in the following cases:
 
 3.  Click **Refresh** icon.
 
-    -\> All packets of the current page of the Last packets list corresponding to the
+    -\&gt; All packets of the current page of the Last packets list corresponding to the
     selected decoder have their payloads decoded.
 
 4.  Do one of the following:
@@ -59,7 +59,7 @@ possible in the following cases:
       on the left side
       of the packet.
 
-      -\> In our example, the payload data has been automatically
+      -\&gt; In our example, the payload data has been automatically
       decoded by Wireless Logger application.
       
       ![](./_images/payload-decoder-1.png)

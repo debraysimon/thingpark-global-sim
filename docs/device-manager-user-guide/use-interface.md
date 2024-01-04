@@ -1,4 +1,3 @@
-
 # Using the interface
 
 This topic gives you guidelines with generic tasks to get familiar with
@@ -65,14 +64,14 @@ plans panel is read-only. For more information, see [More about the navigation p
 The example below shows you how to open the AS routing profiles panel.
 It lists the existing AS routing profiles, if any.
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **AS routing profiles** to open the
     AS routing profiles panel.
 
 ![](_images/opening-a-panel-and-checking.png)
 
-    -\> The AS routing profiles frame lists the AS routing profiles that
+    -\&gt; The AS routing profiles frame lists the AS routing profiles that
     are available in your subscriber account.
 
 2.  If you neither have **Edit** nor
@@ -92,7 +91,7 @@ of the interface.
 The view mode is available to read-write access and read-only access.
 Read more\... For more information, see [Opening a panel and checking your read-write access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
- 
+&nbsp;
 
 1.  Select the object from the list (or the map if you are in the
     Devices' panel).
@@ -100,7 +99,7 @@ Read more\... For more information, see [Opening a panel and checking your read-
 2.  Click **View** at the end
     of the row.
 
-    -\> The object is opened in the object panel and is displayed in
+    -\&gt; The object is opened in the object panel and is displayed in
     view mode in the navigation panel.
 
 ![](_images/opening-an-object-in-view-1.png)
@@ -121,16 +120,16 @@ procedure to any object of the interface.
 You must have read-write access to open an object in edit mode. Read
 more\... For more information, see [Opening a panel and checking your read-write access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
- 
+&nbsp;
 
 1.  Select the object from the list (or the map if you are in the
     Devices' panel).
 
 2.  Click **View** at the end of the row.
 
-    -\> The object opens and displays its panel in view mode.
+    -\&gt; The object opens and displays its panel in view mode.
 
-    -\> The object also appears in the navigation panel.
+    -\&gt; The object also appears in the navigation panel.
 
 3.  Click **Devices** in the navigation panel to go back to the objects
     list.
@@ -139,9 +138,9 @@ more\... For more information, see [Opening a panel and checking your read-write
 
 5.  Click **Edit** .
 
-    -\> The object opens and displays its panel in edit mode.
+    -\&gt; The object opens and displays its panel in edit mode.
 
-    -\> The object also appears in the navigation panel.
+    -\&gt; The object also appears in the navigation panel.
 
     ![](_images/opening-an-object-in-edit.png)
 
@@ -149,7 +148,7 @@ more\... For more information, see [Opening a panel and checking your read-write
 **Important**
 
 - The edit mode displays a
-  **Save** <img src="./_images/opening-a-panel-and-checking-2.png" border="0" />
+  **Save** ![img](./_images/opening-a-panel-and-checking-2.png)
 
 - Click **Save** after
   any modification you have made in edit mode in the upper-right corner
@@ -164,7 +163,7 @@ list.
 You must have read-write access to Device Manager. Read more\... For
 more information, see [Opening a panel and checking your read-write access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
- 
+&nbsp;
 
 1.  Open the panel of the object that you want to delete.
 

@@ -20,7 +20,7 @@ need the following information to identify the device to delete:
 
 - **IMEI** for a cellular device.
 
- 
+&nbsp;
 
 1.  According to the type of device you want to import, build your CSV
     file applying one of the structures described below:
@@ -48,10 +48,10 @@ need the following information to identify the device to delete:
 
 4.  Select the .csv file from your directory and click **Import**.
 
-    -\> If the process takes time, a message tells you that you will
+    -\&gt; If the process takes time, a message tells you that you will
     receive an email when finished.
 
-    -\> The result appears in the Import result area of the Devices
+    -\&gt; The result appears in the Import result area of the Devices
     import dialog box.
 
 5.  Click **Close**.

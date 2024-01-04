@@ -97,7 +97,7 @@ to say, all the packets routed via all base stations provisioned under
 this network partner account whatever the devices sending or receiving
 these packets.
 
- 
+&nbsp;
 
 1.  In your Internet browser, enter this URL using the domain name of
     your operator: `http://<operator>.thingpark.com/admin/`
@@ -155,7 +155,7 @@ You can access Wireless Logger directly from ThingPark Enterprise.
 
 1.  Log in to your ThingPark Enterprise account.
 
-2.  Select **Manage \> Operating Management**.
+2.  Select **Manage \&gt; Operating Management**.
 
 3.  In the **Network Tools** page, click **WIRELESS LOGGER**.
 

@@ -12,7 +12,7 @@ monitor or troubleshoot a LoRaWAN® device.
 - Clicking an item of the caption makes it appear or disappear from the
   chart and adjust the scale.
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices** to display the Devices
     panel, then click the **List** or the **Map** tab.

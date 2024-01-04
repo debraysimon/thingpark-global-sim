@@ -1,5 +1,3 @@
-
-
 # Documentation library
 
 ## Device mass import templates

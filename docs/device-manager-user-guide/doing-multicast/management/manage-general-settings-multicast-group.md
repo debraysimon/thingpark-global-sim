@@ -13,14 +13,14 @@ group frame of the Multicast group panel. You must have read-write
 access to Device Manager if you want to edit a multicast group. Read
 more\... For more information, see [Opening a panel and checking your read-write access](../../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Multicast groups** to display the
     Multicast Groups panel.
 
 2.  In the list displayed in the Search frame, select the multicast
     group you want to open, and click **View** ![](./../../_images/opening-an-object-in-view.png) or **Edit** ![](./../../_images/opening-a-panel-and-checking-1.png)
-    -\> The multicast group opens in the Multicast group panel.
+    -\&gt; The multicast group opens in the Multicast group panel.
 
     ![](./_images/managing-the-general-settings.png)
 
@@ -45,14 +45,14 @@ There are two ways to do it:
 
 - Or from the list of the Multicast Groups panel as shown in this task.
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Multicast groups**.
 
 2.  In the multicast group list of the Search frame, click the map
     corresponding to the multicast group you want.
 
-    -\> The Multicast group location window opens, showing the base
+    -\&gt; The Multicast group location window opens, showing the base
     station markers on the map.
 
     ![](./_images/managing-the-general-settings-1.png)
@@ -86,7 +86,7 @@ When the multicast group is open in view mode, the Multicast Group Tag
 Manager information is read-only. This task shows you how to remove a
 base station tag.
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Multicast groups**.
 
@@ -97,14 +97,14 @@ base station tag.
 3.  In the Tags area of the Multicast group that opens, click **Tags
     Management**.
 
-    -\> The Multicast Group Tag Manager opens.
+    -\&gt; The Multicast Group Tag Manager opens.
 
     ![](./_images/managing-the-general-settings-2.png)
 
 4.  In the tag list, select the tag you want to delete and click
     **Delete** ![](./../../_images/deleting-an-object.png)
 
-    -\> In the Multicast Group Tag Manager:
+    -\&gt; In the Multicast Group Tag Manager:
 
     - The tag is removed from the tag list.
 
@@ -112,7 +112,7 @@ base station tag.
 
 5.  Click **Close**.
 
-    -\> The base stations of the removed multicast group that have a
+    -\&gt; The base stations of the removed multicast group that have a
     known location are removed from the map of the Multicast Group
     panel.
 
@@ -133,7 +133,7 @@ downlinks it manages. This information is read-only.
 For more information about charts, see [Monitoring packets and payloads history of a LoRaWAN® device](../../../orphans/dmug-monitor-packets-payloads-history-lorawan-device.md)
 and [Printing or downloading a chart](../../manage-a-device/check-device-settings-activity.md#printing-or-downloading-a-chart).
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Multicast groups**.
 

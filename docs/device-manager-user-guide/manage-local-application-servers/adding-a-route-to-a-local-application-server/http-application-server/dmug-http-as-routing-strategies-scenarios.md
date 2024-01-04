@@ -1,5 +1,3 @@
-
-
 # HTTP application servers routing strategies and scenarios
 
 You can use the following scenarios to send packets to HTTP application

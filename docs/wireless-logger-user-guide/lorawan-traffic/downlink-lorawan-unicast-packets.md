@@ -162,7 +162,7 @@ panel:
 
     ![](./_images/downlink-delivery-failure-1.png)
 
- 
+&nbsp;
 
 - **Delivery Failed Cause** on RX1/RX2/Pingslots
 
@@ -171,7 +171,7 @@ panel:
   additionally scheduled on the extended RX2 window for class C devices
   and the pingslots of class B devices.
 
-   
+  &nbsp;
 
   The following table details the different delivery failure causes on
   RX1/RX2/Pingslots:

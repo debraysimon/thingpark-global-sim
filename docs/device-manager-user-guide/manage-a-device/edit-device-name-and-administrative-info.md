@@ -10,7 +10,7 @@ You can edit the name and the administrative information of the device.
 You must have read-write access to Device Manager. Read more\... For
 more information, see [Opening a panel and checking your read-/write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
- 
+&nbsp;
 
 1.  Open a device in edit mode.
 

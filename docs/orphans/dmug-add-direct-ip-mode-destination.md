@@ -1,4 +1,3 @@
-
 # Adding a direct IP mode destination
 
 It consists in adding an ASR address that will route the packets to a
@@ -21,7 +20,7 @@ router.
 1.  In the AS routing profile frame, select **Direct IP only** from the
     **Mode** list.
 
-    -\> The AS routing profile panel appears with direct IP mode
+    -\&gt; The AS routing profile panel appears with direct IP mode
     configuration.
 
 2.  In the Direct IP mode destinations frame, enter in the **ASR
@@ -29,9 +28,9 @@ router.
 
 3.  Click **Save**.
 
-    -\>The Status frame is updated with your last modifications.
+    -\&gt;The Status frame is updated with your last modifications.
 
-    -\>The cellular AS routing profile in direct IP mode is ready to be
+    -\&gt;The cellular AS routing profile in direct IP mode is ready to be
     allocated to a cellular device:
 
     - Either when creating the device.  

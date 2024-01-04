@@ -1,5 +1,3 @@
-
-
 # Adding a message mode destination
 
 For the message mode and the message mode part of the mixed mode, the
@@ -35,7 +33,7 @@ When added to the AS routing profile, a destination displays its status.
 1.  In the AS routing profile frame, if you want to set the cellular
     message mode, select **Message only** from the **Mode** list.
 
-    -\> The AS routing profile panel appears with message mode
+    -\&gt; The AS routing profile panel appears with message mode
     configuration.
 
 2.  In the Message mode destinations frame, click **Add**.
@@ -53,7 +51,7 @@ When added to the AS routing profile, a destination displays its status.
 
       2.  In the **Destination** list: select the ThingPark X
           destination your operator gave you. If
-          \<No cloud configured\> is
+          \<no cloud="" configured\=""> is
           displayed, contact your operator.
 
     - If you want to use a cellular HTTP application server or a Kafka
@@ -69,7 +67,7 @@ When added to the AS routing profile, a destination displays its status.
 
 4.  Click **Add**.
 
-    -\> The application server appears in the Destinations frame
+    -\&gt; The application server appears in the Destinations frame
     displaying its status.
 
 5.  If you want to add another destination, click **Add**, and repeat
@@ -81,9 +79,9 @@ When added to the AS routing profile, a destination displays its status.
 
 6.  Click **Save**.
 
-    -\> The Status frame is updated with your last modifications.
+    -\&gt; The Status frame is updated with your last modifications.
 
-    -\>The cellular AS routing profile in message mode is ready to be
+    -\&gt;The cellular AS routing profile in message mode is ready to be
     allocated to a cellular device:
 
     - Either when creating the device.  

@@ -47,7 +47,7 @@ cellular AS routing profile, you will have to create or not one or
 another of the following application servers. You must have read-write
 access.
 
-|  Application server|Destination type|Process to follow|
+|&nbsp; Application server|Destination type|Process to follow|
 |---|---|---|
 |Subscriber **HTTP application Server**<br/>It can be used for LoRaWAN® and cellular message mode and mixed mode.|HTTP LRC-AS tunneling interface.|**You must create the LoRaWAN® or cellular HTTP application server** before adding it to a LoRaWAN® or cellular AS routing profile. |
 |Subscriber **Kafka client**<br/>It can be used for LoRaWAN® and cellular message mode and mixed mode.|Kafka LRC-AS tunneling interface for UL,<br/>HTTP LRC-AS tunneling interface for DL.|**You must create the Kafka cluster**. before adding it to a LoRaWAN® or cellular AS routing profile.|

@@ -126,14 +126,14 @@ encrypted.</p>
   and 
 [Configuring a LoRaWAN® AS routing profile for HSM](../manage-as-routing-profiles/configure-lorawan-as-routing-profile-for-hsm.md).
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices** to open the Devices
     panel.
 
 2.  In the Add Devices frame of the Devices panel, click **Create**.
 
-    -\> By default, the New device dialog box appears with LoRaWAN® 1.1
+    -\&gt; By default, the New device dialog box appears with LoRaWAN® 1.1
     connectivity and OTAA configuration.
 
     ![](./_images/creating-an-otaa-device.png)
@@ -180,7 +180,7 @@ encrypted.</p>
     1.  In the **Manufacturer** list, select the manufacturer of the
         device. If it is not in the list, contact your operator.
 
-        -\> It populates the **Model** list with the device models of
+        -\&gt; It populates the **Model** list with the device models of
         the manufacturer.
 
     2.  In the **Model** list, select the model of the device. If
@@ -188,7 +188,7 @@ encrypted.</p>
         supported ISM bands. If the model is not in the list, contact
         your operator.
 
-        -\> The dialog box is updated with the model configuration. If
+        -\&gt; The dialog box is updated with the model configuration. If
         the model supports LoRaWAN® 1.1, the dialog box is updated with
         related parameters.
 
@@ -247,12 +247,12 @@ encrypted.</p>
 
     1.  From the **Key format** list, select **RSA encrypted**.
 
-        -\> The **RSA encrypted AppKey**box appears.
+        -\&gt; The **RSA encrypted AppKey**box appears.
 
-        -\> The **RSA encrypted NwkKey** box also appears if the model
+        -\&gt; The **RSA encrypted NwkKey** box also appears if the model
         you have selected supports LoRaWAN® 1.1.
 
-    2.   Click Download RSA Public Key
+    2.  &nbsp;Click Download RSA Public Key
         to download it in X.509 SubjectPublicKeyInfo /OpenSSL PEM
         format.
 
@@ -270,9 +270,9 @@ encrypted.</p>
         - `appKey.bin` is the AppKey in binary format. For example, you
           can set `appKey.bin` by executing the following commands:
 
-          - echo `{MY_APPKEY_IN_HEXA}` \> `appKey.hex`
+          - echo `{MY_APPKEY_IN_HEXA}` \&gt; `appKey.hex`
 
-          - cat `appKey.hex` \| xxd --r --p \> `appKey.bin`
+          - cat `appKey.hex` \| xxd --r --p \&gt; `appKey.bin`
 
         - `nwkKey.bin` is the NwkKey in binary format
 
@@ -380,10 +380,10 @@ encrypted.</p>
 
 10. Click **Create**.
 
-    -\> If the process takes time, a message tells you that you will
+    -\&gt; If the process takes time, a message tells you that you will
     receive an email when finished.
 
-    -\> The device is displayed in the device list.
+    -\&gt; The device is displayed in the device list.
 
 ## Creating an ABP device
 
@@ -404,14 +404,14 @@ You must have the following information ready to be used:
 later as described in [Allocating a connectivity plan](../manage-device-network/manage-connectivity-plan-device.md#allocating-a-connectivity-plan)
 and [Allocating an AS routingprofile](../manage-device-network/manage-as-routing-profile-device.md#allocating-an-as-routing-profile).
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices** to open the Devices
     panel.
 
 2.  In the Add Devices frame, click **Create**.
 
-    -\> By default, the New device dialog box appears with LoRaWAN® 1.0
+    -\&gt; By default, the New device dialog box appears with LoRaWAN® 1.0
     connectivity and OTAA configuration.
 
 3.  In the Administrative data frame, enter the following information:
@@ -445,7 +445,7 @@ and [Allocating an AS routingprofile](../manage-device-network/manage-as-routing
     1.  In the **Manufacturer** list, select the manufacturer of the
         device. If it is not in the list, contact your operator.
 
-        -\> It populates the **Model** list with the device's models of
+        -\&gt; It populates the **Model** list with the device's models of
         the manufacturer.
 
     2.  In the **Model** list, select the model of the device. If
@@ -453,14 +453,14 @@ and [Allocating an AS routingprofile](../manage-device-network/manage-as-routing
         supported ISM bands. If the model is not in the list, contact
         your operator.
 
-        -\> The dialog box is updated with the model configuration. If
+        -\&gt; The dialog box is updated with the model configuration. If
         the model supports LoRaWAN® 1.1, the dialog box is updated with
         related parameters.
 
     3.  In the **Device activation** list, select **Activation By
         Personalization (ABP)**.
 
-        -\> The dialog box is updated with ABP configuration.
+        -\&gt; The dialog box is updated with ABP configuration.
 
         
         ![](./_images/creating-an-abp-device.png)
@@ -567,10 +567,10 @@ and [Allocating an AS routingprofile](../manage-device-network/manage-as-routing
 
 4.  Click **Create**.
 
-    -\> If the process takes time, a message tells you that you will
+    -\&gt; If the process takes time, a message tells you that you will
     receive an email when finished.
 
-    -\> The device is displayed in the device list.
+    -\&gt; The device is displayed in the device list.
 
 ## More about the AppSKey for ABP devices
 

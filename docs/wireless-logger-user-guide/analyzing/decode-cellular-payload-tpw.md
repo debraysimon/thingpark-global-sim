@@ -14,7 +14,7 @@ If the payload contains text data, the cellular decoder converts it and
 displays the text strings in addition to the raw hexadecimal format
 displayed by default.
 
- 
+&nbsp;
 
 1.  (Recommended) Refine your search regarding the type of packets your
     want to decode. You can only decode packets including data. For more
@@ -25,7 +25,7 @@ displayed by default.
 
 3.  Click **Refresh** icon.
 
-    -\> All packets of the current page of the Last packets list corresponding to the
+    -\&gt; All packets of the current page of the Last packets list corresponding to the
     selected decoder have their payloads decoded.
 
 4.  Do one of the following:
@@ -33,7 +33,7 @@ displayed by default.
     - To display a specific payload, click **+** icon on the left side
       of the packet.
 
-      -\> The string text is displayed below the payload in raw format.
+      -\&gt; The string text is displayed below the payload in raw format.
       
       ![](./_images/cellulardecodedpayload.png)
 

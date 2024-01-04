@@ -1,4 +1,3 @@
-
 # Device Manager settings
 
 The Settings panel displays information about the account of the
@@ -43,7 +42,7 @@ and [Changing the device model](manage-a-device/change-device-model.md)
 You must have read-write access. Read more\... For more information, see
 [Opening a panel and checking your read-/write access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
- 
+&nbsp;
 
 1.  Click **Settings** in the navigation panel to open the Settings
     panel.
@@ -114,7 +113,7 @@ You must have read-write access to Device Manager to set alarms
 notifications emails. Read more\... For more information, see 
 [Opening a panel and checking your read-/write access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
- 
+&nbsp;
 
 1.  Click **Settings** in the navigation panel to open the Settings
     panel.
@@ -133,7 +132,7 @@ notifications emails. Read more\... For more information, see
 
 6.  Click **Save**.
 
-    -\> The recipients registered will receive an email whenever an
+    -\&gt; The recipients registered will receive an email whenever an
     alarm is triggered on any device.
 
 ## Viewing/Setting an alarm notification email in advanced mode
@@ -169,10 +168,10 @@ You must have read-write access to Device Manager to set alarms
 notifications emails. Read more\... For more information, see [Opening a panel and checking your read-/write access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
 **Tip** If you want to see who receives alarm notification emails for
-which alarms state, click **Settings \>** **Switch to the advanced
+which alarms state, click **Settings \&gt;** **Switch to the advanced
 mode** and do not click **Save**.
 
- 
+&nbsp;
 
 1.  Apply all steps described in [Setting alarm notification emails in     basic mode](#setting-alarm-notification-emails-in-basic-mode)
     entering the email addresses of all the recipients you want to
@@ -180,7 +179,7 @@ mode** and do not click **Save**.
 
 2.  Click **Switch to the advanced mode**.
 
-    -\> All the recipients email addresses have been copied in all alarm
+    -\&gt; All the recipients email addresses have been copied in all alarm
     state areas.
 
 3.  In the Alarm state area that you want, select the recipient you do
@@ -191,10 +190,10 @@ mode** and do not click **Save**.
 
 4.  Click **Save**.
 
-    -\> The recipients registered will receive an email when the
+    -\&gt; The recipients registered will receive an email when the
     corresponding alarm state is reached for any device.
 
-    -\> Next time you open the Settings panel, the Alarm notifications
+    -\&gt; Next time you open the Settings panel, the Alarm notifications
     frame will appear with the advanced mode.
 
 To learn more how you can use alarms to identify and prioritize device

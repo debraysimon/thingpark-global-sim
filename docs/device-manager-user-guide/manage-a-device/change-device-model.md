@@ -32,7 +32,7 @@ For more information, see [More about models and manufacturers](#more-about-mode
 2.  In the **Manufacturer** list of the Device frame, select the
     manufacturer you want.
 
-    -\> It populates the **Model** list with models of the manufacturer
+    -\&gt; It populates the **Model** list with models of the manufacturer
     that are compatible with the current model of the device.
 
 3.  In the **Model** list, select the compatible model you want. If

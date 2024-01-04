@@ -20,7 +20,7 @@ device that you can monitor:
 
 - Network coverage (LoRaWAN® only).
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices** to display the Devices
     panel, then click the **List** or the **Map** tab.

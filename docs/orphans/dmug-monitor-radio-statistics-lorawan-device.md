@@ -39,7 +39,7 @@ On the charts, you can display the following details for each device:
 - Clicking an item of the caption makes it disappear/appear in the chart
   and adjusts the scale.
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices** to display the Devices
     panel, then click the List or the **Map** tab.

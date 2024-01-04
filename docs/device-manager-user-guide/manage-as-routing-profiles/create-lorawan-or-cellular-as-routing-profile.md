@@ -23,7 +23,7 @@ routing profile. For more information, see [Changing the default AS routing prof
 cellular devices. When creating a cellular AS routing profile, do not
 activate the Hardware Security Module (HSM) if available.
 
- 
+&nbsp;
 
 1.  In the AS routing profiles panel, click **Create** in the Add AS
     routing profiles frame.
@@ -41,5 +41,5 @@ activate the Hardware Security Module (HSM) if available.
 
 1.  Click **Create**.
 
-    -\> The new LoRaWAN® or cellular AS routing profile in message mode
+    -\&gt; The new LoRaWAN® or cellular AS routing profile in message mode
     is created and opened in edit mode.

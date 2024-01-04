@@ -25,16 +25,16 @@ an HSM installed on your operator platform and a connectivity plan with
 the **Hardware Security Module (HSM) protection** parameter set. For
 more information, see [LoRaWAN® unicast connectivity plan details](../../device-manager-user-guide/reference-information.md#lorawan-unicast-connectivity-plan-details).
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **AS routing profiles**.
 
-    -\> The AS routing profile panel opens.
+    -\&gt; The AS routing profile panel opens.
 
 2.  In the AS routing profile frame, click the AS routing profile you
     want to activate the HSM, and click **Edit**.
 
-    -\> The Hardware Security Module (HSM) frame appears in the AS
+    -\&gt; The Hardware Security Module (HSM) frame appears in the AS
     routing profile if you have a connectivity plan enabled for HSM.
 
     ![](./_images/configuring-a-lorawan-as-routing.png)
@@ -42,7 +42,7 @@ more information, see [LoRaWAN® unicast connectivity plan details](../../device
 3.  In the Hardware Security Module (HSM) frame, click **Activate**. If
     a message appears, click **Yes**.
 
-    -\> The Generate AS transport key dialog box appears.
+    -\&gt; The Generate AS transport key dialog box appears.
     
     ![](./_images/configuring-a-lorawan-as-routing-1.png)
 
@@ -63,7 +63,7 @@ more information, see [LoRaWAN® unicast connectivity plan details](../../device
         Here is an example of RSA public key:
 
         ``` text
-        -----BEGIN PUBLIC KEY-----MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDuT5R7jWa0T4N9gwpRPNQxH62VuLYwW4qVb03DV28i0vhflIj2oERy2ahK9EawbojdY5ZOSjzeCoa8pfSgXbRNFBFdm/2xABEcI6X70iyW2g8qRZDeUA0AkGOAfqd+X52bWMgBK3TpwAVFlao6rqw3w9oWLOlVuiUsnwY/GJ2vDwIDAQAB-----END PUBLIC KEY----- 
+        -----BEGIN PUBLIC KEY-----MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDuT5R7jWa0T4N9gwpRPNQxH62VuLYwW4qVb03DV28i0vhflIj2oERy2ahK9EawbojdY5ZOSjzeCoa8pfSgXbRNFBFdm/2xABEcI6X70iyW2g8qRZDeUA0AkGOAfqd+X52bWMgBK3TpwAVFlao6rqw3w9oWLOlVuiUsnwY/GJ2vDwIDAQAB-----END PUBLIC KEY-----&nbsp;
         ```
 
 5.  In the Generate AS transport key dialog box, copy the content of
@@ -71,7 +71,7 @@ more information, see [LoRaWAN® unicast connectivity plan details](../../device
 
 6.  Click **Generate**.
 
-    -\> The **Encrypted AS transport key (hexadecimal string)** box
+    -\&gt; The **Encrypted AS transport key (hexadecimal string)** box
     appears containing your encrypted AS transport key.
 
 7.  Click **Copy**.
@@ -95,12 +95,12 @@ more information, see [LoRaWAN® unicast connectivity plan details](../../device
         openssl rsautl –decrypt -inkey rsa.private -in encrypted_astk.bin -out astk.txt
         ```
 
-        -\> The generated astk.txt file contains your AS transport key
+        -\&gt; The generated astk.txt file contains your AS transport key
         in hexadecimal format.
 
 10. Click **Close**.
 
-    -\> Now the AS routing profile has been activated for HSM, you can
+    -\&gt; Now the AS routing profile has been activated for HSM, you can
     associate it with an OTAA device that uses **Local Joint server with
     HSM protection**:
 
@@ -109,5 +109,5 @@ more information, see [LoRaWAN® unicast connectivity plan details](../../device
 
     - Or by editing it using [Allocating an AS routing       profile](../manage-device-network/manage-as-routing-profile-device.md#allocating-an-as-routing-profile).
 
-    -\> Your AS transport key in hexadecimal format is ready to be given
+    -\&gt; Your AS transport key in hexadecimal format is ready to be given
     to the owner of the application server to be configured on it.

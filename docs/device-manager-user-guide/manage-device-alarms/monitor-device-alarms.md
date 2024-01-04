@@ -40,13 +40,13 @@ cleared. It allows you to detect devices to investigate.
 If you prefer being notified when alarms are triggered and change states
 on your device fleet, see [Setting alarm notification emails](../device-manager-settings.md#setting-alarm-notification-emails).
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices**.
 
 2.  In the Devices panel, click the **List** tab.
 
-    -\> In the Alarm column, a color displays the number of alarms that
+    -\&gt; In the Alarm column, a color displays the number of alarms that
     have not been acknowledged, whether active or cleared, with the
     highest state of them. Green is for cleared alarm, that is
     considered as a final state. For more information about alarm
@@ -64,7 +64,7 @@ You can optionally use the **Not cleared** filter to restrict your
 search to active and not acknowledged alarms. For more information about
 alarms filters, see [More about searching alarms](#more-about-searching-alarms).
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices**.
 
@@ -72,7 +72,7 @@ alarms filters, see [More about searching alarms](#more-about-searching-alarms).
 
 3.  In the **List** tab, click **Sort Descending** in the Alarm column.
 
-    -\> All devices with greatest number of not acknowledged alarms of
+    -\&gt; All devices with greatest number of not acknowledged alarms of
     your fleet of devices are displayed. Devices with greatest number of
     devices are displayed first. **Note** The sorting only applies to
     the current page of the list.
@@ -84,7 +84,7 @@ alarms filters, see [More about searching alarms](#more-about-searching-alarms).
 5.  (Optional) In the **Search** frame, select **Not cleared** from the
     Alarm list.
 
-    -\> All devices with active and not acknowledged alarms are
+    -\&gt; All devices with active and not acknowledged alarms are
     displayed.
 
 ## Viewing not acknowledged alarms of a device with their current status
@@ -105,7 +105,7 @@ investigating.
 - By default, the Active alarm panel is set to filter not acknowledged
   alarms. If you want to see all alarms of the device, see [More about   searching alarms](#more-about-searching-alarms).
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices**.
 
@@ -114,7 +114,7 @@ investigating.
 3.  In the device list, select a device, and click **View**, or **Edit**
     if you have read-write access.
 
-    -\> In the navigation panel, the device appears displaying its
+    -\&gt; In the navigation panel, the device appears displaying its
     number of alarms that have not been acknowledged, whether active or
     cleared. This is the same number as the one displayed with a state
     color in the Alarm column of the device list. For more information,
@@ -124,12 +124,12 @@ investigating.
 
 4.  In the navigation panel, click **Alarms**.
 
-    -\> The Active alarms panel opens displaying active and cleared
+    -\&gt; The Active alarms panel opens displaying active and cleared
     alarms, all being not acknowledged.
 
     ![](./_images/viewing-not-acknowledged-alarms-1-1.png)
 
--\> The Active alarms frame displays:
+-\&gt; The Active alarms frame displays:
 
 - Only one row per alarm because it keeps updating according to state
   changes, except for alarms 012 and 013 related to MAC command
@@ -153,7 +153,7 @@ investigating.
     select **No Filter** or **Acknowledged** from the **Acked** list,
     then click **Search**.
 
-    -\> A check mark and who acknowledged it and when are displayed on
+    -\&gt; A check mark and who acknowledged it and when are displayed on
     acknowledged alarms.
 
     - 
@@ -169,7 +169,7 @@ acknowledgment status and severity state. You can search them in the
 Active alarms panel of the device. By default, this panel is set to
 filter not acknowledged alarms.
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices**.
 
@@ -216,7 +216,7 @@ also filter cleared alarms whenever you want.
 - Its status before clearance appears in the Alarm history panel. For
   more information, see [Investigating a cleared alarm in the alarms   history of the   device](#investigating-a-cleared-alarm-in-the-alarms-history-of-the-device).
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices**.
 
@@ -231,12 +231,12 @@ also filter cleared alarms whenever you want.
 5.  In the Search frame, select **Cleared** from the **State** list to
     filter cleared alarms, and click **Search**.
 
-    -\> The Active alarm frame shows the cleared alarms of the device at
+    -\&gt; The Active alarm frame shows the cleared alarms of the device at
     the time they have been cleared. Clearance timestamp is displayed in
     the State column. Clearing conditions are displayed in the Alarm
     column.
 
-    -\> Latest created alarms are displayed first.
+    -\&gt; Latest created alarms are displayed first.
 
     ![](./_images/viewing-current-status-of.png)
 
@@ -271,7 +271,7 @@ This task makes you go from the Active alarm panel to the Alarm history
 panel of the device. It also shows you how to detect an instable
 situation of the device where an alarm keeps triggering and clearing.
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices**.
 
@@ -290,12 +290,12 @@ situation of the device where an alarm keeps triggering and clearing.
     and creation timestamps of the cleared alarm you want to
     investigate, and click **History** in the navigation panel.
 
-    -\> The Alarms history panel opens with a Search frame set by
+    -\&gt; The Alarms history panel opens with a Search frame set by
     default with no filter. For more information, see [More about     searching alarms](#more-about-searching-alarms).
 
     ![](./_images/investigating-a-cleared-alarm.png)
 
-    -\> In the Alarms history frame:
+    -\&gt; In the Alarms history frame:
 
     - Each row represents an alarm that have been cleared. It shows the
       status it had before clearance. Only the last status per alarm is
@@ -310,7 +310,7 @@ situation of the device where an alarm keeps triggering and clearing.
     **Alarm** list the name of the cleared alarm you want to
     investigate, and click **Search**.
 
-    -\> The last status before clearance of this alarm appears. The
+    -\&gt; The last status before clearance of this alarm appears. The
     information to check is:
 
     | Column                   | Description                                                                                                                                                              |
@@ -338,7 +338,7 @@ situation of the device where an alarm keeps triggering and clearing.
         information, see [Acknowledging alarms](acknowledge-alarms).
 
 9.  Repeat steps 6 and 7 to investigate another cleared alarm.
-    -\> If more than one state before clearance are displayed for the
+    -\&gt; If more than one state before clearance are displayed for the
     alarm, it means that the alarm keeps triggering and clearing. The
     device is instable.
     ![](./_images/investigating-a-cleared-alarm-2.png)
@@ -357,7 +357,7 @@ situation of the device where an alarm keeps triggering and clearing.
     1.  In the Alarm list of the Search frame, select another alarm to
         investigate, and click **Search**.
 
-        -\> If no state appears, it means that the alarm has been
+        -\&gt; If no state appears, it means that the alarm has been
         cleared for more than 15 days and no information is available.
 
     2.  (Optional) If you want to acknowledge the alarm, repeat step
@@ -369,7 +369,7 @@ In the Active alarms panel and the Alarms history panel, the Search
 frames allow to filter alarms to be able to deal with them with the
 right priority level.
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices** to display the Devices
     panel, then click the **List** tab.

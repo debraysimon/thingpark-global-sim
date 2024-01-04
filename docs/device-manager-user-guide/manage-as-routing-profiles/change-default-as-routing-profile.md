@@ -22,7 +22,7 @@ New device dialog box when creating a device.
 you will then have one default LoRaWAN® AS routing profile and one
 default cellular AS routing profile.
 
- 
+&nbsp;
 
 1.  In the AS routing profiles panel, select the AS routing profile you
     want to set as default, then click **Edit**.
@@ -31,11 +31,11 @@ default cellular AS routing profile.
 
 3.  Click **Save**.
 
-    -\> The **Is Default** checkbox is selected and displays: (This AS routing profile will be used by
+    -\&gt; The **Is Default** checkbox is selected and displays: (This AS routing profile will be used by
     default).
 
 4.  Click **Close**.
 
 5.  In the AS routing profiles frame, click **Refresh**.
 
-    -\> The AS routing profiles appears as **True** in the Is default column of the list.
+    -\&gt; The AS routing profiles appears as **True** in the Is default column of the list.

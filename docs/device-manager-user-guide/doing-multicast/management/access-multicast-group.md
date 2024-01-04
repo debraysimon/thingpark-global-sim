@@ -19,7 +19,7 @@ This task is mandatory to access then to:
 - The multicast group's alarms on the Alarms panel of the multicast
   group.
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Multicast groups**.
 
@@ -32,6 +32,6 @@ This task is mandatory to access then to:
 
 - If you want to open the multicast group in edit mode, click **Edit** ![](./../../_images/opening-a-panel-and-checking-1.png)
 
--\>The multicast group opens in the Multicast group panel.
+-\&gt;The multicast group opens in the Multicast group panel.
 
--\>It also appears in the navigation panel.
+-\&gt;It also appears in the navigation panel.

@@ -25,7 +25,7 @@ collapse it.
 
 1.  In the Last packets list, click **+** icon on the left side of a packet.
 
-    -\> The expandable panel of the packet opens.
+    -\&gt; The expandable panel of the packet opens.
 
 2.  To collapse the packet, click **-** icon on the left side of a packet.
 
@@ -38,9 +38,9 @@ click **Refresh**.
 
 1.  In the search bar, select the **Expand All** check box.
 
-    -\> All packets of the list open.
+    -\&gt; All packets of the list open.
 
 2.  To switch back to the collapsed view, clear the **Expand All** check
     box.
 
-    -\> All packets of the list close.
+    -\&gt; All packets of the list close.

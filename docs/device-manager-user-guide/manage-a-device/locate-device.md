@@ -1,4 +1,3 @@
-
 # Locating a device
 
 You can locate a device in two ways: network location or manual
@@ -24,7 +23,7 @@ The network location can report the device location from:
 The network location is the default location. It can be changed when
 creating the device and later. For more information, see [Manual location: locating a device or editing its location](#manual-location-locating-a-device-or-editing-its-location).
 
- 
+&nbsp;
 
 1.  Open a device in view mode.
 
@@ -59,7 +58,7 @@ If you have read-write access, use this task if you want to:
 
 - Device location history is not available in manual location.
 
- 
+&nbsp;
 
 1.  Open a device in edit mode.
 
@@ -79,7 +78,7 @@ If you have read-write access, use this task if you want to:
 
 5.  Click **Save** in the Device location dialog box.
 
-    -\> The maker has moved on the **Map** tab of the Devices panel.
+    -\&gt; The maker has moved on the **Map** tab of the Devices panel.
 
 ## Changing the device marker
 
@@ -87,7 +86,7 @@ Device markers let you spot devices on the map and can be changed.
 
 ![](../_images/changing-the-device-marker.png)
 
- 
+&nbsp;
 
 1.  Open a device in edit mode.
 
@@ -98,4 +97,4 @@ Device markers let you spot devices on the map and can be changed.
 
 4.  Click **Save**.
 
-    -\> The marker changes on the map.
+    -\&gt; The marker changes on the map.

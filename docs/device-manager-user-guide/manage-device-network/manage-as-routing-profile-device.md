@@ -66,7 +66,7 @@ Only one AS routing profile can be allocated to a device.
 
 6.  Click **Save**.
 
-    -\> The name of the associated AS routing profile appears in the
+    -\&gt; The name of the associated AS routing profile appears in the
     Network routing area.
 
 ## Changing the AS routing profile
@@ -83,7 +83,7 @@ LoRaWAN® or cellular device if applying [AS routing profile compatibility rules
   profiles.  
   For more information, see [Managing local application   servers](../manage-local-application-servers/index.md) and [Managing   AS routing profiles](../manage-as-routing-profiles/index.md).
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices** to display the Devices
     panel, then click the **List** or the **Map** tab.
@@ -115,7 +115,7 @@ LoRaWAN® or cellular device if applying [AS routing profile compatibility rules
 
 6.  Click **Save**.
 
-    -\> The name of the newly associated AS routing profile appears in
+    -\&gt; The name of the newly associated AS routing profile appears in
     the Subscription area.
 
 ## Removing an AS routing profile
@@ -141,7 +141,7 @@ more information, see [Opening a panel and checking your read-/write access](../
 If you want to replace an AS routing profile on a device you still want
 to use, apply [Changing the AS routing profile](#changing-the-as-routing-profile).
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices** to display the Devices
     panel, then click the **List** or the **Map** tab.
@@ -161,4 +161,4 @@ to use, apply [Changing the AS routing profile](#changing-the-as-routing-profile
 
 5.  In the message that appears, click **Yes** to confirm.
 
-    -\> The AS routing profile is removed.
+    -\&gt; The AS routing profile is removed.

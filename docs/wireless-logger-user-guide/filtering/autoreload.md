@@ -13,4 +13,4 @@ refresh regularly the result of your search.
 
     ![](./_images/auto-reload.png)
 
-    -\> When the period of time has expired, the Last packets list refreshes automatically.
+    -\&gt; When the period of time has expired, the Last packets list refreshes automatically.

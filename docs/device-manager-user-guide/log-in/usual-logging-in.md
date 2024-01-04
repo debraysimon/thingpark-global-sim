@@ -18,7 +18,6 @@ The expiration time of passwords depends on the operator policy.
 2.  In the Sign in window that opens, click **Sign in with ThingPark**.
 
 ![](./_images/logging-in-for-the-first-time-6.png)
-    <img src="" border="0" />
 
 3.  In the login window that opens, type the email and password you have
     created online.

@@ -9,7 +9,7 @@ The key capabilities of ThingPark Wireless make it the market-leading
 providers with the ability to:
 
 - **Connect** devices with the most optimal performance - which is
-  critical to ensure IoT use case adoption & ROI
+  critical to ensure IoT use case adoption &amp; ROI
 - **Manage** the connectivity service and its underlying infrastructure
   efficiently
 - Guarantee the end-to-end **security** of the service they operate.

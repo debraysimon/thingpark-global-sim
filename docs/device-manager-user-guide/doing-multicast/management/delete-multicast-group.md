@@ -13,7 +13,7 @@ group status information will be lost.
 You must have read-write access to Device Manager. Read more\...For more
 information, see [Opening a panel and checking your read-/write access](../../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Multicast groups** to display the
     Multicast Groups panel.
@@ -29,8 +29,8 @@ information, see [Opening a panel and checking your read-/write access](../../us
 
 3.  In the message that appears, click **Yes** to confirm.
 
-    -\> If the process takes time, a message tells you that you will
+    -\&gt; If the process takes time, a message tells you that you will
     receive an email when finished.
 
-    -\> A feedback message is displayed in the lower-left corner of the
+    -\&gt; A feedback message is displayed in the lower-left corner of the
     screen saying that the multicast group has been deleted.

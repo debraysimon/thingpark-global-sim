@@ -51,7 +51,7 @@ For more information, see [LRC-AS Tunnel Interface Developer Guide].
 
 **Before you begin** The application server must be opened in edit mode.
 
- 
+&nbsp;
 
 1.  In the Application server frame, select from the **Content Type**
     list the content type that matches the content type of the
@@ -61,5 +61,5 @@ For more information, see [LRC-AS Tunnel Interface Developer Guide].
 
 2.  Click **Save**.
 
-    -\>The Status frame of the Application server panel is updated with
+    -\&gt;The Status frame of the Application server panel is updated with
     your last modifications.

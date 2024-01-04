@@ -61,7 +61,7 @@ server:
 
 **Before you begin** The application server must be opened in edit mode.
 
- 
+&nbsp;
 
 1.  In the Uplink/downlink security frame of the application server,
     click **Activate**.
@@ -86,7 +86,7 @@ server:
 
 3.  Click **Save**.
 
-    -\> In the Uplink/downlink security frame the status appears as
+    -\&gt; In the Uplink/downlink security frame the status appears as
     Active, and the value of the AS ID is displayed.
 
     ![](./_images/activating-the-security-of-2.png)

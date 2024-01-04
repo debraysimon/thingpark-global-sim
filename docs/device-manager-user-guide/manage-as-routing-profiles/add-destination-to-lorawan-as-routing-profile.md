@@ -37,7 +37,7 @@ When added to the AS routing profile, a destination displays its status.
 
 - The LoRaWAN® AS routing profile must be opened in edit mode.
 
- 
+&nbsp;
 
 1.  In the Destinations frame of the AS routing profile panel, click
     **Add**.
@@ -82,7 +82,7 @@ When added to the AS routing profile, a destination displays its status.
 
 3.  Click **Add**.
 
-    -\> The application server appears in the Destinations frame
+    -\&gt; The application server appears in the Destinations frame
     displaying its status.
 
 4.  If you want to add another destination, click **Add**, and repeat
@@ -94,9 +94,9 @@ When added to the AS routing profile, a destination displays its status.
 
 5.  Click **Save** in the AS routing profile panel.
 
-    -\> The Status frame is updated with your last modifications.
+    -\&gt; The Status frame is updated with your last modifications.
 
-    -\> The LoRaWAN® AS routing profile is ready to be allocated to a
+    -\&gt; The LoRaWAN® AS routing profile is ready to be allocated to a
     LoRaWAN® device:
 
     - Either when creating the device.

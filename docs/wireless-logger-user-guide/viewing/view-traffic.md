@@ -70,7 +70,7 @@ This task also shows you how to reload the packets to refresh the Last packets l
     or [Cellular traffic overview](../cellular-traffic-tpw/cellular-traffic-overview)
 
 6.  Check the most important metadata of the packets that appear in
-    columns. 
+    columns.&nbsp;
     For more information, see [Uplink metadata columns](../lorawan-traffic/uplink-lorawan-packets.md#uplink-metadata-columns)
     and [Downlink metadata columns](../lorawan-traffic/downlink-lorawan-unicast-packets.md#downlink-metadata-columns).
 

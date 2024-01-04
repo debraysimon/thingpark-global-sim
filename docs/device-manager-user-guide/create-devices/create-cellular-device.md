@@ -25,7 +25,7 @@ required:
 to make the device work. You can associate them by editing the device
 later.
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices** to open the Devices
     panel.
@@ -35,7 +35,7 @@ later.
 3.  In the New device dialog box that appears, select **Cellular** from
     the Connectivity list.
 
-    -\> The dialog box is updated with cellular parameters.
+    -\&gt; The dialog box is updated with cellular parameters.
 
     ![](./_images/creating-a-cellular-device.png)
 
@@ -51,7 +51,7 @@ later.
 - To help you, type slowly in the box until a blue frame appears. If the
   frame is red, your data is not correct.
 
-   
+  &nbsp;
 
 1.  In the Administrative data frame, enter the following information:
 
@@ -98,7 +98,7 @@ later.
     - In the **IMSI** box: Enter the IMSI identifying the SIM card of
       the device (10 to 15 digits with or without separating dashes).
 
-      -\> If your operator or its connectivity supplier pre-provisions
+      -\&gt; If your operator or its connectivity supplier pre-provisions
       and manages SIM cards, the Ki associated with the IMSI you have
       entered will be recognized to identify an unallocated SIM card
       (**Automatic** must be selected in the **Key configuration**
@@ -123,7 +123,7 @@ later.
     1.  Select **Manual (RSA encrypted)**from the **Key configuration**
         list.
 
-        -\> The **RSA encrypted Ki**box appears.
+        -\&gt; The **RSA encrypted Ki**box appears.
 
     2.  Click **Download RSA Public Key** to download it in X.509
         SubjectPublicKeyInfo /OpenSSL PEM format.
@@ -141,9 +141,9 @@ later.
         - `ki.bin` is the Ki in binary format. For example, you can set
           `ki.bin` by executing the following commands:
 
-          - echo `{MY_KI_IN_HEXA}` \> `ki.hex`
+          - echo `{MY_KI_IN_HEXA}` \&gt; `ki.hex`
 
-          - cat `ki.hex` \| xxd --r --p \> `ki.bin`
+          - cat `ki.hex` \| xxd --r --p \&gt; `ki.bin`
 
         - `TWK1.pem` is the RSA Public Key in X.509
           SubjectPublicKeyInfo/OpenSSL PEM format
@@ -198,7 +198,7 @@ later.
 
 9.  Click **Create**.
 
-    -\> If the process takes time, a message tells you that you will
+    -\&gt; If the process takes time, a message tells you that you will
     receive an email when finished.
 
-    -\> The device is displayed in the device list.
+    -\&gt; The device is displayed in the device list.

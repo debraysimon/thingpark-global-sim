@@ -25,7 +25,7 @@ When acknowledged:
 **Before you begin** You must have read-write access to Device Manager.
 Read more\... For more information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices** to display the Devices
     panel, then click the **List** tab.
@@ -48,7 +48,7 @@ Read more\... For more information, see [Opening a panel and checking your read-
 
 7.  If a message is displayed, click **Yes** to confirm.
 
-    -\> If the Search frame, if the **Acked** filter is set to **No
+    -\&gt; If the Search frame, if the **Acked** filter is set to **No
     filter** or **Acknowledged**, a check mark and who acknowledged it
     and when are displayed on the alarm.
 

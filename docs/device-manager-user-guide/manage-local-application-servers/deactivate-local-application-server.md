@@ -28,7 +28,7 @@ local application server. Reactivating it is similar.
 You must have read-write access to Device Manager. Read more\... For
 more information, see [Opening a panel and checking your read-/write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
- 
+&nbsp;
 
 1.  Click **Application Servers** on the navigation panel to open the
     Application Servers panel.
@@ -36,7 +36,7 @@ more information, see [Opening a panel and checking your read-/write access](../
 2.  In the Application Servers frame, at the end of the row of the
     application server you want to deactivate, click **Edit**.
 
-    -\> The Application server panel opens.
+    -\&gt; The Application server panel opens.
 
 3.  In the Application Server frame, select **Deactivated** from the
     **Status** list.
@@ -51,4 +51,4 @@ more information, see [Opening a panel and checking your read-/write access](../
 
 7.  In the Application servers frame that appears, click **Refresh** ![](../_images/deleting-an-object.gif)
 
-    -\> The application server appears as **Deactivated** in the list.
+    -\&gt; The application server appears as **Deactivated** in the list.

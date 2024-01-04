@@ -52,7 +52,7 @@ The network server acts as a forwarding network server. Applies to Wireless Logg
 
 | Symbol                           | Name                    | Description                                                           |
 |----------------------------------|-------------------------|-----------------------------------------------------------------------|
-| ![](./_images/locationreport.png) | **Location report**     |                                                                       |
+| ![](./_images/locationreport.png) | **Location report**     | &nbsp;                                                                     |
 | ![](./_images/resetreport.png)    | **Device reset report** | Only available if Wireless Logger is attached to a subscriber account |
 
 ### Multicast
@@ -77,8 +77,8 @@ parameters apply the following rules:
 
 | Parameter                        | Green               | Orange                          | Red                 |
 |----------------------------------|---------------------|---------------------------------|---------------------|
-| **Signal-to-Noise Ratio (SNR)**  | `value ≥ - 8 dB`    | `- 13 dB ≤ value ≤ - 8 dB`      | `value < - 13 dB`   |
-| **Estimated Signal Power (ESP)** | `value ≥ - 100 dBm` | `- 110 dBm ≤ value ≤ - 100 dBm` | `value < - 110 dBm` |
+| **Signal-to-Noise Ratio (SNR)**  | `value ≥ - 8 dB`    | `- 13 dB ≤ value ≤ - 8 dB`      | `value &lt; - 13 dB`   |
+| **Estimated Signal Power (ESP)** | `value ≥ - 100 dBm` | `- 110 dBm ≤ value ≤ - 100 dBm` | `value &lt; - 110 dBm` |
 
 ### Spreading Factor or Data Rate
 

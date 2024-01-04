@@ -25,7 +25,7 @@ device you want.
 **Prerequisite**You must have read-write access to Device Manager. Read
 more\... For more information, see [Opening a panel and checking your read-write access](../use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices** to display the Devices
     panel, then click the **List** or the **Map** tab.
@@ -65,7 +65,7 @@ more\... For more information, see [Opening a panel and checking your read-write
 
 6.  Click **Save**.
 
-    -\> The alarm will be displayed in the Active alarms panel of the
+    -\&gt; The alarm will be displayed in the Active alarms panel of the
     device when the conditions are satisfied.
 
 ## Receiving alarm notification email

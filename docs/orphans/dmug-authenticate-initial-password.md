@@ -11,7 +11,7 @@ change this password.
 The initial password is not written in the account details email. Your
 vendor provides you with it by another mean.
 
- 
+&nbsp;
 
 1.  If your vendor did not provide you with your initial password,
     contact him/her.
@@ -21,22 +21,22 @@ vendor provides you with it by another mean.
 
 3.  In the Sign in window that opens, click **Sign in with ThingPark**.
 
-    <img src="../_images/logging-in-for-the-first-time-6.png" border="0" />
+    ![img](../device-manager-user-guide/log-in/_images/logging-in-for-the-first-time-6.png)
 
 4.  In the login window that opens, type the email and password that you
     were provided with, then click **Log In**.
 
-    <img src="../_images/logging-in-for-the-first-time-7.png" border="0" />
+    ![img](../device-manager-user-guide/log-in/_images/logging-in-for-the-first-time-7.png)
 
 5.  In the window that opens:
 
     1.  In the **New password** box: Type a new password.  
-        -\>A visual indicator lets you know the strength level of the
+        -\&gt;A visual indicator lets you know the strength level of the
         password.
 
     2.  In the **Confirm password** box: Type the same password.
 
-        <img src="../_images/logging-in-for-the-first-time-8.png" border="0" />
+        ![img](./_images/logging-in-for-the-first-time-8.png)
 
 6.  Click **Submit** to open Device Manager.
 

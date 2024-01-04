@@ -59,7 +59,7 @@ have read-write access to Device Manager:
 - **Kafka cluster** used for both LoRaWAN® and cellular in message and
   mixed modes.
 
- 
+&nbsp;
 
 1.  In the Application Servers panel, click **Create** in the Add
     application servers frame.
@@ -80,9 +80,9 @@ have read-write access to Device Manager:
 
 1.  Click **Create**.
 
-    -\> The new application server is created and opened in edit mode.
+    -\&gt; The new application server is created and opened in edit mode.
 
-    -\> By default, its content type is XML and its status is active.
+    -\&gt; By default, its content type is XML and its status is active.
 
     ![](./_images/creating-a-lorawan-or-a-cellular-2.png)
 

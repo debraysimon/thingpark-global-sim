@@ -4,7 +4,7 @@ This section describes step by step procedure on setting up LoRaWAN gateway with
 ## Step 1: Insert SIM card in the Gateway
 In this step, you need to insert the SIM card in the gateway. Please refer to the gateway manual on the steps to insert the SIM Card.
 
-## Step 2: Flash the gateway with Actility LRR image & Provision in TPE/TPW
+## Step 2: Flash the gateway with Actility LRR image &amp; Provision in TPE/TPW
 In this step, you need to flash the gateway with Actility LRR image and provision the gateway in ThingPark Enterprise (TPE) or ThingPark Wireless (TPW). Here are the instructions for installing LRR image for the following platform types:
 - [ThingPark Wireless](https://docs.thingpark.com/thingpark-wireless/7.2/docs/user-guide/manage-base-stations/install-thingpark-image/)
 - [ThingPark Enterprise](https://docs.thingpark.com/thingpark-enterprise/7.2/docs/user-guide/manage-base-stations/install-thingpark-image/install-lrr-package/)

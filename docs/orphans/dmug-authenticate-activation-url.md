@@ -7,24 +7,24 @@ password using this URL.
 By default, this time limit is fifteen minutes after the email is sent.
 For more information, contact your vendor.
 
- 
+&nbsp;
 
 1.  In the email, click the **Account Activation**.
 
 2.  In the page that opens in your browser, click **Click here to
     proceed**.
 
-    <img src="../_images/logging-in-for-the-first-time-1.png" border="0" />
+    ![img](./_images/logging-in-for-the-first-time-1.png)
 
 3.  In the page that opens:
 
     1.  In the **New Password** box: Type a password.  
-        -\> A visual indicator allows you to know the strength level of
+        -\&gt; A visual indicator allows you to know the strength level of
         the password.
 
     2.  In the **Confirm password** box: Type the same password.
 
-        <img src="../_images/logging-in-for-the-first-time-2.png" border="0" />
+        ![img](./_images/logging-in-for-the-first-time-2.png)
 
 4.  Click **Submit**.
 
@@ -35,13 +35,13 @@ For more information, contact your vendor.
 1.  In the page that opens, update your **First name**, **Last name**
     and **Phone number** if necessary.
 
-    <img src="../_images/logging-in-for-the-first-time-3.png" border="0" />
+    ![img](./_images/logging-in-for-the-first-time-3.png)
 
 2.  Click **Submit**.
 
-    -\> You are redirected to a page that confirms your account
+    -\&gt; You are redirected to a page that confirms your account
     modification.
 
-    <img src="../_images/logging-in-for-the-first-time-4.png" border="0" />
+    ![img](./_images/logging-in-for-the-first-time-4.png)
 
 3.  To complete the task, apply the steps described in [Usual logging in](../device-manager-user-guide/log-in/usual-logging-in.md).

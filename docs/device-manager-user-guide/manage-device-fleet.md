@@ -13,7 +13,7 @@ For more information, see [Opening a panel and checking your read-/write access]
 The Search frame located in the Devices panel proposes three ways to
 search LoRaWAN® and cellular devices.
 
- 
+&nbsp;
 
 1.  Restrict your search using the filters you want:
 
@@ -58,7 +58,7 @@ search LoRaWAN® and cellular devices.
 
 1.  Click **Search**.
 
-    -\> The search result is displayed in the **List** tab, and if the
+    -\&gt; The search result is displayed in the **List** tab, and if the
     device has a marker, in the **Map** tab.
 
 ## Device list
@@ -76,7 +76,7 @@ displayed devices:
 <table>
 <thead>
 <tr>
-<th> </th>
+<th>&nbsp;</th>
 <th>Information</th>
 </tr>
 </thead>
@@ -147,7 +147,7 @@ You must have read-write access to open the device in edit mode. The
 view mode is available to read-write access and read-only access. Read
 more\... For more information, see [Opening a panel and checking your read-/write access](use-interface.md#opening-a-panel-and-checking-your-read-write-access).
 
- 
+&nbsp;
 
 1.  In the devices list, select a row corresponding to a device.
 
@@ -155,13 +155,13 @@ more\... For more information, see [Opening a panel and checking your read-/writ
 
 - Click **View** at the end of the device row.
 
-  -\> The device is displayed in the navigation panel.
+  -\&gt; The device is displayed in the navigation panel.
 
   **Note** This view is read-only. You must click **Close** it if you want to edit the device.
 
 - Click **Edit** at the end of the device row.
 
-  -\> The device is displayed in the navigation panel.
+  -\&gt; The device is displayed in the navigation panel.
 
 ## Accessing a device from the map
 
@@ -179,13 +179,13 @@ If a device has a marker, you can:
 According to the choice of your operator, the map supports Google Maps,
 OpenStreetMap or Baidu Maps.
 
- 
+&nbsp;
 
 1.  In the Devices panel, click the **Map** tab.
 
 2.  In the Map, click a marker.
 
-    -\> A pop-up window displays the following information on the
+    -\&gt; A pop-up window displays the following information on the
     device: ![](_images/viewing-and-opening-a-device.png)
 
 3.  Click: he **Alarm** button to open the Active alarms panel of the device.

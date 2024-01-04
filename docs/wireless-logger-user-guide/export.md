@@ -38,10 +38,10 @@ the export file, see [LoRaWAN® export file](lorawan-traffic/lorawan-export-file
       export file as setting **Decoder** to **No decoding**.
 
     - Otherwise, enter or select the number of packets you want.
-      **Note** Exporting 10 000 packets takes about 25 seconds.
+      **Note** Exporting 10&nbsp;000 packets takes about 25 seconds.
 
 3.  Click **Export**.
 
-    -\> The export file downloads.
+    -\&gt; The export file downloads.
 
-    -\> For more information, see [LoRaWAN® export file](lorawan-traffic/lorawan-export-file) and [Cellular traffic details](cellular-traffic-tpw/cellular-traffic-details).
+    -\&gt; For more information, see [LoRaWAN® export file](lorawan-traffic/lorawan-export-file) and [Cellular traffic details](cellular-traffic-tpw/cellular-traffic-details).

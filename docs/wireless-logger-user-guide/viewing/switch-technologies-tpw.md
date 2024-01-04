@@ -16,4 +16,4 @@ and you can switch between connectivity protocols.
 
     ![](./_images/switching-between-lorawan-1.png)
 
-    -\> The search bar changes and the packets are loading.
+    -\&gt; The search bar changes and the packets are loading.

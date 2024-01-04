@@ -47,7 +47,7 @@ To delete your selection, click **Clear**.
     | ------ | ----------- |
     | **DevAddr Filtering** | Filters devices by Device address. Use the * character to enter a DevAddr part. Example: `*01234` | 
     | **DevEUI Filtering** |Filters devices by Device EUI. Use the * character to enter a DevEUI part. Example: `*01234` |
-    | **LRR Id Filtering** | Filters all packets received by a specific LRR base station as their best LRR. If the same uplink packet is received by several LRRs, filtering will apply to only the best LRR. The best LRR is the LRR receiving the uplink packet with the highest Signal-to-Noise Ratio. For more information, see [LoRaWAN® radio statistics](../lorawan-traffic/lorawan-traffic-overview.md#lorawan-radio-statistics) |
+    | **LRR Id Filtering** | Filters all packets received by a specific LRR base station as their best LRR. If the same uplink packet is received by several LRRs, filtering will apply to only the best LRR. The best LRR is the LRR receiving the uplink packet with the highest Signal-to-Noise Ratio.&nbsp;For more information, see [LoRaWAN® radio statistics](../lorawan-traffic/lorawan-traffic-overview.md#lorawan-radio-statistics) |
     | **Subs ID filtering** | Only available in Wireless Logger attached to a network partner account. The corresponding **Subscriber ID** column is located between the **Local Timestamp** and the **DevAddr** columns. |
     | **Packet Type** | Filters packets by type/direction of traffic or filters reports by selecting one or more items from the list (multivalued supported):<br/><br/>**For uplink packets**<br/>** - Uplink (Data only)**: Displays only uplink packets with applicative payload (no MAC commands, no ACK).<br/>**- Uplink (MAC + Data)**: Displays uplink packets including both applicative payload and MAC data (MAC commands, ACK).<br/>**- Uplink (MAC only)**: Displays uplink packets without applicative payload; that is to say, having only MAC commands and/or MAC acknowledgments. Empty packets are also counted as MAC-only packets.<br/>**- Uplink (Join)**: Displays Join Request packets.<br/><br/>**For downlink packets**<br/>**- Downlink Unicast (Data only)**: Displays only downlink unicast packets with applicative payload (no MAC commands, no ACK)<br/>.**- Downlink Unicast (MAC + Data)**: Displays downlink packets including both applicative payload and MAC data (MAC commands, ACK).<br/>**- Downlink Unicast (MAC only)**: Displays downlink unicast packets without applicative payload; that is to say, having only MAC commands and/or MAC acknowledgments. Empty packets are also counted as MAC-only packets.<br/>**- Downlink Unicast (Join)**: Displays Join Accept packets.<br/>**- Downlink Multicast**: Displays only downlink multicast packets with applicative payload. **Note:** Multicast packets do not include MAC commands/ACKs.<br/><br/>**For reports**<br/>**- Multicast Summary**: Displays only multicast summary reports related to a multicast group.<br/>**- Location**: Display location reports.<br/>**- Device Reset**: Displays reset notifications for ABP devices.|
     | **LRC Id Filtering** | Filters all packets routed to a specific LRC network server. | 
@@ -57,7 +57,7 @@ To delete your selection, click **Clear**.
 2.  Click **Refresh** to launch the
     search and reload packets.
 
-    -\> In the status bar, a message tells you the number of packets
+    -\&gt; In the status bar, a message tells you the number of packets
     loaded in the first page of results.
 
 3.  Click **Next** to check if the result of your search contain more

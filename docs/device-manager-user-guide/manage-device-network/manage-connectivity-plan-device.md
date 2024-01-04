@@ -53,7 +53,7 @@ more information, see [Opening a panel and checking your read-/write access](../
 
 6.  Click **Save**.
 
-    -\> The name of the associated connectivity plan appears in the
+    -\&gt; The name of the associated connectivity plan appears in the
     Subscription area.
 
 ## Changing the connectivity plan
@@ -89,7 +89,7 @@ more information, see [Opening a panel and checking your read-/write access](../
 
 6.  Click **Save**.
 
-    -\> The name of the newly associated connectivity plan appears in
+    -\&gt; The name of the newly associated connectivity plan appears in
     the Subscription area.
 
 ## Removing a connectivity plan
@@ -130,5 +130,5 @@ use, apply [Changing the connectivity plan](#changing-the-connectivity-plan).
 
 5.  In the message that appears, click **Yes** to confirm.
 
-    -\> The connectivity plan is removed from the Subscription area and
+    -\&gt; The connectivity plan is removed from the Subscription area and
     the device is deactivated.

@@ -20,7 +20,7 @@ edited and deleted in Device Manager by the read-write access end-users
 of a subscriber. Read-only access end-users only can open local
 application servers in view mode to check their parameters.
 
- 
+&nbsp;
 
 1.  Click **Application Servers** on the navigation panel to open the
     Application Servers panel:

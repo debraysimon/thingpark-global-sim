@@ -27,13 +27,13 @@ necessary. Read more\... For more information, see [Opening a panel and checking
 
 Alternatively, if you want to filter multicast groups, see [Searching multicast groups using filters](#searching-multicast-groups-using-filters).
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Multicast groups**.
 
-    -\> The Multicast Groups panels appears.
+    -\&gt; The Multicast Groups panels appears.
 
-    -\> It displays in the result area of the Search frame all the
+    -\&gt; It displays in the result area of the Search frame all the
     multicast groups created on your network.
 
 2.  Check the following information about the multicast groups:
@@ -65,11 +65,11 @@ Alternatively, if you want to filter multicast groups, see [Searching multicast 
 
 You can search multicast groups of your network using filters.
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Multicast groups**.
 
-    -\> The Multicast Groups panels appears.
+    -\&gt; The Multicast Groups panels appears.
 
 2.  In the Search frame, enter or select the following information in
     the filter you want to restrict your search:
@@ -83,6 +83,6 @@ You can search multicast groups of your network using filters.
 
 1.  Click **Search**.
 
-    -\> The result of your search appears in the list area of the Search
+    -\&gt; The result of your search appears in the list area of the Search
     frame. For more information on this result, see [Searching and viewing all the multicast groups of your network](#searching-and-viewing-all-the-multicast-groups-of-your-network)
     from step 2.

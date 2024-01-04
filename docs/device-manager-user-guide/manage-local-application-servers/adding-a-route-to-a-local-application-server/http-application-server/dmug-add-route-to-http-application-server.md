@@ -1,5 +1,3 @@
-
-
 # Adding the route to the HTTP application server
 
 You need the following information from the supplier of the application
@@ -62,7 +60,7 @@ server to add it one or more routes:
 
     2.  Click **Add**.
 
-        -\>The new destination is displayed in the Destinations list of
+        -\&gt;The new destination is displayed in the Destinations list of
         the Destinations frame.
 
         ![](./_images/adding-a-route-to-an-http-3.png)
@@ -79,12 +77,12 @@ server to add it one or more routes:
 
 6.  Click **Save** to keep all changes made on the application server.  
 
-    -\> The Status frame of the Application server panel is updated with
+    -\&gt; The Status frame of the Application server panel is updated with
     your last modifications.
 
     ![](./_images/adding-a-route-to-an-http-5.png)
 
-    -\>The application server destination is ready to be added to an AS
+    -\&gt;The application server destination is ready to be added to an AS
     routing profile:
 
     - If you want to add it to an existing AS routing profile, see

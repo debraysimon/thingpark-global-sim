@@ -9,7 +9,7 @@ sidebar_position: 3
 For devices supporting the feature, you can display the battery status
 information.
 
- 
+&nbsp;
 
 1.  Open a device in edit or view mode.
 

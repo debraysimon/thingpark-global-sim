@@ -37,7 +37,7 @@ You must have the following information ready to be used:
 |**Class B**|**Ping-slot period**,<br/>**DevEUI**,<br/>**DevAddr**,<br/>**NwkSKey**.|**Ping-slot period**,<br/>**DevEUI**,<br/>**DevAddr**,<br/>**FNwkSIntKey**,<br/>**SNwkSIntKey**,<br/>**NwkSEncKey**.|AppSKey (1),<br/>Verification code (2),<br/>Downlink frequency (MHz),<br/>Downlink data rate.|
 |**Class C**|**DevEUI**,<br/>**DevAddr**,<br/>**NwkSKey**.|**DevEUI**,<br/>**DevAddr**,<br/>**FNwkSIntKey**,<br/>**SNwkSIntKey**,<br/>**NwkSEncKey**.|AppSKey (1),<br/>Verification code (2),<br/>Downlink frequency (MHz),<br/>Downlink data rate.|
 
-(1) For more information, see [More about the AppSKey for ABP devices](../create-devices/create-lorawan-device.md#more-about-the-appskey-for-abp-devices).
+(1) For more information, see [More about the AppSKey for ABP&nbsp;devices](../create-devices/create-lorawan-device.md#more-about-the-appskey-for-abp-devices).
 
 (2) If you have subscribed to the Address Manager.
 
@@ -49,13 +49,13 @@ In additional the the multicast group must be associated with:
 base station group and not ready to work. You will have to add it a base
 station tag.
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Multicast groups**.
 
 2.  In the Multicast Groups panel that appears, click **Create**.
 
-    -\> By default, the New multicast group dialog box appears with
+    -\&gt; By default, the New multicast group dialog box appears with
     LoRaWAN® 1.0 and class B configuration.
 
     ![](./_images/creating-a-multicast-group-1.png)
@@ -74,7 +74,7 @@ station tag.
     - **LoRaWAN® version**: Select the LoRaWAN® version of the target
       multicast devices that will work with the multicast group.
 
-      -\> If 1.1 is selected, the New multicast group dialog box is
+      -\&gt; If 1.1 is selected, the New multicast group dialog box is
       refreshed with LoRaWAN® 1.1 parameters.
 
     - **Device EUI**: Enter the globally unique identifier of the
@@ -229,13 +229,13 @@ station tag.
 
 9.  Click **Create**.
 
-    -\> If the process takes time, a message tells you that you will
+    -\&gt; If the process takes time, a message tells you that you will
     receive an email when finished.
 
-    -\> The multicast group is displayed in the Search frame of the
+    -\&gt; The multicast group is displayed in the Search frame of the
     Multicast Groups panel.
 
-    -\> If you want to make the multicast group ready to work, see
+    -\&gt; If you want to make the multicast group ready to work, see
     [Adding a base station tag to a multicast     group](#adding-a-base-station-tag-to-a-multicast-group).
 
 ## Adding a base station tag to a multicast group
@@ -277,7 +277,7 @@ For more information about base station tags, see [Viewing, managing and removin
 3.  In the Tags area of the Multicast group that opens, click **Tags
     Management**.
 
-    -\> The Multicast Group Tag Manager opens.
+    -\&gt; The Multicast Group Tag Manager opens.
 
     ![](./_images/adding-a-base-station-tag.png)
 
@@ -293,7 +293,7 @@ For more information about base station tags, see [Viewing, managing and removin
 
 5.  Click **Add tag**.
 
-    -\> In the Multicast Group Tag Manager:
+    -\&gt; In the Multicast Group Tag Manager:
 
     - The tag is added to the tag list.
 
@@ -301,5 +301,5 @@ For more information about base station tags, see [Viewing, managing and removin
 
 6.  Click **Close**.
 
-    -\> Base stations of the added multicast group that have a known
+    -\&gt; Base stations of the added multicast group that have a known
     location appears on the map of the Multicast Group panel.

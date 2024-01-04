@@ -100,7 +100,7 @@ reset without notifying the network. Otherwise, you will lose the
 current state of the device by resetting the network server wrongly for
 this device.
 
- 
+&nbsp;
 
 1.  The following tree helps you diagnose and decide if necessary to
     reset the security context of a device.
@@ -126,7 +126,7 @@ reset without notifying the network. Otherwise, you will lose the
 current state of the device by resetting the network server wrongly for
 this device.
 
- 
+&nbsp;
 
 1.  In the navigation panel, click **Devices** to display the Devices
     panel, then click the **List** or the **Map** tab.
@@ -142,7 +142,7 @@ this device.
 4.  In the Security context area of the Troubleshooting frame, click **Reset security context**.
 
     ![](./_images/resetting-the-security-context-2.png)
-    -\> If new packets are sent by the device:
+    -\&gt; If new packets are sent by the device:
 
     - The network server will forward them to the application server.
 
