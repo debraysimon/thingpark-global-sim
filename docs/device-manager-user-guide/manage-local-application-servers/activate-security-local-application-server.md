@@ -34,7 +34,7 @@ uplink/downlink security of the application server.
 It is given by the supplier of the application server. The Tunnel
 interface authentication key is shared by the LRC and the application
 server to secure uplink and downlink packets passing through the tunnel
-interface. For more information, see the [LRC-AS Tunnel Interface Developer Guide].
+interface. For more information, see the [LRC-AS Tunnel Interface Developer Guide](https://docs.thingpark.com/thingpark-wireless/7.2/docs/user-guide-tpw/integrating-applications-with-tpw#lrc-as-tunnel-interface-developer-guide-for-cellular).
 
 When you provide a Tunnel interface authentication key, its entropy is
 computed by the system using Shannon's algorithm:

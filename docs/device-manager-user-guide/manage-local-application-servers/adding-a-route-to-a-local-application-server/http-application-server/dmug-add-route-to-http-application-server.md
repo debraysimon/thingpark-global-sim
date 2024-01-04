@@ -41,7 +41,7 @@ server to add it one or more routes:
             FPort**.
 
             For more information about LoRaWAN® reports and FPort, see
-            [LRC-AS Tunnel Interface Developer Guide].
+            [LRC-AS Tunnel Interface Developer Guide](https://docs.thingpark.com/thingpark-wireless/7.2/docs/user-guide-tpw/integrating-applications-with-tpw#lrc-as-tunnel-interface-developer-guide-for-cellular).
 
         - **For cellular devices**: There is no source port to define.
 

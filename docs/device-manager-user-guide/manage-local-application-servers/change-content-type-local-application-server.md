@@ -47,7 +47,7 @@ You can use one of the following content types:
   }
   ```
 
-For more information, see [LRC-AS Tunnel Interface Developer Guide].
+For more information, see [LRC-AS Tunnel Interface Developer Guide](https://docs.thingpark.com/thingpark-wireless/7.2/docs/user-guide-tpw/integrating-applications-with-tpw#lrc-as-tunnel-interface-developer-guide-for-cellular).
 
 **Before you begin** The application server must be opened in edit mode.
 
