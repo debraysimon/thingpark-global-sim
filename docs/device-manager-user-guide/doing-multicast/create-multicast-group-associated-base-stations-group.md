@@ -264,7 +264,7 @@ or will be located, or ask your operator for the tags you can use:
 
 Tags are created and added to base stations by operators, or network
 partners if base stations tagging is delegated. For more information,
-see [Operator user guide] and [Network Manager user guide].
+see [Operator user guide](https://docs.thingpark.com/thingpark-wireless/7.2/docs/user-guide-tpw/operator/) and [Network Manager user guide](https://docs.thingpark.com/thingpark-wireless/7.2/docs/user-guide-tpw/network-manager/).
 
 For more information about base station tags, see [Viewing, managing and removing base station tags in a multicast group](management/manage-general-settings-multicast-group.md#viewing-managing-and-removing-base-station-tags-in-a-multicast-group).
 

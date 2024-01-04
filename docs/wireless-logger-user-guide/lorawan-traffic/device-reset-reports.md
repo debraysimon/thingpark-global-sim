@@ -48,4 +48,4 @@ is implicitly provided by Wireless Logger through the
 Device reset reports are not associated with any LoRaWAN® frame counter
 since they are triggered by the ThingPark core network. These reset
 reports are also sent to application servers over the tunnel interface.
-For more details, see [LRC-AS Tunnel Interface Developer Guide](https://oss-api.thingpark.com/tpw/7.1/Core-Network/lrc-as-tunnel-lorawan/).
+For more details, see [LRC-AS Tunnel Interface Developer Guide](https://docs.thingpark.com/thingpark-wireless/7.2/docs/user-guide-tpw/integrating-applications-with-tpw#lrc-as-tunnel-interface-developer-guide-for-cellular).
