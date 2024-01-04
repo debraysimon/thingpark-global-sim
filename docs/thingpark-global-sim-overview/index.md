@@ -1,5 +1,6 @@
 ---
-sidebar_label: Overview
+sidebar_label: ThingPark Global SIM overview
+sidebar_position: 1
 ---
 
 # ThingPark Global SIM overview

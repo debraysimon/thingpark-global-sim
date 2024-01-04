@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Log in troubleshooting
 
 ## Your account is locked - Asking to unlock your account
@@ -5,8 +9,6 @@
 If you cannot log in Device Manager after three password attempts, your
 account is locked. You can log in again without the need of changing
 password by asking your account to be unlocked.
-
- 
 
 1.  Contact the vendor to unlock your account.
 

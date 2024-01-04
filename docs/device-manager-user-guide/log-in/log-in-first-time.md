@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Logging in for the first time
 
 ## Your account has been created by your vendor

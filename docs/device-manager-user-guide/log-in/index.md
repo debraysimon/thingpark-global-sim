@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Logging in Device Manager
 
 This topic shows you how to log in Device Manager for the first time and
